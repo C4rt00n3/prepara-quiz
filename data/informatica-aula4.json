@@ -5,121 +5,241 @@
   "questions": [
     {
       "id": "q1",
-      "statement": "A internet é:",
-      "difficulty": "facil",
+      "statement": "A internet é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Uma rede mundial de computadores"},
-        {"id": "b", "text": "Um programa"},
-        {"id": "c", "text": "Um hardware"},
-        {"id": "d", "text": "Um antivírus"}
+        {
+          "id": "a",
+          "text": "Uma rede mundial de computadores"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar um programa mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar um hardware como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que um antivírus e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "Para acessar sites usamos:",
-      "difficulty": "facil",
+      "statement": "Para acessar sites usamos:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Navegador"},
-        {"id": "b", "text": "Processador"},
-        {"id": "c", "text": "Memória RAM"},
-        {"id": "d", "text": "HD"}
+        {
+          "id": "a",
+          "text": "Navegador"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar processador como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que memória RAM e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar hD mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q3",
-      "statement": "Qual destes é um navegador?",
-      "difficulty": "facil",
+      "statement": "Qual destes é um navegador? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Google Chrome"},
-        {"id": "b", "text": "Windows"},
-        {"id": "c", "text": "Linux"},
-        {"id": "d", "text": "Excel"}
+        {
+          "id": "a",
+          "text": "Google Chrome"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que windows e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar linux mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar excel como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "Um site é identificado por:",
-      "difficulty": "medio",
+      "statement": "Um site é identificado por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "URL"},
-        {"id": "b", "text": "RAM"},
-        {"id": "c", "text": "CPU"},
-        {"id": "d", "text": "BIOS"}
+        {
+          "id": "a",
+          "text": "URL"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar rAM mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar cPU como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que bIOS e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "WWW significa:",
-      "difficulty": "medio",
+      "statement": "WWW significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "World Wide Web"},
-        {"id": "b", "text": "World Web Window"},
-        {"id": "c", "text": "Wide World Window"},
-        {"id": "d", "text": "Web World Wide"}
+        {
+          "id": "a",
+          "text": "World Wide Web"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar world Web Window como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que wide World Window e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar web World Wide mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Qual destes é um serviço da internet?",
-      "difficulty": "facil",
+      "statement": "Qual destes é um serviço da internet? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "E-mail"},
-        {"id": "b", "text": "Mouse"},
-        {"id": "c", "text": "Teclado"},
-        {"id": "d", "text": "Monitor"}
+        {
+          "id": "a",
+          "text": "E-mail"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que mouse e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar teclado mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar monitor como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "Download significa:",
-      "difficulty": "medio",
+      "statement": "Download significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Baixar arquivos"},
-        {"id": "b", "text": "Apagar arquivos"},
-        {"id": "c", "text": "Editar arquivos"},
-        {"id": "d", "text": "Criar arquivos"}
+        {
+          "id": "a",
+          "text": "Baixar arquivos"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar apagar arquivos mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar editar arquivos como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que criar arquivos e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Upload significa:",
-      "difficulty": "medio",
+      "statement": "Upload significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Enviar arquivos"},
-        {"id": "b", "text": "Apagar arquivos"},
-        {"id": "c", "text": "Formatar computador"},
-        {"id": "d", "text": "Editar arquivos"}
+        {
+          "id": "a",
+          "text": "Enviar arquivos"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar apagar arquivos como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que formatar computador e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar editar arquivos mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Pesquisar na internet pode ser feito com:",
-      "difficulty": "facil",
+      "statement": "Pesquisar na internet pode ser feito com:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Google"},
-        {"id": "b", "text": "Word"},
-        {"id": "c", "text": "Excel"},
-        {"id": "d", "text": "Paint"}
+        {
+          "id": "a",
+          "text": "Google"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que word e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar excel mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar paint como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "A internet permite:",
-      "difficulty": "facil",
+      "statement": "A internet permite:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Compartilhar informações"},
-        {"id": "b", "text": "Apenas jogar"},
-        {"id": "c", "text": "Somente imprimir"},
-        {"id": "d", "text": "Somente armazenar"}
+        {
+          "id": "a",
+          "text": "Compartilhar informações"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar apenas jogar mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar somente imprimir como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que somente armazenar e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     }

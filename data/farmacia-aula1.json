@@ -5,121 +5,241 @@
   "questions": [
     {
       "id": "q1",
-      "statement": "Qual é uma das funções do atendente de farmácia?",
-      "difficulty": "facil",
+      "statement": "Qual é uma das funções do atendente de farmácia? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Auxiliar no atendimento ao cliente"},
-        {"id": "b", "text": "Realizar cirurgias"},
-        {"id": "c", "text": "Prescrever medicamentos"},
-        {"id": "d", "text": "Diagnosticar doenças"}
+        {
+          "id": "a",
+          "text": "Auxiliar no atendimento ao cliente"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar realizar cirurgias mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar prescrever medicamentos como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que diagnosticar doenças e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "O atendente de farmácia deve sempre:",
-      "difficulty": "facil",
+      "statement": "O atendente de farmácia deve sempre:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Ignorar dúvidas do cliente"},
-        {"id": "b", "text": "Manter postura profissional"},
-        {"id": "c", "text": "Indicar qualquer medicamento"},
-        {"id": "d", "text": "Substituir o médico"}
+        {
+          "id": "a",
+          "text": "Priorizar ignorar dúvidas do cliente mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "b",
+          "text": "Manter postura profissional"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que indicar qualquer medicamento e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar substituir o médico mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "b"
     },
     {
       "id": "q3",
-      "statement": "A organização da farmácia é importante porque:",
-      "difficulty": "medio",
+      "statement": "A organização da farmácia é importante porque:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Facilita encontrar medicamentos"},
-        {"id": "b", "text": "Dificulta o atendimento"},
-        {"id": "c", "text": "Evita vendas"},
-        {"id": "d", "text": "Não tem importância"}
+        {
+          "id": "a",
+          "text": "Facilita encontrar medicamentos"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que dificulta o atendimento e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar evita vendas mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar não tem importância como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "A ética profissional envolve:",
-      "difficulty": "medio",
+      "statement": "A ética profissional envolve:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Respeito e responsabilidade"},
-        {"id": "b", "text": "Desorganização"},
-        {"id": "c", "text": "Mentir ao cliente"},
-        {"id": "d", "text": "Ignorar normas"}
+        {
+          "id": "a",
+          "text": "Respeito e responsabilidade"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar desorganização mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar mentir ao cliente como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que ignorar normas e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "O atendente de farmácia trabalha principalmente com:",
-      "difficulty": "facil",
+      "statement": "O atendente de farmácia trabalha principalmente com:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Medicamentos e clientes"},
-        {"id": "b", "text": "Máquinas industriais"},
-        {"id": "c", "text": "Veículos"},
-        {"id": "d", "text": "Ferramentas mecânicas"}
+        {
+          "id": "a",
+          "text": "Medicamentos e clientes"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar máquinas industriais como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que veículos e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar ferramentas mecânicas mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "A comunicação com o cliente deve ser:",
-      "difficulty": "facil",
+      "statement": "A comunicação com o cliente deve ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Clara e educada"},
-        {"id": "b", "text": "Confusa"},
-        {"id": "c", "text": "Ignorada"},
-        {"id": "d", "text": "Agressiva"}
+        {
+          "id": "a",
+          "text": "Clara e educada"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que confusa e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar ignorada mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar agressiva como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "O atendimento de qualidade envolve:",
-      "difficulty": "medio",
+      "statement": "O atendimento de qualidade envolve:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Atenção ao cliente"},
-        {"id": "b", "text": "Desinteresse"},
-        {"id": "c", "text": "Pressa"},
-        {"id": "d", "text": "Falta de cuidado"}
+        {
+          "id": "a",
+          "text": "Atenção ao cliente"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar desinteresse mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar pressa como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que falta de cuidado e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "A responsabilidade do atendente inclui:",
-      "difficulty": "medio",
+      "statement": "A responsabilidade do atendente inclui:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Seguir orientações da farmácia"},
-        {"id": "b", "text": "Ignorar regras"},
-        {"id": "c", "text": "Criar receitas"},
-        {"id": "d", "text": "Substituir farmacêuticos"}
+        {
+          "id": "a",
+          "text": "Seguir orientações da farmácia"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar ignorar regras como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que criar receitas e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar substituir farmacêuticos mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "O respeito ao cliente é:",
-      "difficulty": "facil",
+      "statement": "O respeito ao cliente é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Fundamental"},
-        {"id": "b", "text": "Opcional"},
-        {"id": "c", "text": "Desnecessário"},
-        {"id": "d", "text": "Irrelevante"}
+        {
+          "id": "a",
+          "text": "Fundamental"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que opcional e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar desnecessário mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar irrelevante como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "O trabalho em equipe na farmácia é importante para:",
-      "difficulty": "medio",
+      "statement": "O trabalho em equipe na farmácia é importante para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Melhorar o atendimento"},
-        {"id": "b", "text": "Gerar confusão"},
-        {"id": "c", "text": "Diminuir vendas"},
-        {"id": "d", "text": "Atrasar serviços"}
+        {
+          "id": "a",
+          "text": "Melhorar o atendimento"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar gerar confusão mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar diminuir vendas como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que atrasar serviços e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     }

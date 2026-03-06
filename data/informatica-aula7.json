@@ -5,121 +5,241 @@
   "questions": [
     {
       "id": "q1",
-      "statement": "Um navegador serve para:",
-      "difficulty": "facil",
+      "statement": "Um navegador serve para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Acessar sites na internet"},
-        {"id": "b", "text": "Criar programas"},
-        {"id": "c", "text": "Editar imagens"},
-        {"id": "d", "text": "Instalar hardware"}
+        {
+          "id": "a",
+          "text": "Acessar sites na internet"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar criar programas mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar editar imagens como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que instalar hardware e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "Qual destes é um navegador?",
-      "difficulty": "facil",
+      "statement": "Qual destes é um navegador? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Mozilla Firefox"},
-        {"id": "b", "text": "Excel"},
-        {"id": "c", "text": "Word"},
-        {"id": "d", "text": "PowerPoint"}
+        {
+          "id": "a",
+          "text": "Mozilla Firefox"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar excel como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que word e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar powerPoint mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q3",
-      "statement": "A barra de endereço serve para:",
-      "difficulty": "medio",
+      "statement": "A barra de endereço serve para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Digitar o endereço do site"},
-        {"id": "b", "text": "Salvar arquivos"},
-        {"id": "c", "text": "Criar pastas"},
-        {"id": "d", "text": "Enviar e-mails"}
+        {
+          "id": "a",
+          "text": "Digitar o endereço do site"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que salvar arquivos e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar criar pastas mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar enviar e-mails como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "Favoritos servem para:",
-      "difficulty": "medio",
+      "statement": "Favoritos servem para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Salvar sites para acesso rápido"},
-        {"id": "b", "text": "Excluir páginas"},
-        {"id": "c", "text": "Criar vírus"},
-        {"id": "d", "text": "Apagar histórico"}
+        {
+          "id": "a",
+          "text": "Salvar sites para acesso rápido"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar excluir páginas mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar criar vírus como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que apagar histórico e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Atualizar página significa:",
-      "difficulty": "medio",
+      "statement": "Atualizar página significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Recarregar o site"},
-        {"id": "b", "text": "Apagar site"},
-        {"id": "c", "text": "Salvar página"},
-        {"id": "d", "text": "Fechar navegador"}
+        {
+          "id": "a",
+          "text": "Recarregar o site"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar apagar site como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que salvar página e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar fechar navegador mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Abrir nova aba permite:",
-      "difficulty": "facil",
+      "statement": "Abrir nova aba permite:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Abrir outro site no mesmo navegador"},
-        {"id": "b", "text": "Desligar internet"},
-        {"id": "c", "text": "Excluir histórico"},
-        {"id": "d", "text": "Fechar navegador"}
+        {
+          "id": "a",
+          "text": "Abrir outro site no mesmo navegador"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que desligar internet e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar excluir histórico mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar fechar navegador como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "O histórico do navegador mostra:",
-      "difficulty": "medio",
+      "statement": "O histórico do navegador mostra:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Sites visitados"},
-        {"id": "b", "text": "Arquivos do computador"},
-        {"id": "c", "text": "Programas instalados"},
-        {"id": "d", "text": "Configurações do sistema"}
+        {
+          "id": "a",
+          "text": "Sites visitados"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar arquivos do computador mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar programas instalados como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que configurações do sistema e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Modo anônimo serve para:",
-      "difficulty": "medio",
+      "statement": "Modo anônimo serve para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Navegar sem salvar histórico"},
-        {"id": "b", "text": "Excluir vírus"},
-        {"id": "c", "text": "Acelerar internet"},
-        {"id": "d", "text": "Formatar computador"}
+        {
+          "id": "a",
+          "text": "Navegar sem salvar histórico"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar excluir vírus como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que acelerar internet e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar formatar computador mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Um navegador precisa de:",
-      "difficulty": "facil",
+      "statement": "Um navegador precisa de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Internet para acessar sites"},
-        {"id": "b", "text": "Scanner"},
-        {"id": "c", "text": "Impressora"},
-        {"id": "d", "text": "Mouse gamer"}
+        {
+          "id": "a",
+          "text": "Internet para acessar sites"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que scanner e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar impressora mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar mouse gamer como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "Fechar aba significa:",
-      "difficulty": "facil",
+      "statement": "Fechar aba significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Encerrar uma página aberta"},
-        {"id": "b", "text": "Apagar navegador"},
-        {"id": "c", "text": "Apagar internet"},
-        {"id": "d", "text": "Excluir sistema"}
+        {
+          "id": "a",
+          "text": "Encerrar uma página aberta"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar apagar navegador mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar apagar internet como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que excluir sistema e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     }

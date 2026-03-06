@@ -4,124 +4,244 @@
   "lesson": "Aula 9 - Interpretação de Receitas",
   "questions": [
     {
-      "id":"q1",
-      "statement":"Receita médica é:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Documento de prescrição de medicamentos"},
-        {"id":"b","text":"Nota fiscal"},
-        {"id":"c","text":"Contrato"},
-        {"id":"d","text":"Relatório financeiro"}
+      "id": "q1",
+      "statement": "Receita médica é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Documento de prescrição de medicamentos"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar nota fiscal mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar contrato como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que relatório financeiro e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q2",
-      "statement":"Receitas devem conter:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Nome do médico"},
-        {"id":"b","text":"Preço do medicamento"},
-        {"id":"c","text":"Nome da farmácia"},
-        {"id":"d","text":"CPF do cliente"}
+      "id": "q2",
+      "statement": "Receitas devem conter:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nome do médico"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar preço do medicamento como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que nome da farmácia e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar cPF do cliente mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q3",
-      "statement":"A assinatura do médico serve para:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Validar a receita"},
-        {"id":"b","text":"Enfeitar o documento"},
-        {"id":"c","text":"Controlar preço"},
-        {"id":"d","text":"Indicar desconto"}
+      "id": "q3",
+      "statement": "A assinatura do médico serve para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Validar a receita"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que enfeitar o documento e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar controlar preço mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar indicar desconto como unica estrategia, independentemente do contexto"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q4",
-      "statement":"Receitas ilegíveis devem ser:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Confirmadas com o farmacêutico"},
-        {"id":"b","text":"Ignoradas"},
-        {"id":"c","text":"Vendidas mesmo assim"},
-        {"id":"d","text":"Rasgadas"}
+      "id": "q4",
+      "statement": "Receitas ilegíveis devem ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Confirmadas com o farmacêutico"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar ignoradas mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar vendidas mesmo assim como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que rasgadas e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q5",
-      "statement":"Receitas de medicamentos controlados têm:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Controle especial"},
-        {"id":"b","text":"Nenhum controle"},
-        {"id":"c","text":"Validade eterna"},
-        {"id":"d","text":"Venda livre"}
+      "id": "q5",
+      "statement": "Receitas de medicamentos controlados têm:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Controle especial"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar nenhum controle como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que validade eterna e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar venda livre mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q6",
-      "statement":"O nome do paciente deve estar:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Na receita"},
-        {"id":"b","text":"Na caixa"},
-        {"id":"c","text":"No balcão"},
-        {"id":"d","text":"Na nota fiscal"}
+      "id": "q6",
+      "statement": "O nome do paciente deve estar:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Na receita"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que na caixa e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar no balcão mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar na nota fiscal como unica estrategia, independentemente do contexto"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q7",
-      "statement":"Data da receita indica:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Validade da prescrição"},
-        {"id":"b","text":"Preço"},
-        {"id":"c","text":"Quantidade em estoque"},
-        {"id":"d","text":"Fabricante"}
+      "id": "q7",
+      "statement": "Data da receita indica:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Validade da prescrição"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar preço mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar quantidade em estoque como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que fabricante e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q8",
-      "statement":"Dose do medicamento indica:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Quantidade a ser usada"},
-        {"id":"b","text":"Preço"},
-        {"id":"c","text":"Marca"},
-        {"id":"d","text":"Validade"}
+      "id": "q8",
+      "statement": "Dose do medicamento indica:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quantidade a ser usada"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar preço como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que marca e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar validade mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q9",
-      "statement":"Receitas devem ser guardadas para:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Controle e fiscalização"},
-        {"id":"b","text":"Decoração"},
-        {"id":"c","text":"Promoção"},
-        {"id":"d","text":"Marketing"}
+      "id": "q9",
+      "statement": "Receitas devem ser guardadas para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Controle e fiscalização"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que decoração e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar promoção mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar marketing como unica estrategia, independentemente do contexto"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q10",
-      "statement":"O atendente deve sempre:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Seguir orientação do farmacêutico"},
-        {"id":"b","text":"Ignorar regras"},
-        {"id":"c","text":"Alterar receita"},
-        {"id":"d","text":"Criar medicamento"}
+      "id": "q10",
+      "statement": "O atendente deve sempre:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Seguir orientação do farmacêutico"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar ignorar regras mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar alterar receita como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que criar medicamento e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     }
   ]
 }

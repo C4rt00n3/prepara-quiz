@@ -4,124 +4,244 @@
   "lesson": "Aula 8 - Formas Farmacêuticas",
   "questions": [
     {
-      "id":"q1",
-      "statement":"Comprimidos são medicamentos em forma:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Sólida"},
-        {"id":"b","text":"Líquida"},
-        {"id":"c","text":"Gasosa"},
-        {"id":"d","text":"Pastosa"}
+      "id": "q1",
+      "statement": "Comprimidos são medicamentos em forma:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sólida"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar líquida mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar gasosa como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que pastosa e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q2",
-      "statement":"Xarope é um medicamento:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Líquido"},
-        {"id":"b","text":"Sólido"},
-        {"id":"c","text":"Em pó"},
-        {"id":"d","text":"Gasoso"}
+      "id": "q2",
+      "statement": "Xarope é um medicamento:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Líquido"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar sólido como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que em pó e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar gasoso mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q3",
-      "statement":"Cápsulas possuem medicamento dentro de:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Revestimento gelatinoso"},
-        {"id":"b","text":"Plástico"},
-        {"id":"c","text":"Metal"},
-        {"id":"d","text":"Vidro"}
+      "id": "q3",
+      "statement": "Cápsulas possuem medicamento dentro de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Revestimento gelatinoso"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que plástico e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar metal mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar vidro como unica estrategia, independentemente do contexto"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q4",
-      "statement":"Pomadas são usadas geralmente:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Na pele"},
-        {"id":"b","text":"Por injeção"},
-        {"id":"c","text":"Via oral"},
-        {"id":"d","text":"Via nasal"}
+      "id": "q4",
+      "statement": "Pomadas são usadas geralmente:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Na pele"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar por injeção mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar via oral como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que via nasal e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q5",
-      "statement":"Injeções são administradas:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Por via intravenosa ou muscular"},
-        {"id":"b","text":"Por via oral"},
-        {"id":"c","text":"Por mastigação"},
-        {"id":"d","text":"Na pele apenas"}
+      "id": "q5",
+      "statement": "Injeções são administradas:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Por via intravenosa ou muscular"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar por via oral como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que por mastigação e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar na pele apenas mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q6",
-      "statement":"Medicamentos em gotas são geralmente:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Líquidos"},
-        {"id":"b","text":"Sólidos"},
-        {"id":"c","text":"Em pó"},
-        {"id":"d","text":"Gasosos"}
+      "id": "q6",
+      "statement": "Medicamentos em gotas são geralmente:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Líquidos"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que sólidos e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar em pó mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar gasosos como unica estrategia, independentemente do contexto"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q7",
-      "statement":"Cremes são utilizados:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Na aplicação tópica"},
-        {"id":"b","text":"Injetável"},
-        {"id":"c","text":"Via oral"},
-        {"id":"d","text":"Via intravenosa"}
+      "id": "q7",
+      "statement": "Cremes são utilizados:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Na aplicação tópica"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar injetável mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar via oral como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que via intravenosa e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q8",
-      "statement":"Supositórios são utilizados:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Via retal"},
-        {"id":"b","text":"Via oral"},
-        {"id":"c","text":"Via nasal"},
-        {"id":"d","text":"Via ocular"}
+      "id": "q8",
+      "statement": "Supositórios são utilizados:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Via retal"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar via oral como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que via nasal e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar via ocular mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q9",
-      "statement":"Sprays podem ser usados:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Via nasal ou oral"},
-        {"id":"b","text":"Via intravenosa"},
-        {"id":"c","text":"Via retal"},
-        {"id":"d","text":"Via ocular"}
+      "id": "q9",
+      "statement": "Sprays podem ser usados:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Via nasal ou oral"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que via intravenosa e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar via retal mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar via ocular como unica estrategia, independentemente do contexto"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q10",
-      "statement":"Formas farmacêuticas facilitam:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Administração do medicamento"},
-        {"id":"b","text":"Confusão do paciente"},
-        {"id":"c","text":"Erro médico"},
-        {"id":"d","text":"Perda do produto"}
+      "id": "q10",
+      "statement": "Formas farmacêuticas facilitam:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Administração do medicamento"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar confusão do paciente mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar erro médico como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que perda do produto e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     }
   ]
 }

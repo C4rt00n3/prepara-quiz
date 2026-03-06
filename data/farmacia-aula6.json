@@ -5,121 +5,241 @@
   "questions": [
     {
       "id": "q1",
-      "statement": "A higiene na farmácia é importante para:",
-      "difficulty": "facil",
+      "statement": "A higiene na farmácia é importante para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a","text": "Manter o ambiente seguro"},
-        {"id": "b","text": "Aumentar preços"},
-        {"id": "c","text": "Diminuir vendas"},
-        {"id": "d","text": "Evitar clientes"}
+        {
+          "id": "a",
+          "text": "Manter o ambiente seguro"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar aumentar preços mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar diminuir vendas como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que evitar clientes e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "Medicamentos devem ser organizados:",
-      "difficulty": "facil",
+      "statement": "Medicamentos devem ser organizados:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a","text": "Por categorias"},
-        {"id": "b","text": "Misturados"},
-        {"id": "c","text": "Sem ordem"},
-        {"id": "d","text": "No chão"}
+        {
+          "id": "a",
+          "text": "Por categorias"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar misturados como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que sem ordem e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar no chão mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q3",
-      "statement": "Produtos vencidos devem ser:",
-      "difficulty": "medio",
+      "statement": "Produtos vencidos devem ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a","text": "Descartados corretamente"},
-        {"id": "b","text": "Vendidos com desconto"},
-        {"id": "c","text": "Misturados com outros"},
-        {"id": "d","text": "Reutilizados"}
+        {
+          "id": "a",
+          "text": "Descartados corretamente"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que vendidos com desconto e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar misturados com outros mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar reutilizados como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "O uso de uniforme ajuda em:",
-      "difficulty": "facil",
+      "statement": "O uso de uniforme ajuda em:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a","text": "Identificação e higiene"},
-        {"id": "b","text": "Desorganização"},
-        {"id": "c","text": "Confusão"},
-        {"id": "d","text": "Nenhuma função"}
+        {
+          "id": "a",
+          "text": "Identificação e higiene"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar desorganização mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar confusão como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que nenhuma função e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Limpeza do ambiente deve ser:",
-      "difficulty": "facil",
+      "statement": "Limpeza do ambiente deve ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a","text": "Regular"},
-        {"id": "b","text": "Rara"},
-        {"id": "c","text": "Desnecessária"},
-        {"id": "d","text": "Somente mensal"}
+        {
+          "id": "a",
+          "text": "Regular"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar rara como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que desnecessária e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar somente mensal mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Armazenamento correto evita:",
-      "difficulty": "medio",
+      "statement": "Armazenamento correto evita:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a","text": "Danos aos medicamentos"},
-        {"id": "b","text": "Organização"},
-        {"id": "c","text": "Controle"},
-        {"id": "d","text": "Qualidade"}
+        {
+          "id": "a",
+          "text": "Danos aos medicamentos"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que organização e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar controle mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar qualidade como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "Temperatura inadequada pode:",
-      "difficulty": "medio",
+      "statement": "Temperatura inadequada pode:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a","text": "Alterar o medicamento"},
-        {"id": "b","text": "Melhorar o produto"},
-        {"id": "c","text": "Não causar efeito"},
-        {"id": "d","text": "Diminuir preço"}
+        {
+          "id": "a",
+          "text": "Alterar o medicamento"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar melhorar o produto mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar não causar efeito como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que diminuir preço e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Estoque deve ser controlado para:",
-      "difficulty": "facil",
+      "statement": "Estoque deve ser controlado para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a","text": "Evitar falta de produtos"},
-        {"id": "b","text": "Criar bagunça"},
-        {"id": "c","text": "Desorganizar vendas"},
-        {"id": "d","text": "Perder medicamentos"}
+        {
+          "id": "a",
+          "text": "Evitar falta de produtos"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar criar bagunça como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que desorganizar vendas e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar perder medicamentos mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Produtos devem ser armazenados:",
-      "difficulty": "medio",
+      "statement": "Produtos devem ser armazenados:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a","text": "Longe de calor excessivo"},
-        {"id": "b","text": "Ao sol"},
-        {"id": "c","text": "No chão"},
-        {"id": "d","text": "Ao ar livre"}
+        {
+          "id": "a",
+          "text": "Longe de calor excessivo"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que ao sol e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar no chão mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar ao ar livre como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "Boa organização melhora:",
-      "difficulty": "facil",
+      "statement": "Boa organização melhora:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a","text": "O atendimento"},
-        {"id": "b","text": "A confusão"},
-        {"id": "c","text": "O atraso"},
-        {"id": "d","text": "Os erros"}
+        {
+          "id": "a",
+          "text": "O atendimento"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar a confusão mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar o atraso como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que os erros e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     }

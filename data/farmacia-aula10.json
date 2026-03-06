@@ -4,124 +4,244 @@
   "lesson": "Aula 10 - Ética Profissional",
   "questions": [
     {
-      "id":"q1",
-      "statement":"Ética profissional significa:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Agir com responsabilidade e respeito"},
-        {"id":"b","text":"Ignorar regras"},
-        {"id":"c","text":"Buscar lucro apenas"},
-        {"id":"d","text":"Desrespeitar clientes"}
+      "id": "q1",
+      "statement": "Ética profissional significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agir com responsabilidade e respeito"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar ignorar regras mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar buscar lucro apenas como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que desrespeitar clientes e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q2",
-      "statement":"Sigilo profissional significa:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Guardar informações do cliente"},
-        {"id":"b","text":"Divulgar dados"},
-        {"id":"c","text":"Contar para colegas"},
-        {"id":"d","text":"Publicar na internet"}
+      "id": "q2",
+      "statement": "Sigilo profissional significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Guardar informações do cliente"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar divulgar dados como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que contar para colegas e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar publicar na internet mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q3",
-      "statement":"O atendente deve respeitar:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Clientes e colegas"},
-        {"id":"b","text":"Somente gerentes"},
-        {"id":"c","text":"Somente médicos"},
-        {"id":"d","text":"Ninguém"}
+      "id": "q3",
+      "statement": "O atendente deve respeitar:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Clientes e colegas"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que somente gerentes e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar somente médicos mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar ninguém como unica estrategia, independentemente do contexto"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q4",
-      "statement":"Postura profissional inclui:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Educação"},
-        {"id":"b","text":"Grosseria"},
-        {"id":"c","text":"Desinteresse"},
-        {"id":"d","text":"Desorganização"}
+      "id": "q4",
+      "statement": "Postura profissional inclui:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Educação"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar grosseria mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar desinteresse como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que desorganização e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q5",
-      "statement":"Cumprir normas da farmácia é:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Obrigatório"},
-        {"id":"b","text":"Opcional"},
-        {"id":"c","text":"Desnecessário"},
-        {"id":"d","text":"Raro"}
+      "id": "q5",
+      "statement": "Cumprir normas da farmácia é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Obrigatório"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar opcional como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que desnecessário e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar raro mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q6",
-      "statement":"Tratar clientes com respeito demonstra:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Profissionalismo"},
-        {"id":"b","text":"Fraqueza"},
-        {"id":"c","text":"Desorganização"},
-        {"id":"d","text":"Desinteresse"}
+      "id": "q6",
+      "statement": "Tratar clientes com respeito demonstra:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Profissionalismo"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que fraqueza e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar desorganização mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar desinteresse como unica estrategia, independentemente do contexto"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q7",
-      "statement":"Mentir ao cliente é:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Antiético"},
-        {"id":"b","text":"Aceitável"},
-        {"id":"c","text":"Normal"},
-        {"id":"d","text":"Obrigatório"}
+      "id": "q7",
+      "statement": "Mentir ao cliente é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Antiético"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar aceitável mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar normal como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que obrigatório e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q8",
-      "statement":"Responsabilidade profissional inclui:",
-      "difficulty":"medio",
-      "options":[
-        {"id":"a","text":"Seguir procedimentos"},
-        {"id":"b","text":"Ignorar regras"},
-        {"id":"c","text":"Desrespeitar colegas"},
-        {"id":"d","text":"Criar conflitos"}
+      "id": "q8",
+      "statement": "Responsabilidade profissional inclui:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Seguir procedimentos"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar ignorar regras como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que desrespeitar colegas e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar criar conflitos mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q9",
-      "statement":"Pontualidade no trabalho demonstra:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Compromisso"},
-        {"id":"b","text":"Desinteresse"},
-        {"id":"c","text":"Desorganização"},
-        {"id":"d","text":"Indisciplina"}
+      "id": "q9",
+      "statement": "Pontualidade no trabalho demonstra:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Compromisso"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que desinteresse e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar desorganização mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar indisciplina como unica estrategia, independentemente do contexto"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     },
     {
-      "id":"q10",
-      "statement":"Ética no trabalho melhora:",
-      "difficulty":"facil",
-      "options":[
-        {"id":"a","text":"Ambiente profissional"},
-        {"id":"b","text":"Conflitos"},
-        {"id":"c","text":"Problemas"},
-        {"id":"d","text":"Desordem"}
+      "id": "q10",
+      "statement": "Ética no trabalho melhora:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ambiente profissional"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar conflitos mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar problemas como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que desordem e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
-      "correctOptionId":"a"
+      "correctOptionId": "a"
     }
   ]
 }

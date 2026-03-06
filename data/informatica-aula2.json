@@ -5,121 +5,241 @@
   "questions": [
     {
       "id": "q1",
-      "statement": "Hardware é:",
-      "difficulty": "facil",
+      "statement": "Hardware é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Parte física do computador"},
-        {"id": "b", "text": "Programa de computador"},
-        {"id": "c", "text": "Arquivo de texto"},
-        {"id": "d", "text": "Sistema operacional"}
+        {
+          "id": "a",
+          "text": "Parte física do computador"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar programa de computador mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar arquivo de texto como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que sistema operacional e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "Software é:",
-      "difficulty": "facil",
+      "statement": "Software é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Parte física"},
-        {"id": "b", "text": "Programa ou sistema que roda no computador"},
-        {"id": "c", "text": "Monitor"},
-        {"id": "d", "text": "Teclado"}
+        {
+          "id": "a",
+          "text": "Priorizar parte física mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "b",
+          "text": "Programa ou sistema que roda no computador"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que monitor e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar teclado mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "b"
     },
     {
       "id": "q3",
-      "statement": "Qual destes é um software?",
-      "difficulty": "facil",
+      "statement": "Qual destes é um software? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Windows"},
-        {"id": "b", "text": "Mouse"},
-        {"id": "c", "text": "Monitor"},
-        {"id": "d", "text": "Teclado"}
+        {
+          "id": "a",
+          "text": "Windows"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que mouse e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar monitor mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar teclado como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "O Windows é um:",
-      "difficulty": "facil",
+      "statement": "O Windows é um:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Sistema operacional"},
-        {"id": "b", "text": "Processador"},
-        {"id": "c", "text": "Disco rígido"},
-        {"id": "d", "text": "Mouse"}
+        {
+          "id": "a",
+          "text": "Sistema operacional"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar processador mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar disco rígido como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que mouse e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Qual destes é hardware?",
-      "difficulty": "facil",
+      "statement": "Qual destes é hardware? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Teclado"},
-        {"id": "b", "text": "Word"},
-        {"id": "c", "text": "Excel"},
-        {"id": "d", "text": "Windows"}
+        {
+          "id": "a",
+          "text": "Teclado"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar word como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que excel e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar windows mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "O Excel é um:",
-      "difficulty": "medio",
+      "statement": "O Excel é um:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Programa de planilhas"},
-        {"id": "b", "text": "Sistema operacional"},
-        {"id": "c", "text": "Disco rígido"},
-        {"id": "d", "text": "Mouse"}
+        {
+          "id": "a",
+          "text": "Programa de planilhas"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que sistema operacional e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar disco rígido mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar mouse como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "O Word é utilizado para:",
-      "difficulty": "facil",
+      "statement": "O Word é utilizado para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Criar documentos"},
-        {"id": "b", "text": "Criar jogos"},
-        {"id": "c", "text": "Editar vídeos"},
-        {"id": "d", "text": "Controlar hardware"}
+        {
+          "id": "a",
+          "text": "Criar documentos"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar criar jogos mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar editar vídeos como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que controlar hardware e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Software de sistema é responsável por:",
-      "difficulty": "medio",
+      "statement": "Software de sistema é responsável por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Gerenciar o computador"},
-        {"id": "b", "text": "Apenas imprimir"},
-        {"id": "c", "text": "Apenas navegar na internet"},
-        {"id": "d", "text": "Apenas digitar textos"}
+        {
+          "id": "a",
+          "text": "Gerenciar o computador"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar apenas imprimir como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que apenas navegar na internet e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar apenas digitar textos mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Qual dos seguintes é um exemplo de software de aplicação?",
-      "difficulty": "medio",
+      "statement": "Qual dos seguintes é um exemplo de software de aplicação? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Excel"},
-        {"id": "b", "text": "BIOS"},
-        {"id": "c", "text": "Processador"},
-        {"id": "d", "text": "HD"}
+        {
+          "id": "a",
+          "text": "Excel"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que bIOS e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar processador mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar hD como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "Programas de computador são chamados de:",
-      "difficulty": "facil",
+      "statement": "Programas de computador são chamados de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Software"},
-        {"id": "b", "text": "Hardware"},
-        {"id": "c", "text": "CPU"},
-        {"id": "d", "text": "Memória"}
+        {
+          "id": "a",
+          "text": "Software"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar hardware mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar cPU como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que memória e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     }

@@ -5,121 +5,241 @@
   "questions": [
     {
       "id": "q1",
-      "statement": "O que é um sistema operacional?",
-      "difficulty": "facil",
+      "statement": "O que é um sistema operacional? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Programa que gerencia o computador"},
-        {"id": "b", "text": "Um tipo de hardware"},
-        {"id": "c", "text": "Apenas um aplicativo"},
-        {"id": "d", "text": "Um antivírus"}
+        {
+          "id": "a",
+          "text": "Programa que gerencia o computador"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar um tipo de hardware mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar apenas um aplicativo como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que um antivírus e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "Qual destes é um sistema operacional?",
-      "difficulty": "facil",
+      "statement": "Qual destes é um sistema operacional? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Windows"},
-        {"id": "b", "text": "Excel"},
-        {"id": "c", "text": "Word"},
-        {"id": "d", "text": "PowerPoint"}
+        {
+          "id": "a",
+          "text": "Windows"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar excel como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que word e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar powerPoint mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q3",
-      "statement": "O sistema operacional permite:",
-      "difficulty": "medio",
+      "statement": "O sistema operacional permite:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Interação entre usuário e computador"},
-        {"id": "b", "text": "Apenas impressão"},
-        {"id": "c", "text": "Somente armazenamento"},
-        {"id": "d", "text": "Somente navegação"}
+        {
+          "id": "a",
+          "text": "Interação entre usuário e computador"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que apenas impressão e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar somente armazenamento mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar somente navegação como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "O Linux é um:",
-      "difficulty": "facil",
+      "statement": "O Linux é um:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Sistema operacional"},
-        {"id": "b", "text": "Hardware"},
-        {"id": "c", "text": "Processador"},
-        {"id": "d", "text": "Editor de texto"}
+        {
+          "id": "a",
+          "text": "Sistema operacional"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar hardware mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar processador como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que editor de texto e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "O macOS pertence à empresa:",
-      "difficulty": "medio",
+      "statement": "O macOS pertence à empresa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Apple"},
-        {"id": "b", "text": "Microsoft"},
-        {"id": "c", "text": "Google"},
-        {"id": "d", "text": "IBM"}
+        {
+          "id": "a",
+          "text": "Apple"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar microsoft como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que google e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar iBM mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "O sistema operacional controla:",
-      "difficulty": "medio",
+      "statement": "O sistema operacional controla:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Hardware e software"},
-        {"id": "b", "text": "Apenas teclado"},
-        {"id": "c", "text": "Somente internet"},
-        {"id": "d", "text": "Somente mouse"}
+        {
+          "id": "a",
+          "text": "Hardware e software"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que apenas teclado e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar somente internet mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar somente mouse como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "A área principal do Windows é chamada de:",
-      "difficulty": "facil",
+      "statement": "A área principal do Windows é chamada de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Área de trabalho"},
-        {"id": "b", "text": "Painel de controle"},
-        {"id": "c", "text": "Navegador"},
-        {"id": "d", "text": "Sistema"}
+        {
+          "id": "a",
+          "text": "Área de trabalho"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar painel de controle mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar navegador como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que sistema e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Arquivos e programas podem ser organizados em:",
-      "difficulty": "facil",
+      "statement": "Arquivos e programas podem ser organizados em:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Pastas"},
-        {"id": "b", "text": "Memórias"},
-        {"id": "c", "text": "Circuitos"},
-        {"id": "d", "text": "Processos"}
+        {
+          "id": "a",
+          "text": "Pastas"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar memórias como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que circuitos e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar processos mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "O botão Iniciar serve para:",
-      "difficulty": "medio",
+      "statement": "O botão Iniciar serve para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Acessar programas e configurações"},
-        {"id": "b", "text": "Desligar monitor"},
-        {"id": "c", "text": "Apagar arquivos automaticamente"},
-        {"id": "d", "text": "Abrir internet diretamente"}
+        {
+          "id": "a",
+          "text": "Acessar programas e configurações"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que desligar monitor e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar apagar arquivos automaticamente mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar abrir internet diretamente como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "Um exemplo de sistema operacional móvel é:",
-      "difficulty": "medio",
+      "statement": "Um exemplo de sistema operacional móvel é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Android"},
-        {"id": "b", "text": "Excel"},
-        {"id": "c", "text": "Word"},
-        {"id": "d", "text": "PowerPoint"}
+        {
+          "id": "a",
+          "text": "Android"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar excel mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar word como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que powerPoint e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     }

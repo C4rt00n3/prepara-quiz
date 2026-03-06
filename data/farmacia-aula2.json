@@ -5,121 +5,241 @@
   "questions": [
     {
       "id": "q1",
-      "statement": "A anatomia humana estuda:",
-      "difficulty": "facil",
+      "statement": "A anatomia humana estuda:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "A estrutura do corpo humano"},
-        {"id": "b", "text": "Apenas doenças"},
-        {"id": "c", "text": "Apenas medicamentos"},
-        {"id": "d", "text": "Apenas exercícios"}
+        {
+          "id": "a",
+          "text": "A estrutura do corpo humano"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar apenas doenças mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar apenas medicamentos como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que apenas exercícios e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "O sistema circulatório é responsável por:",
-      "difficulty": "medio",
+      "statement": "O sistema circulatório é responsável por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Transportar sangue pelo corpo"},
-        {"id": "b", "text": "Produzir hormônios"},
-        {"id": "c", "text": "Realizar digestão"},
-        {"id": "d", "text": "Controlar músculos"}
+        {
+          "id": "a",
+          "text": "Transportar sangue pelo corpo"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar produzir hormônios como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que realizar digestão e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar controlar músculos mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q3",
-      "statement": "O coração pertence ao sistema:",
-      "difficulty": "facil",
+      "statement": "O coração pertence ao sistema:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Circulatório"},
-        {"id": "b", "text": "Digestivo"},
-        {"id": "c", "text": "Respiratório"},
-        {"id": "d", "text": "Nervoso"}
+        {
+          "id": "a",
+          "text": "Circulatório"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que digestivo e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar respiratório mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar nervoso como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "O sistema respiratório está relacionado com:",
-      "difficulty": "facil",
+      "statement": "O sistema respiratório está relacionado com:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Respiração"},
-        {"id": "b", "text": "Digestão"},
-        {"id": "c", "text": "Circulação"},
-        {"id": "d", "text": "Locomoção"}
+        {
+          "id": "a",
+          "text": "Respiração"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar digestão mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar circulação como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que locomoção e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Os pulmões são responsáveis por:",
-      "difficulty": "medio",
+      "statement": "Os pulmões são responsáveis por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Troca de gases"},
-        {"id": "b", "text": "Digestão"},
-        {"id": "c", "text": "Produção de sangue"},
-        {"id": "d", "text": "Produção de hormônios"}
+        {
+          "id": "a",
+          "text": "Troca de gases"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar digestão como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que produção de sangue e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar produção de hormônios mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "O sistema digestivo é responsável por:",
-      "difficulty": "medio",
+      "statement": "O sistema digestivo é responsável por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Processar alimentos"},
-        {"id": "b", "text": "Controlar respiração"},
-        {"id": "c", "text": "Transportar sangue"},
-        {"id": "d", "text": "Controlar nervos"}
+        {
+          "id": "a",
+          "text": "Processar alimentos"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que controlar respiração e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar transportar sangue mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar controlar nervos como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "O cérebro pertence ao sistema:",
-      "difficulty": "facil",
+      "statement": "O cérebro pertence ao sistema:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Nervoso"},
-        {"id": "b", "text": "Digestivo"},
-        {"id": "c", "text": "Circulatório"},
-        {"id": "d", "text": "Respiratório"}
+        {
+          "id": "a",
+          "text": "Nervoso"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar digestivo mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar circulatório como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que respiratório e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "O sistema nervoso controla:",
-      "difficulty": "medio",
+      "statement": "O sistema nervoso controla:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "As funções do corpo"},
-        {"id": "b", "text": "Apenas digestão"},
-        {"id": "c", "text": "Apenas circulação"},
-        {"id": "d", "text": "Apenas respiração"}
+        {
+          "id": "a",
+          "text": "As funções do corpo"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar apenas digestão como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que apenas circulação e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar apenas respiração mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Os ossos fazem parte do sistema:",
-      "difficulty": "facil",
+      "statement": "Os ossos fazem parte do sistema:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Esquelético"},
-        {"id": "b", "text": "Respiratório"},
-        {"id": "c", "text": "Digestivo"},
-        {"id": "d", "text": "Circulatório"}
+        {
+          "id": "a",
+          "text": "Esquelético"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que respiratório e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar digestivo mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar circulatório como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "O corpo humano é formado por vários:",
-      "difficulty": "facil",
+      "statement": "O corpo humano é formado por vários:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Sistemas"},
-        {"id": "b", "text": "Máquinas"},
-        {"id": "c", "text": "Motores"},
-        {"id": "d", "text": "Circuitos"}
+        {
+          "id": "a",
+          "text": "Sistemas"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar máquinas mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar motores como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que circuitos e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     }

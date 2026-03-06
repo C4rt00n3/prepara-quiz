@@ -5,121 +5,241 @@
   "questions": [
     {
       "id": "q1",
-      "statement": "O que é informática?",
-      "difficulty": "facil",
+      "statement": "O que é informática? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Ciência que estuda o tratamento automático da informação"},
-        {"id": "b", "text": "Uso exclusivo da internet"},
-        {"id": "c", "text": "Apenas o estudo de hardware"},
-        {"id": "d", "text": "Programa de computador"}
+        {
+          "id": "a",
+          "text": "Ciência que estuda o tratamento automático da informação"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar uso exclusivo da internet mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar apenas o estudo de hardware como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que programa de computador e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "Qual equipamento é considerado o cérebro do computador?",
-      "difficulty": "facil",
+      "statement": "Qual equipamento é considerado o cérebro do computador? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Monitor"},
-        {"id": "b", "text": "CPU"},
-        {"id": "c", "text": "Teclado"},
-        {"id": "d", "text": "Mouse"}
+        {
+          "id": "a",
+          "text": "Priorizar monitor mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "b",
+          "text": "CPU"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que teclado e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar mouse mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "b"
     },
     {
       "id": "q3",
-      "statement": "Qual dispositivo é usado para digitar textos no computador?",
-      "difficulty": "facil",
+      "statement": "Qual dispositivo é usado para digitar textos no computador? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Mouse"},
-        {"id": "b", "text": "Monitor"},
-        {"id": "c", "text": "Teclado"},
-        {"id": "d", "text": "Impressora"}
+        {
+          "id": "a",
+          "text": "Aplicar mouse como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que monitor e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Teclado"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar impressora como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "c"
     },
     {
       "id": "q4",
-      "statement": "O monitor é um dispositivo de:",
-      "difficulty": "facil",
+      "statement": "O monitor é um dispositivo de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Entrada"},
-        {"id": "b", "text": "Processamento"},
-        {"id": "c", "text": "Saída"},
-        {"id": "d", "text": "Armazenamento"}
+        {
+          "id": "a",
+          "text": "Assumir que entrada e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar processamento mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Saída"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que armazenamento e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "c"
     },
     {
       "id": "q5",
-      "statement": "Qual dispositivo permite mover o cursor na tela?",
-      "difficulty": "facil",
+      "statement": "Qual dispositivo permite mover o cursor na tela? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Mouse"},
-        {"id": "b", "text": "Monitor"},
-        {"id": "c", "text": "Impressora"},
-        {"id": "d", "text": "Scanner"}
+        {
+          "id": "a",
+          "text": "Mouse"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar monitor como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que impressora e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar scanner mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Qual componente executa cálculos e processa dados?",
-      "difficulty": "medio",
+      "statement": "Qual componente executa cálculos e processa dados? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Processador"},
-        {"id": "b", "text": "Mouse"},
-        {"id": "c", "text": "Teclado"},
-        {"id": "d", "text": "Monitor"}
+        {
+          "id": "a",
+          "text": "Processador"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que mouse e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar teclado mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar monitor como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "Qual dispositivo imprime documentos?",
-      "difficulty": "facil",
+      "statement": "Qual dispositivo imprime documentos? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a", "text": "Impressora"},
-        {"id": "b", "text": "Mouse"},
-        {"id": "c", "text": "Monitor"},
-        {"id": "d", "text": "HD"}
+        {
+          "id": "a",
+          "text": "Impressora"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar mouse mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar monitor como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que hD e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Qual destes é um dispositivo de armazenamento?",
-      "difficulty": "medio",
+      "statement": "Qual destes é um dispositivo de armazenamento? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "HD"},
-        {"id": "b", "text": "Mouse"},
-        {"id": "c", "text": "Teclado"},
-        {"id": "d", "text": "Monitor"}
+        {
+          "id": "a",
+          "text": "HD"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar mouse como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que teclado e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar monitor mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Qual dispositivo pode armazenar e transportar arquivos?",
-      "difficulty": "medio",
+      "statement": "Qual dispositivo pode armazenar e transportar arquivos? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Pendrive"},
-        {"id": "b", "text": "Monitor"},
-        {"id": "c", "text": "Mouse"},
-        {"id": "d", "text": "Teclado"}
+        {
+          "id": "a",
+          "text": "Pendrive"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que monitor e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar mouse mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar teclado como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "Qual componente armazena dados temporariamente durante o uso do computador?",
-      "difficulty": "medio",
+      "statement": "Qual componente armazena dados temporariamente durante o uso do computador? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a", "text": "Memória RAM"},
-        {"id": "b", "text": "Impressora"},
-        {"id": "c", "text": "Mouse"},
-        {"id": "d", "text": "Scanner"}
+        {
+          "id": "a",
+          "text": "Memória RAM"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar impressora mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar mouse como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que scanner e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     }

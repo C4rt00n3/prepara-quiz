@@ -5,121 +5,241 @@
   "questions": [
     {
       "id": "q1",
-      "statement": "Medicamentos devem ser armazenados em locais:",
-      "difficulty": "facil",
+      "statement": "Medicamentos devem ser armazenados em locais:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id":"a","text":"Limpos e organizados"},
-        {"id":"b","text":"Molhados"},
-        {"id":"c","text":"Ao sol"},
-        {"id":"d","text":"No chão"}
+        {
+          "id": "a",
+          "text": "Limpos e organizados"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar molhados mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar ao sol como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que no chão e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "A exposição ao calor pode:",
-      "difficulty": "medio",
+      "statement": "A exposição ao calor pode:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id":"a","text":"Melhorar o medicamento"},
-        {"id":"b","text":"Alterar sua eficácia"},
-        {"id":"c","text":"Não causar efeito"},
-        {"id":"d","text":"Aumentar validade"}
+        {
+          "id": "a",
+          "text": "Priorizar melhorar o medicamento mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "b",
+          "text": "Alterar sua eficácia"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que não causar efeito e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar aumentar validade mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "b"
     },
     {
       "id": "q3",
-      "statement": "Medicamentos devem ficar longe de:",
-      "difficulty": "facil",
+      "statement": "Medicamentos devem ficar longe de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id":"a","text":"Umidade"},
-        {"id":"b","text":"Prateleiras"},
-        {"id":"c","text":"Caixas"},
-        {"id":"d","text":"Organização"}
+        {
+          "id": "a",
+          "text": "Umidade"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que prateleiras e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar caixas mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar organização como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "O controle de estoque ajuda a:",
-      "difficulty": "medio",
+      "statement": "O controle de estoque ajuda a:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id":"a","text":"Evitar falta de medicamentos"},
-        {"id":"b","text":"Criar bagunça"},
-        {"id":"c","text":"Diminuir vendas"},
-        {"id":"d","text":"Misturar produtos"}
+        {
+          "id": "a",
+          "text": "Evitar falta de medicamentos"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar criar bagunça mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar diminuir vendas como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que misturar produtos e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Medicamentos vencidos devem ser:",
-      "difficulty": "facil",
+      "statement": "Medicamentos vencidos devem ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id":"a","text":"Descartados corretamente"},
-        {"id":"b","text":"Vendidos com desconto"},
-        {"id":"c","text":"Misturados ao estoque"},
-        {"id":"d","text":"Guardados indefinidamente"}
+        {
+          "id": "a",
+          "text": "Descartados corretamente"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar vendidos com desconto como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que misturados ao estoque e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar guardados indefinidamente mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Medicamentos refrigerados devem ser guardados:",
-      "difficulty": "medio",
+      "statement": "Medicamentos refrigerados devem ser guardados:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id":"a","text":"Na geladeira apropriada"},
-        {"id":"b","text":"No freezer"},
-        {"id":"c","text":"Ao sol"},
-        {"id":"d","text":"Na prateleira comum"}
+        {
+          "id": "a",
+          "text": "Na geladeira apropriada"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que no freezer e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar ao sol mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar na prateleira comum como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "A organização das prateleiras facilita:",
-      "difficulty": "facil",
+      "statement": "A organização das prateleiras facilita:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id":"a","text":"Localização dos medicamentos"},
-        {"id":"b","text":"Desorganização"},
-        {"id":"c","text":"Confusão"},
-        {"id":"d","text":"Erros"}
+        {
+          "id": "a",
+          "text": "Localização dos medicamentos"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar desorganização mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar confusão como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que erros e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Produtos devem ser organizados por:",
-      "difficulty": "medio",
+      "statement": "Produtos devem ser organizados por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id":"a","text":"Categoria e validade"},
-        {"id":"b","text":"Cor"},
-        {"id":"c","text":"Tamanho"},
-        {"id":"d","text":"Formato"}
+        {
+          "id": "a",
+          "text": "Categoria e validade"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar cor como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que tamanho e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar formato mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Temperatura inadequada pode:",
-      "difficulty": "medio",
+      "statement": "Temperatura inadequada pode:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id":"a","text":"Comprometer o medicamento"},
-        {"id":"b","text":"Melhorar eficácia"},
-        {"id":"c","text":"Aumentar validade"},
-        {"id":"d","text":"Não causar efeito"}
+        {
+          "id": "a",
+          "text": "Comprometer o medicamento"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que melhorar eficácia e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar aumentar validade mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar não causar efeito como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "Controle de validade é importante para:",
-      "difficulty": "facil",
+      "statement": "Controle de validade é importante para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id":"a","text":"Segurança do paciente"},
-        {"id":"b","text":"Aumentar preço"},
-        {"id":"c","text":"Reduzir vendas"},
-        {"id":"d","text":"Criar estoque"}
+        {
+          "id": "a",
+          "text": "Segurança do paciente"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar aumentar preço mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar reduzir vendas como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que criar estoque e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     }

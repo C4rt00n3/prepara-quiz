@@ -5,121 +5,241 @@
   "questions": [
     {
       "id": "q1",
-      "statement": "Medicamentos controlados são aqueles que:",
-      "difficulty": "medio",
+      "statement": "Medicamentos controlados são aqueles que:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a","text": "Podem ser vendidos livremente"},
-        {"id": "b","text": "Precisam de receita médica para venda"},
-        {"id": "c","text": "São vendidos em supermercados"},
-        {"id": "d","text": "Não possuem controle"}
+        {
+          "id": "a",
+          "text": "Assumir que podem ser vendidos livremente e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "b",
+          "text": "Precisam de receita médica para venda"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar são vendidos em supermercados como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que não possuem controle e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "b"
     },
     {
       "id": "q2",
-      "statement": "Qual tarja indica medicamento de controle mais rigoroso?",
-      "difficulty": "facil",
+      "statement": "Qual tarja indica medicamento de controle mais rigoroso? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a","text": "Tarja preta"},
-        {"id": "b","text": "Tarja verde"},
-        {"id": "c","text": "Tarja azul"},
-        {"id": "d","text": "Sem tarja"}
+        {
+          "id": "a",
+          "text": "Tarja preta"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar tarja verde como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que tarja azul e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar sem tarja mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q3",
-      "statement": "Medicamentos com tarja vermelha indicam:",
-      "difficulty": "medio",
+      "statement": "Medicamentos com tarja vermelha indicam:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a","text": "Venda livre"},
-        {"id": "b","text": "Necessidade de receita médica"},
-        {"id": "c","text": "Produto natural"},
-        {"id": "d","text": "Produto veterinário"}
+        {
+          "id": "a",
+          "text": "Aplicar venda livre como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "b",
+          "text": "Necessidade de receita médica"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar produto natural mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar produto veterinário como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "b"
     },
     {
       "id": "q4",
-      "statement": "Quem deve conferir receitas médicas na farmácia?",
-      "difficulty": "medio",
+      "statement": "Quem deve conferir receitas médicas na farmácia? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a","text": "Farmacêutico"},
-        {"id": "b","text": "Cliente"},
-        {"id": "c","text": "Entregador"},
-        {"id": "d","text": "Caixa"}
+        {
+          "id": "a",
+          "text": "Farmacêutico"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar cliente mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar entregador como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que caixa e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Receitas médicas devem ser:",
-      "difficulty": "facil",
+      "statement": "Receitas médicas devem ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a","text": "Guardadas corretamente"},
-        {"id": "b","text": "Jogadas fora"},
-        {"id": "c","text": "Ignoradas"},
-        {"id": "d","text": "Devolvidas sempre"}
+        {
+          "id": "a",
+          "text": "Guardadas corretamente"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar jogadas fora como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que ignoradas e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar devolvidas sempre mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Medicamentos controlados devem ficar:",
-      "difficulty": "medio",
+      "statement": "Medicamentos controlados devem ficar:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a","text": "Separados e sob controle"},
-        {"id": "b","text": "Misturados com outros"},
-        {"id": "c","text": "Na vitrine"},
-        {"id": "d","text": "No caixa"}
+        {
+          "id": "a",
+          "text": "Separados e sob controle"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que misturados com outros e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar na vitrine mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar no caixa como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "A venda irregular de medicamentos controlados pode causar:",
-      "difficulty": "medio",
+      "statement": "A venda irregular de medicamentos controlados pode causar:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a","text": "Problemas legais"},
-        {"id": "b","text": "Descontos"},
-        {"id": "c","text": "Promoções"},
-        {"id": "d","text": "Nada"}
+        {
+          "id": "a",
+          "text": "Problemas legais"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar descontos mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar promoções como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que nada e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Quem regulamenta medicamentos no Brasil?",
-      "difficulty": "facil",
+      "statement": "Quem regulamenta medicamentos no Brasil? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a","text": "ANVISA"},
-        {"id": "b","text": "INSS"},
-        {"id": "c","text": "IBGE"},
-        {"id": "d","text": "Detran"}
+        {
+          "id": "a",
+          "text": "ANVISA"
+        },
+        {
+          "id": "b",
+          "text": "Aplicar iNSS como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "c",
+          "text": "Assumir que iBGE e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "d",
+          "text": "Priorizar detran mesmo quando houver requisitos tecnicos mais adequados"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Receitas devem conter:",
-      "difficulty": "medio",
+      "statement": "Receitas devem conter:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "dificil",
       "options": [
-        {"id": "a","text": "Nome do paciente e médico"},
-        {"id": "b","text": "Apenas o medicamento"},
-        {"id": "c","text": "Somente assinatura"},
-        {"id": "d","text": "Nada obrigatório"}
+        {
+          "id": "a",
+          "text": "Nome do paciente e médico"
+        },
+        {
+          "id": "b",
+          "text": "Assumir que apenas o medicamento e sempre a melhor conduta, sem validacao adicional"
+        },
+        {
+          "id": "c",
+          "text": "Priorizar somente assinatura mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "d",
+          "text": "Aplicar nada obrigatório como unica estrategia, independentemente do contexto"
+        }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "O atendente deve sempre:",
-      "difficulty": "facil",
+      "statement": "O atendente deve sempre:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "difficulty": "medio",
       "options": [
-        {"id": "a","text": "Seguir as normas da farmácia"},
-        {"id": "b","text": "Ignorar regras"},
-        {"id": "c","text": "Vender sem receita"},
-        {"id": "d","text": "Alterar prescrições"}
+        {
+          "id": "a",
+          "text": "Seguir as normas da farmácia"
+        },
+        {
+          "id": "b",
+          "text": "Priorizar ignorar regras mesmo quando houver requisitos tecnicos mais adequados"
+        },
+        {
+          "id": "c",
+          "text": "Aplicar vender sem receita como unica estrategia, independentemente do contexto"
+        },
+        {
+          "id": "d",
+          "text": "Assumir que alterar prescrições e sempre a melhor conduta, sem validacao adicional"
+        }
       ],
       "correctOptionId": "a"
     }
