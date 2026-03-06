@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Cumprimentar o cliente"
+          "text": "Cumprimentar o cliente, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -34,7 +34,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Entender sua necessidade"
+          "text": "Entender sua necessidade, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -58,7 +58,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Colocar-se no lugar do outro"
+          "text": "Colocar-se no lugar do outro, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Clara e educada"
+          "text": "Clara e educada, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Ouvidas com atenção"
+          "text": "Ouvidas com atenção, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Voltar à farmácia"
+          "text": "Voltar à farmácia, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Postura profissional"
+          "text": "Postura profissional, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Cordialidade"
+          "text": "Cordialidade, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Fundamental no atendimento"
+          "text": "Fundamental no atendimento, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Ajudar e orientar o cliente"
+          "text": "Ajudar e orientar o cliente, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

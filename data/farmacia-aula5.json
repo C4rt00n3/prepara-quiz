@@ -14,7 +14,7 @@
         },
         {
           "id": "b",
-          "text": "Precisam de receita médica para venda"
+          "text": "Precisam de receita médica para venda, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "c",
@@ -34,7 +34,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Tarja preta"
+          "text": "Tarja preta, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -62,7 +62,7 @@
         },
         {
           "id": "b",
-          "text": "Necessidade de receita médica"
+          "text": "Necessidade de receita médica, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "c",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Farmacêutico"
+          "text": "Farmacêutico, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Guardadas corretamente"
+          "text": "Guardadas corretamente, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Separados e sob controle"
+          "text": "Separados e sob controle, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Problemas legais"
+          "text": "Problemas legais, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "ANVISA"
+          "text": "ANVISA, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Nome do paciente e médico"
+          "text": "Nome do paciente e médico, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Seguir as normas da farmácia"
+          "text": "Seguir as normas da farmácia, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

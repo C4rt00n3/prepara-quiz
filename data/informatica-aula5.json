@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Proteger dados e informações"
+          "text": "Proteger dados e informações, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -34,7 +34,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Prejudicar o funcionamento do computador"
+          "text": "Prejudicar o funcionamento do computador, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -58,7 +58,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Detectar e remover vírus"
+          "text": "Detectar e remover vírus, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Difícil de adivinhar"
+          "text": "Difícil de adivinhar, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Tentativa de roubo de dados pela internet"
+          "text": "Tentativa de roubo de dados pela internet, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Corrige falhas de segurança"
+          "text": "Corrige falhas de segurança, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Perigoso"
+          "text": "Perigoso, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Proteger a rede contra acessos não autorizados"
+          "text": "Proteger a rede contra acessos não autorizados, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Evitar golpes"
+          "text": "Evitar golpes, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Importante para segurança"
+          "text": "Importante para segurança, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

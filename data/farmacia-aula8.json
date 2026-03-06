@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Sólida"
+          "text": "Sólida, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -34,7 +34,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Líquido"
+          "text": "Líquido, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -58,7 +58,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Revestimento gelatinoso"
+          "text": "Revestimento gelatinoso, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Na pele"
+          "text": "Na pele, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Por via intravenosa ou muscular"
+          "text": "Por via intravenosa ou muscular, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Líquidos"
+          "text": "Líquidos, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Na aplicação tópica"
+          "text": "Na aplicação tópica, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Via retal"
+          "text": "Via retal, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Via nasal ou oral"
+          "text": "Via nasal ou oral, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Administração do medicamento"
+          "text": "Administração do medicamento, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

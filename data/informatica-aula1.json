@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Ciência que estuda o tratamento automático da informação"
+          "text": "Ciência que estuda o tratamento automático da informação, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -38,7 +38,7 @@
         },
         {
           "id": "b",
-          "text": "CPU"
+          "text": "CPU, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "c",
@@ -66,7 +66,7 @@
         },
         {
           "id": "c",
-          "text": "Teclado"
+          "text": "Teclado, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "d",
@@ -90,7 +90,7 @@
         },
         {
           "id": "c",
-          "text": "Saída"
+          "text": "Saída, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "d",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Mouse"
+          "text": "Mouse, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Processador"
+          "text": "Processador, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Impressora"
+          "text": "Impressora, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "HD"
+          "text": "HD, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Pendrive"
+          "text": "Pendrive, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Memória RAM"
+          "text": "Memória RAM, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

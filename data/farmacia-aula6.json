@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Manter o ambiente seguro"
+          "text": "Manter o ambiente seguro, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -34,7 +34,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Por categorias"
+          "text": "Por categorias, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -58,7 +58,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Descartados corretamente"
+          "text": "Descartados corretamente, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Identificação e higiene"
+          "text": "Identificação e higiene, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Regular"
+          "text": "Regular, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Danos aos medicamentos"
+          "text": "Danos aos medicamentos, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Alterar o medicamento"
+          "text": "Alterar o medicamento, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Evitar falta de produtos"
+          "text": "Evitar falta de produtos, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Longe de calor excessivo"
+          "text": "Longe de calor excessivo, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "O atendimento"
+          "text": "O atendimento, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

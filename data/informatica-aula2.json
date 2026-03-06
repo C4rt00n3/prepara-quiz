@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Parte física do computador"
+          "text": "Parte física do computador, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -38,7 +38,7 @@
         },
         {
           "id": "b",
-          "text": "Programa ou sistema que roda no computador"
+          "text": "Programa ou sistema que roda no computador, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "c",
@@ -58,7 +58,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Windows"
+          "text": "Windows, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Sistema operacional"
+          "text": "Sistema operacional, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Teclado"
+          "text": "Teclado, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Programa de planilhas"
+          "text": "Programa de planilhas, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Criar documentos"
+          "text": "Criar documentos, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Gerenciar o computador"
+          "text": "Gerenciar o computador, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Excel"
+          "text": "Excel, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Software"
+          "text": "Software, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

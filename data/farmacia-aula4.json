@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Limpos e organizados"
+          "text": "Limpos e organizados, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -38,7 +38,7 @@
         },
         {
           "id": "b",
-          "text": "Alterar sua eficácia"
+          "text": "Alterar sua eficácia, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "c",
@@ -58,7 +58,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Umidade"
+          "text": "Umidade, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Evitar falta de medicamentos"
+          "text": "Evitar falta de medicamentos, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Descartados corretamente"
+          "text": "Descartados corretamente, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Na geladeira apropriada"
+          "text": "Na geladeira apropriada, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Localização dos medicamentos"
+          "text": "Localização dos medicamentos, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Categoria e validade"
+          "text": "Categoria e validade, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Comprometer o medicamento"
+          "text": "Comprometer o medicamento, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Segurança do paciente"
+          "text": "Segurança do paciente, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

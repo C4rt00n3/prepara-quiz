@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Agir com responsabilidade e respeito"
+          "text": "Agir com responsabilidade e respeito, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -34,7 +34,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Guardar informações do cliente"
+          "text": "Guardar informações do cliente, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -58,7 +58,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Clientes e colegas"
+          "text": "Clientes e colegas, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Educação"
+          "text": "Educação, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Obrigatório"
+          "text": "Obrigatório, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Profissionalismo"
+          "text": "Profissionalismo, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Antiético"
+          "text": "Antiético, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Seguir procedimentos"
+          "text": "Seguir procedimentos, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Compromisso"
+          "text": "Compromisso, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Ambiente profissional"
+          "text": "Ambiente profissional, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

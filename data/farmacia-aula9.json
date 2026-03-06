@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Documento de prescrição de medicamentos"
+          "text": "Documento de prescrição de medicamentos, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -34,7 +34,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Nome do médico"
+          "text": "Nome do médico, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -58,7 +58,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Validar a receita"
+          "text": "Validar a receita, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Confirmadas com o farmacêutico"
+          "text": "Confirmadas com o farmacêutico, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Controle especial"
+          "text": "Controle especial, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Na receita"
+          "text": "Na receita, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Validade da prescrição"
+          "text": "Validade da prescrição, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Quantidade a ser usada"
+          "text": "Quantidade a ser usada, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Controle e fiscalização"
+          "text": "Controle e fiscalização, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Seguir orientação do farmacêutico"
+          "text": "Seguir orientação do farmacêutico, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

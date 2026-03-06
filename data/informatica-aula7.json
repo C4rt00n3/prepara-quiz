@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Acessar sites na internet"
+          "text": "Acessar sites na internet, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -34,7 +34,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Mozilla Firefox"
+          "text": "Mozilla Firefox, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -58,7 +58,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Digitar o endereço do site"
+          "text": "Digitar o endereço do site, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Salvar sites para acesso rápido"
+          "text": "Salvar sites para acesso rápido, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Recarregar o site"
+          "text": "Recarregar o site, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Abrir outro site no mesmo navegador"
+          "text": "Abrir outro site no mesmo navegador, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Sites visitados"
+          "text": "Sites visitados, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Navegar sem salvar histórico"
+          "text": "Navegar sem salvar histórico, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Internet para acessar sites"
+          "text": "Internet para acessar sites, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Encerrar uma página aberta"
+          "text": "Encerrar uma página aberta, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",

@@ -10,7 +10,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Enviar mensagens eletrônicas"
+          "text": "Enviar mensagens eletrônicas, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -34,7 +34,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Gmail"
+          "text": "Gmail, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -58,7 +58,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Arquivo enviado junto com a mensagem"
+          "text": "Arquivo enviado junto com a mensagem, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -82,7 +82,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Mensagens recebidas"
+          "text": "Mensagens recebidas, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -106,7 +106,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Mensagem indesejada"
+          "text": "Mensagem indesejada, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -130,7 +130,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Endereço de e-mail do destinatário"
+          "text": "Endereço de e-mail do destinatário, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -154,7 +154,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Descrever o tema da mensagem"
+          "text": "Descrever o tema da mensagem, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
@@ -178,7 +178,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Enviar resposta ao remetente"
+          "text": "Enviar resposta ao remetente, por ser a alternativa mais completa e adequada ao contexto apresentado"
         },
         {
           "id": "b",
@@ -202,7 +202,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Enviar mensagem recebida para outra pessoa"
+          "text": "Enviar mensagem recebida para outra pessoa, pois atende ao procedimento recomendado para a situacao"
         },
         {
           "id": "b",
@@ -226,7 +226,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Evitar abrir anexos desconhecidos"
+          "text": "Evitar abrir anexos desconhecidos, considerando criterios tecnicos e boas praticas do tema"
         },
         {
           "id": "b",
