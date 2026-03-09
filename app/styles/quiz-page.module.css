@@ -43,14 +43,6 @@
   min-width: 150px;
 }
 
-.checkboxLabel {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  font-weight: 600;
-  color: var(--color-text-strong);
-}
-
 .settingsActions {
   display: flex;
   gap: 0.75rem;

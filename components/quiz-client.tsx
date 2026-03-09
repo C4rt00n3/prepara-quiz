@@ -54,10 +54,10 @@ function filterQuestionsByLevel(questions: Question[], level: QuizLevel) {
 }
 
 /**
- * Shuffles question order with Fisher-Yates.
+ * Shuffles option order with Fisher-Yates using a deterministic seed.
  */
-function shuffleQuestions(questions: Question[], seed: number) {
-  const shuffled = [...questions];
+function shuffleOptions(options: Question["options"], seed: number) {
+  const shuffled = [...options];
   let state = seed || 1;
 
   for (let i = shuffled.length - 1; i > 0; i -= 1) {
@@ -72,6 +72,19 @@ function shuffleQuestions(questions: Question[], seed: number) {
 }
 
 /**
+ * Creates a stable numeric seed from question id.
+ */
+function hashQuestionId(questionId: string) {
+  let hash = 0;
+
+  for (let i = 0; i < questionId.length; i += 1) {
+    hash = (hash * 31 + questionId.charCodeAt(i)) >>> 0;
+  }
+
+  return hash;
+}
+
+/**
  * Renders the interactive quiz flow and redirects to the result screen on submit.
  */
 export function QuizClient({ test, slug }: QuizClientProps) {
@@ -79,19 +92,15 @@ export function QuizClient({ test, slug }: QuizClientProps) {
   const [answers, setAnswers] = useState<AnswerMap>({});
   const [selectedLevel, setSelectedLevel] = useState<QuizLevel>("avancado");
   const [activeLevel, setActiveLevel] = useState<QuizLevel>("avancado");
-  const [selectedShuffle, setSelectedShuffle] = useState(false);
-  const [isShuffleActive, setIsShuffleActive] = useState(false);
   const [shuffleSeed, setShuffleSeed] = useState(1);
 
   const visibleQuestions = useMemo(() => {
     const levelQuestions = filterQuestionsByLevel(test.questions, activeLevel);
-
-    if (!isShuffleActive) {
-      return levelQuestions;
-    }
-
-    return shuffleQuestions(levelQuestions, shuffleSeed);
-  }, [activeLevel, isShuffleActive, shuffleSeed, test.questions]);
+    return levelQuestions.map((question) => ({
+      ...question,
+      options: shuffleOptions(question.options, shuffleSeed + hashQuestionId(question.id)),
+    }));
+  }, [activeLevel, shuffleSeed, test.questions]);
 
   const score = useMemo(() => {
     return visibleQuestions.reduce((total, question) => {
@@ -114,11 +123,10 @@ export function QuizClient({ test, slug }: QuizClientProps) {
   };
 
   /**
-   * Applies current level and shuffle settings and restarts answer state.
+   * Applies level settings and refreshes option shuffle.
    */
   const handleApplySettings = () => {
     setActiveLevel(selectedLevel);
-    setIsShuffleActive(selectedShuffle);
     setShuffleSeed((current) => current + 1);
     setAnswers({});
   };
@@ -156,15 +164,6 @@ export function QuizClient({ test, slug }: QuizClientProps) {
                 <option value="avancado">Avancado</option>
               </select>
             </label>
-
-            <label className={styles.checkboxLabel}>
-              <input
-                type="checkbox"
-                checked={selectedShuffle}
-                onChange={(event) => setSelectedShuffle(event.target.checked)}
-              />
-              Embaralhar questoes
-            </label>
           </div>
 
           <div className={styles.settingsActions}>
@@ -172,7 +171,7 @@ export function QuizClient({ test, slug }: QuizClientProps) {
               Aplicar configuracoes
             </button>
             <span className={styles.settingsInfo}>
-              Nivel ativo: {activeLevel} | Questoes ativas: {visibleQuestions.length}
+              Nivel ativo: {activeLevel} | Questoes ativas: {visibleQuestions.length} | Alternativas embaralhadas automaticamente
             </span>
           </div>
         </section>
