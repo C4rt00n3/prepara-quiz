@@ -1,247 +1,127 @@
 {
-  "title": "Quiz - Introdução à Informática",
-  "subject": "Informática",
+  "title": "Quiz - Introducao a Informatica",
+  "subject": "Informatica",
   "lesson": "Aula 6 - E-mail",
   "questions": [
     {
       "id": "q1",
-      "statement": "E-mail é utilizado para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual protocolo e tradicionalmente usado para envio de e-mails entre servidores?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Enviar mensagens eletrônicas, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar criar programas mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar instalar jogos como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que formatar computador e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "SMTP" },
+        { "id": "b", "text": "IMAP" },
+        { "id": "c", "text": "POP3" },
+        { "id": "d", "text": "SNMP" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "Exemplo de serviço de e-mail:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual diferenca entre IMAP e POP3 esta correta?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Gmail, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar excel como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que windows e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar linux mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "IMAP tende a sincronizar mensagens no servidor; POP3 costuma baixar localmente" },
+        { "id": "b", "text": "POP3 permite pastas remotas e IMAP nao" },
+        { "id": "c", "text": "IMAP e apenas para envio, POP3 apenas para spam" },
+        { "id": "d", "text": "Nao existe diferenca operacional entre eles" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q3",
-      "statement": "Anexo em e-mail significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual objetivo principal de SPF, DKIM e DMARC juntos?",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Arquivo enviado junto com a mensagem, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que mensagem apagada e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar mensagem bloqueada mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar mensagem privada como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Compactar anexos para reduzir uso de banda" },
+        { "id": "b", "text": "Melhorar autenticacao de dominio e reduzir spoofing de e-mail" },
+        { "id": "c", "text": "Criptografar automaticamente todos os anexos em repouso" },
+        { "id": "d", "text": "Substituir antispam por filtragem manual" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q4",
-      "statement": "A caixa de entrada contém:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Em uma mensagem com copia oculta (BCC), qual comportamento e esperado?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Mensagens recebidas, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar mensagens apagadas mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar programas como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que arquivos do sistema e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Destinatarios em BCC aparecem para todos no campo To" },
+        { "id": "b", "text": "Destinatarios em BCC recebem copia sem expor seus enderecos aos demais" },
+        { "id": "c", "text": "BCC so funciona em mensagens internas do mesmo dominio" },
+        { "id": "d", "text": "BCC impede qualquer resposta ao remetente" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q5",
-      "statement": "Spam é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Qual pratica melhora clareza e rastreabilidade em e-mails corporativos?",
+      "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Mensagem indesejada, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar mensagem urgente como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que mensagem privada e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar mensagem segura mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "Assunto generico e sem prazo para facilitar reutilizacao" },
+        { "id": "b", "text": "Corpo sem contexto, com anexos sem nome padrao" },
+        { "id": "c", "text": "Assunto objetivo, acao esperada explicita e prazo definido" },
+        { "id": "d", "text": "Encaminhar tudo para toda a equipe sem filtragem" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q6",
-      "statement": "Para enviar um e-mail é necessário:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Qual extensao de anexo em e-mail tende a exigir maior cautela por risco de codigo executavel?",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Endereço de e-mail do destinatário, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que número de telefone e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar cPF mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar endereço residencial como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": ".txt" },
+        { "id": "b", "text": ".jpg" },
+        { "id": "c", "text": ".exe" },
+        { "id": "d", "text": ".pdf" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q7",
-      "statement": "O campo assunto serve para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Sobre criptografia de transporte em e-mail (TLS), qual afirmacao e correta?",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Descrever o tema da mensagem, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar adicionar senha mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar excluir mensagem como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que bloquear e-mail e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "TLS protege o trajeto entre servidores, mas nao garante criptografia ponta a ponta do conteudo final" },
+        { "id": "b", "text": "TLS torna desnecessario validar remetente e anexos" },
+        { "id": "c", "text": "TLS so funciona em mensagens sem anexo" },
+        { "id": "d", "text": "TLS impede totalmente spam e phishing" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Responder um e-mail significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual comportamento reduz risco de comprometimento via engenharia social por e-mail?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Enviar resposta ao remetente, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar excluir mensagem como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que encerrar conta e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar salvar arquivo mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "Clicar imediatamente em links de cobranca urgente" },
+        { "id": "b", "text": "Verificar dominio do remetente e confirmar solicitacoes sensiveis por canal alternativo" },
+        { "id": "c", "text": "Desativar filtro antispam para evitar falsos positivos" },
+        { "id": "d", "text": "Responder com dados pessoais para validar autenticidade" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q9",
-      "statement": "Encaminhar um e-mail significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "O que um servidor de relay aberto pode causar se mal configurado?",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Enviar mensagem recebida para outra pessoa, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que excluir mensagem e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar editar mensagem mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar apagar conta como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Uso indevido para envio de spam e bloqueio de reputacao do dominio/IP" },
+        { "id": "b", "text": "Aumento automatico de taxa de entrega legitima em todos os provedores" },
+        { "id": "c", "text": "Eliminacao de necessidade de registros MX" },
+        { "id": "d", "text": "Criptografia obrigatoria de anexos em todo trafego" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "Boa prática ao usar e-mail é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Em governanca de e-mail corporativo, qual pratica apoia compliance e resposta a auditoria?",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Evitar abrir anexos desconhecidos, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar abrir todos os anexos mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar compartilhar senha como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que ignorar segurança e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Excluir mensagens antigas sem politica formal de retencao" },
+        { "id": "b", "text": "Manter politica de retencao, trilha de auditoria e classificacao de mensagens" },
+        { "id": "c", "text": "Permitir contas compartilhadas sem controle de acesso" },
+        { "id": "d", "text": "Desabilitar logs de acesso para reduzir armazenamento" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     }
   ]
 }

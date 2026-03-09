@@ -1,247 +1,127 @@
 {
-  "title": "Quiz - Introdução à Informática",
-  "subject": "Informática",
+  "title": "Quiz - Introducao a Informatica",
+  "subject": "Informatica",
   "lesson": "Aula 4 - Internet",
   "questions": [
     {
       "id": "q1",
-      "statement": "A internet é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual protocolo e tipicamente usado para resolver nomes de dominio em enderecos IP?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Uma rede mundial de computadores, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar um programa mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar um hardware como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que um antivírus e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "DNS" },
+        { "id": "b", "text": "SMTP" },
+        { "id": "c", "text": "FTP" },
+        { "id": "d", "text": "SSH" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "Para acessar sites usamos:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Na pilha TCP/IP, qual camada e responsavel pelo enderecamento logico e roteamento entre redes?",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Navegador, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar processador como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que memória RAM e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar hD mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "Aplicacao" },
+        { "id": "b", "text": "Internet (IP)" },
+        { "id": "c", "text": "Enlace apenas" },
+        { "id": "d", "text": "Fisica exclusivamente" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q3",
-      "statement": "Qual destes é um navegador? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Qual afirmacao diferencia corretamente TCP de UDP?",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Google Chrome, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que windows e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar linux mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar excel como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "TCP e orientado a conexao com controle de entrega; UDP e mais simples, sem garantia de entrega" },
+        { "id": "b", "text": "UDP sempre entrega pacotes em ordem; TCP nao" },
+        { "id": "c", "text": "TCP so funciona em redes locais; UDP so na internet publica" },
+        { "id": "d", "text": "Nao ha diferenca de comportamento entre TCP e UDP" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "Um site é identificado por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em HTTP, qual metodo e semanticamente mais adequado para criar um novo recurso?",
+      "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "URL, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar rAM mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar cPU como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que bIOS e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "GET" },
+        { "id": "b", "text": "POST" },
+        { "id": "c", "text": "HEAD" },
+        { "id": "d", "text": "OPTIONS" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q5",
-      "statement": "WWW significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "O que o codigo HTTP 404 representa?",
+      "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "World Wide Web, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar world Web Window como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que wide World Window e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar web World Wide mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "Erro de autenticacao obrigatoria" },
+        { "id": "b", "text": "Requisicao malformada do cliente" },
+        { "id": "c", "text": "Recurso nao encontrado no servidor" },
+        { "id": "d", "text": "Servico indisponivel temporariamente" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q6",
-      "statement": "Qual destes é um serviço da internet? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Qual funcao principal de uma CDN (Content Delivery Network)?",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "E-mail, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que mouse e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar teclado mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar monitor como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Aumentar latencia para proteger contra ataques DDoS" },
+        { "id": "b", "text": "Distribuir conteudo em pontos proximos do usuario para reduzir tempo de resposta" },
+        { "id": "c", "text": "Substituir DNS por endereco fixo em todo acesso web" },
+        { "id": "d", "text": "Converter todo trafego HTTP em SMTP" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q7",
-      "statement": "Download significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Em redes domesticas, o NAT no roteador geralmente permite:",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Baixar arquivos, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar apagar arquivos mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar editar arquivos como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que criar arquivos e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Mapear varios IPs privados para um IP publico em saida" },
+        { "id": "b", "text": "Eliminar a necessidade de modem fisico" },
+        { "id": "c", "text": "Garantir criptografia ponta a ponta automaticamente" },
+        { "id": "d", "text": "Aumentar largura de banda contratada sem mudar plano" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Upload significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Qual metrica melhor representa atraso de ida e volta entre cliente e servidor?",
+      "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Enviar arquivos, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar apagar arquivos como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que formatar computador e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar editar arquivos mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "Throughput" },
+        { "id": "b", "text": "Jitter absoluto de codec" },
+        { "id": "c", "text": "RTT (round-trip time), frequentemente chamado de latencia" },
+        { "id": "d", "text": "Cache hit ratio isoladamente" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q9",
-      "statement": "Pesquisar na internet pode ser feito com:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual diferenca entre internet e web esta correta?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Google, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que word e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar excel mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar paint como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Internet e um servico da web; web e a infraestrutura fisica de cabos" },
+        { "id": "b", "text": "Internet e rede global de redes; web e um conjunto de servicos que usam essa infraestrutura" },
+        { "id": "c", "text": "Sao termos identicos e sempre intercambiaveis" },
+        { "id": "d", "text": "Web funciona sem qualquer protocolo de transporte" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q10",
-      "statement": "A internet permite:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Qual pratica melhora disponibilidade de acesso a um servico web corporativo?",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Compartilhar informações, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar apenas jogar mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar somente imprimir como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que somente armazenar e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Usar apenas um unico servidor sem monitoramento" },
+        { "id": "b", "text": "Remover redundancia para simplificar arquitetura" },
+        { "id": "c", "text": "Implementar balanceamento de carga e monitoramento continuo" },
+        { "id": "d", "text": "Desativar logs para reduzir escrita em disco" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     }
   ]
 }

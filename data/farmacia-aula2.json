@@ -1,247 +1,247 @@
 {
-  "title": "Quiz - Atendente de Farmácia",
-  "subject": "Saúde",
+  "title": "Quiz - Atendente de Farmacia",
+  "subject": "Farmacia",
   "lesson": "Aula 2 - Anatomia Humana",
   "questions": [
     {
       "id": "q1",
-      "statement": "A anatomia humana estuda:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Anatomia. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "A estrutura do corpo humano, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Sistema responsavel por troca gasosa entre oxigenio e gas carbonico"
         },
         {
           "id": "b",
-          "text": "Priorizar apenas doenças mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Estudo do funcionamento dos sistemas e processos biologicos"
         },
         {
           "id": "c",
-          "text": "Aplicar apenas medicamentos como unica estrategia, independentemente do contexto"
+          "text": "Conjunto de ossos, articulacoes e musculos que sustenta e movimenta"
         },
         {
           "id": "d",
-          "text": "Assumir que apenas exercícios e sempre a melhor conduta, sem validacao adicional"
+          "text": "Estudo das estruturas do corpo humano, localizacao e relacoes entre orgaos"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q2",
-      "statement": "O sistema circulatório é responsável por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Fisiologia. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Transportar sangue pelo corpo, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Estudo do funcionamento dos sistemas e processos biologicos"
         },
         {
           "id": "b",
-          "text": "Aplicar produzir hormônios como unica estrategia, independentemente do contexto"
+          "text": "Estudo das estruturas do corpo humano, localizacao e relacoes entre orgaos"
         },
         {
           "id": "c",
-          "text": "Assumir que realizar digestão e sempre a melhor conduta, sem validacao adicional"
+          "text": "Conjunto de ossos, articulacoes e musculos que sustenta e movimenta"
         },
         {
           "id": "d",
-          "text": "Priorizar controlar músculos mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Sistema responsavel por troca gasosa entre oxigenio e gas carbonico"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q3",
-      "statement": "O coração pertence ao sistema:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Sistema osteomuscular. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Circulatório, pois atende ao procedimento recomendado para a situacao"
+          "text": "Estudo do funcionamento dos sistemas e processos biologicos"
         },
         {
           "id": "b",
-          "text": "Assumir que digestivo e sempre a melhor conduta, sem validacao adicional"
+          "text": "Estudo das estruturas do corpo humano, localizacao e relacoes entre orgaos"
         },
         {
           "id": "c",
-          "text": "Priorizar respiratório mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Sistema responsavel por troca gasosa entre oxigenio e gas carbonico"
         },
         {
           "id": "d",
-          "text": "Aplicar nervoso como unica estrategia, independentemente do contexto"
+          "text": "Conjunto de ossos, articulacoes e musculos que sustenta e movimenta"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q4",
-      "statement": "O sistema respiratório está relacionado com:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Sistema respiratorio. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Respiração, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Estudo das estruturas do corpo humano, localizacao e relacoes entre orgaos"
         },
         {
           "id": "b",
-          "text": "Priorizar digestão mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Estudo do funcionamento dos sistemas e processos biologicos"
         },
         {
           "id": "c",
-          "text": "Aplicar circulação como unica estrategia, independentemente do contexto"
+          "text": "Sistema responsavel por troca gasosa entre oxigenio e gas carbonico"
         },
         {
           "id": "d",
-          "text": "Assumir que locomoção e sempre a melhor conduta, sem validacao adicional"
+          "text": "Conjunto de ossos, articulacoes e musculos que sustenta e movimenta"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q5",
-      "statement": "Os pulmões são responsáveis por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Sistema digestivo. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Troca de gases, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Estudo do funcionamento dos sistemas e processos biologicos"
         },
         {
           "id": "b",
-          "text": "Aplicar digestão como unica estrategia, independentemente do contexto"
+          "text": "Sistema que transforma alimentos e absorve nutrientes essenciais"
         },
         {
           "id": "c",
-          "text": "Assumir que produção de sangue e sempre a melhor conduta, sem validacao adicional"
+          "text": "Estudo das estruturas do corpo humano, localizacao e relacoes entre orgaos"
         },
         {
           "id": "d",
-          "text": "Priorizar produção de hormônios mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Conjunto de ossos, articulacoes e musculos que sustenta e movimenta"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q6",
-      "statement": "O sistema digestivo é responsável por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Sistema nervoso. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Processar alimentos, pois atende ao procedimento recomendado para a situacao"
+          "text": "Estudo do funcionamento dos sistemas e processos biologicos"
         },
         {
           "id": "b",
-          "text": "Assumir que controlar respiração e sempre a melhor conduta, sem validacao adicional"
+          "text": "Estudo das estruturas do corpo humano, localizacao e relacoes entre orgaos"
         },
         {
           "id": "c",
-          "text": "Priorizar transportar sangue mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Conjunto de ossos, articulacoes e musculos que sustenta e movimenta"
         },
         {
           "id": "d",
-          "text": "Aplicar controlar nervos como unica estrategia, independentemente do contexto"
+          "text": "Sistema que coordena funcoes corporais e respostas a estimulos"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q7",
-      "statement": "O cérebro pertence ao sistema:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Estudo das estruturas do corpo humano, localizacao e relacoes entre orgaos. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Nervoso, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Sistema respiratorio"
         },
         {
           "id": "b",
-          "text": "Priorizar digestivo mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Anatomia"
         },
         {
           "id": "c",
-          "text": "Aplicar circulatório como unica estrategia, independentemente do contexto"
+          "text": "Sistema osteomuscular"
         },
         {
           "id": "d",
-          "text": "Assumir que respiratório e sempre a melhor conduta, sem validacao adicional"
+          "text": "Fisiologia"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q8",
-      "statement": "O sistema nervoso controla:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Estudo do funcionamento dos sistemas e processos biologicos. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "As funções do corpo, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Anatomia"
         },
         {
           "id": "b",
-          "text": "Aplicar apenas digestão como unica estrategia, independentemente do contexto"
+          "text": "Fisiologia"
         },
         {
           "id": "c",
-          "text": "Assumir que apenas circulação e sempre a melhor conduta, sem validacao adicional"
+          "text": "Sistema respiratorio"
         },
         {
           "id": "d",
-          "text": "Priorizar apenas respiração mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Sistema osteomuscular"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q9",
-      "statement": "Os ossos fazem parte do sistema:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Conjunto de ossos, articulacoes e musculos que sustenta e movimenta. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Esquelético, pois atende ao procedimento recomendado para a situacao"
+          "text": "Fisiologia"
         },
         {
           "id": "b",
-          "text": "Assumir que respiratório e sempre a melhor conduta, sem validacao adicional"
+          "text": "Anatomia"
         },
         {
           "id": "c",
-          "text": "Priorizar digestivo mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Sistema respiratorio"
         },
         {
           "id": "d",
-          "text": "Aplicar circulatório como unica estrategia, independentemente do contexto"
+          "text": "Sistema osteomuscular"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q10",
-      "statement": "O corpo humano é formado por vários:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Sistema responsavel por troca gasosa entre oxigenio e gas carbonico. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Sistemas, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Fisiologia"
         },
         {
           "id": "b",
-          "text": "Priorizar máquinas mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Anatomia"
         },
         {
           "id": "c",
-          "text": "Aplicar motores como unica estrategia, independentemente do contexto"
+          "text": "Sistema respiratorio"
         },
         {
           "id": "d",
-          "text": "Assumir que circuitos e sempre a melhor conduta, sem validacao adicional"
+          "text": "Sistema osteomuscular"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     }
   ]
 }

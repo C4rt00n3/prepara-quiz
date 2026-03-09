@@ -1,247 +1,247 @@
 {
-  "title": "Quiz - Atendente de Farmácia",
-  "subject": "Farmácia",
-  "lesson": "Aula 10 - Ética Profissional",
+  "title": "Quiz - Atendente de Farmacia",
+  "subject": "Farmacia",
+  "lesson": "Aula 10 - Asfixia e Emergencias",
   "questions": [
     {
       "id": "q1",
-      "statement": "Ética profissional significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Asfixia. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Agir com responsabilidade e respeito, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Bloqueio parcial ou total da passagem de ar"
         },
         {
           "id": "b",
-          "text": "Priorizar ignorar regras mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Cianose, rebaixamento de consciencia e dificuldade respiratoria intensa"
         },
         {
           "id": "c",
-          "text": "Aplicar buscar lucro apenas como unica estrategia, independentemente do contexto"
+          "text": "Tecnica para expulsar corpo estranho em vitima consciente"
         },
         {
           "id": "d",
-          "text": "Assumir que desrespeitar clientes e sempre a melhor conduta, sem validacao adicional"
+          "text": "Comprometimento da oxigenacao por obstrucao ou falha respiratoria"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q2",
-      "statement": "Sigilo profissional significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Obstrucao de vias aereas. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Guardar informações do cliente, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Comprometimento da oxigenacao por obstrucao ou falha respiratoria"
         },
         {
           "id": "b",
-          "text": "Aplicar divulgar dados como unica estrategia, independentemente do contexto"
+          "text": "Cianose, rebaixamento de consciencia e dificuldade respiratoria intensa"
         },
         {
           "id": "c",
-          "text": "Assumir que contar para colegas e sempre a melhor conduta, sem validacao adicional"
+          "text": "Bloqueio parcial ou total da passagem de ar"
         },
         {
           "id": "d",
-          "text": "Priorizar publicar na internet mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Tecnica para expulsar corpo estranho em vitima consciente"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q3",
-      "statement": "O atendente deve respeitar:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Sinais de gravidade. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Clientes e colegas, pois atende ao procedimento recomendado para a situacao"
+          "text": "Cianose, rebaixamento de consciencia e dificuldade respiratoria intensa"
         },
         {
           "id": "b",
-          "text": "Assumir que somente gerentes e sempre a melhor conduta, sem validacao adicional"
+          "text": "Comprometimento da oxigenacao por obstrucao ou falha respiratoria"
         },
         {
           "id": "c",
-          "text": "Priorizar somente médicos mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Bloqueio parcial ou total da passagem de ar"
         },
         {
           "id": "d",
-          "text": "Aplicar ninguém como unica estrategia, independentemente do contexto"
+          "text": "Tecnica para expulsar corpo estranho em vitima consciente"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "Postura profissional inclui:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Manobra de desobstrucao. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Educação, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Comprometimento da oxigenacao por obstrucao ou falha respiratoria"
         },
         {
           "id": "b",
-          "text": "Priorizar grosseria mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Bloqueio parcial ou total da passagem de ar"
         },
         {
           "id": "c",
-          "text": "Aplicar desinteresse como unica estrategia, independentemente do contexto"
+          "text": "Tecnica para expulsar corpo estranho em vitima consciente"
         },
         {
           "id": "d",
-          "text": "Assumir que desorganização e sempre a melhor conduta, sem validacao adicional"
+          "text": "Cianose, rebaixamento de consciencia e dificuldade respiratoria intensa"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q5",
-      "statement": "Cumprir normas da farmácia é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Afogamento. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Obrigatório, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Evento de insuficiencia respiratoria por submersao ou imersao"
         },
         {
           "id": "b",
-          "text": "Aplicar opcional como unica estrategia, independentemente do contexto"
+          "text": "Bloqueio parcial ou total da passagem de ar"
         },
         {
           "id": "c",
-          "text": "Assumir que desnecessário e sempre a melhor conduta, sem validacao adicional"
+          "text": "Comprometimento da oxigenacao por obstrucao ou falha respiratoria"
         },
         {
           "id": "d",
-          "text": "Priorizar raro mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Cianose, rebaixamento de consciencia e dificuldade respiratoria intensa"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Tratar clientes com respeito demonstra:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Acionamento imediato. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Profissionalismo, pois atende ao procedimento recomendado para a situacao"
+          "text": "Comprometimento da oxigenacao por obstrucao ou falha respiratoria"
         },
         {
           "id": "b",
-          "text": "Assumir que fraqueza e sempre a melhor conduta, sem validacao adicional"
+          "text": "Cianose, rebaixamento de consciencia e dificuldade respiratoria intensa"
         },
         {
           "id": "c",
-          "text": "Priorizar desorganização mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Chamada urgente de suporte especializado em risco de vida"
         },
         {
           "id": "d",
-          "text": "Aplicar desinteresse como unica estrategia, independentemente do contexto"
+          "text": "Bloqueio parcial ou total da passagem de ar"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q7",
-      "statement": "Mentir ao cliente é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Comprometimento da oxigenacao por obstrucao ou falha respiratoria. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Antiético, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Obstrucao de vias aereas"
         },
         {
           "id": "b",
-          "text": "Priorizar aceitável mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Manobra de desobstrucao"
         },
         {
           "id": "c",
-          "text": "Aplicar normal como unica estrategia, independentemente do contexto"
+          "text": "Sinais de gravidade"
         },
         {
           "id": "d",
-          "text": "Assumir que obrigatório e sempre a melhor conduta, sem validacao adicional"
+          "text": "Asfixia"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q8",
-      "statement": "Responsabilidade profissional inclui:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Bloqueio parcial ou total da passagem de ar. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Seguir procedimentos, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Sinais de gravidade"
         },
         {
           "id": "b",
-          "text": "Aplicar ignorar regras como unica estrategia, independentemente do contexto"
+          "text": "Obstrucao de vias aereas"
         },
         {
           "id": "c",
-          "text": "Assumir que desrespeitar colegas e sempre a melhor conduta, sem validacao adicional"
+          "text": "Asfixia"
         },
         {
           "id": "d",
-          "text": "Priorizar criar conflitos mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Manobra de desobstrucao"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q9",
-      "statement": "Pontualidade no trabalho demonstra:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Cianose, rebaixamento de consciencia e dificuldade respiratoria intensa. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Compromisso, pois atende ao procedimento recomendado para a situacao"
+          "text": "Obstrucao de vias aereas"
         },
         {
           "id": "b",
-          "text": "Assumir que desinteresse e sempre a melhor conduta, sem validacao adicional"
+          "text": "Manobra de desobstrucao"
         },
         {
           "id": "c",
-          "text": "Priorizar desorganização mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Sinais de gravidade"
         },
         {
           "id": "d",
-          "text": "Aplicar indisciplina como unica estrategia, independentemente do contexto"
+          "text": "Asfixia"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q10",
-      "statement": "Ética no trabalho melhora:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Tecnica para expulsar corpo estranho em vitima consciente. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Ambiente profissional, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Sinais de gravidade"
         },
         {
           "id": "b",
-          "text": "Priorizar conflitos mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Manobra de desobstrucao"
         },
         {
           "id": "c",
-          "text": "Aplicar problemas como unica estrategia, independentemente do contexto"
+          "text": "Obstrucao de vias aereas"
         },
         {
           "id": "d",
-          "text": "Assumir que desordem e sempre a melhor conduta, sem validacao adicional"
+          "text": "Asfixia"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     }
   ]
 }

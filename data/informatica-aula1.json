@@ -1,247 +1,127 @@
 {
-  "title": "Quiz - Introdução à Informática",
-  "subject": "Informática",
-  "lesson": "Aula 1 - Conceitos Básicos de Informática",
+  "title": "Quiz - Introducao a Informatica",
+  "subject": "Informatica",
+  "lesson": "Aula 1 - Conceitos Basicos de Informatica",
   "questions": [
     {
       "id": "q1",
-      "statement": "O que é informática? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Em um contexto computacional, qual definicao separa corretamente dado de informacao?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Ciência que estuda o tratamento automático da informação, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar uso exclusivo da internet mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar apenas o estudo de hardware como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que programa de computador e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Dado e sempre uma opiniao; informacao e sempre um numero" },
+        { "id": "b", "text": "Dado e um registro bruto; informacao e dado interpretado com contexto" },
+        { "id": "c", "text": "Dado e sinonimo de conhecimento; informacao e sinonimo de software" },
+        { "id": "d", "text": "Nao existe diferenca pratica entre dado e informacao" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q2",
-      "statement": "Qual equipamento é considerado o cérebro do computador? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual combinacao representa corretamente unidade de medida e equivalencia aproximada?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Priorizar monitor mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "b",
-          "text": "CPU, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que teclado e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar mouse mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "1 byte = 4 bits; 1 KB = 100 bytes" },
+        { "id": "b", "text": "1 byte = 8 bits; 1 MB = 1024 KB (padrao binario)" },
+        { "id": "c", "text": "1 bit = 8 bytes; 1 GB = 1000 MB (sempre)" },
+        { "id": "d", "text": "1 TB = 1024 bits; 1 MB = 8 KB" }
       ],
       "correctOptionId": "b"
     },
     {
       "id": "q3",
-      "statement": "Qual dispositivo é usado para digitar textos no computador? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um computador com lentidao ao abrir varios programas, qual acao tende a gerar maior ganho imediato?",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Aplicar mouse como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que monitor e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Teclado, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar impressora como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Trocar monitor por um modelo com maior taxa de atualizacao" },
+        { "id": "b", "text": "Aumentar memoria RAM quando o uso dela esta constantemente no limite" },
+        { "id": "c", "text": "Substituir teclado mecanico por teclado de membrana" },
+        { "id": "d", "text": "Reduzir o brilho da tela para economizar processamento" }
       ],
-      "correctOptionId": "c"
+      "correctOptionId": "b"
     },
     {
       "id": "q4",
-      "statement": "O monitor é um dispositivo de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual afirmacao descreve corretamente a diferenca entre memoria volatil e nao volatil?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Assumir que entrada e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar processamento mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Saída, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que armazenamento e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Memoria volatil preserva dados sem energia; nao volatil perde dados ao desligar" },
+        { "id": "b", "text": "Ambas sempre preservam dados, independentemente de energia" },
+        { "id": "c", "text": "Memoria volatil perde dados sem energia; nao volatil preserva dados" },
+        { "id": "d", "text": "A diferenca depende apenas da marca do componente" }
       ],
       "correctOptionId": "c"
     },
     {
       "id": "q5",
-      "statement": "Qual dispositivo permite mover o cursor na tela? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual componente e considerado principal responsavel pela execucao de instrucoes de programas?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Mouse, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar monitor como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que impressora e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar scanner mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "CPU (processador)" },
+        { "id": "b", "text": "Gabinete" },
+        { "id": "c", "text": "Fonte de alimentacao" },
+        { "id": "d", "text": "Mouse" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Qual componente executa cálculos e processa dados? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Quando comparamos SSD e HDD no uso comum, qual resultado e tecnicamente mais esperado?",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Processador, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que mouse e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar teclado mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar monitor como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "HDD possui menor latencia de acesso que SSD em qualquer cenario" },
+        { "id": "b", "text": "SSD tende a inicializar sistema e apps mais rapido por ter menor latencia" },
+        { "id": "c", "text": "SSD e obrigatoriamente mais barato por GB que HDD" },
+        { "id": "d", "text": "Nao ha diferenca perceptivel entre SSD e HDD em leitura aleatoria" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q7",
-      "statement": "Qual dispositivo imprime documentos? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em logica booleana, qual resultado da expressao (Verdadeiro AND Falso) OR Verdadeiro?",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Impressora, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar mouse mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar monitor como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que hD e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Falso" },
+        { "id": "b", "text": "Verdadeiro" },
+        { "id": "c", "text": "Indeterminado" },
+        { "id": "d", "text": "Depende do sistema operacional" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q8",
-      "statement": "Qual destes é um dispositivo de armazenamento? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual situacao caracteriza melhor um gargalo de processamento?",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "HD, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar mouse como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que teclado e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar monitor mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "CPU proxima de 100% por longos periodos enquanto outros recursos estao folgados" },
+        { "id": "b", "text": "Monitor desligado durante a execucao do sistema" },
+        { "id": "c", "text": "Mouse sem fio com bateria baixa" },
+        { "id": "d", "text": "Uso de wallpaper animado na area de trabalho" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Qual dispositivo pode armazenar e transportar arquivos? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual estrategia de backup reduz perda de dados entre periodos longos e otimiza tempo diario?",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Pendrive, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que monitor e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar mouse mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar teclado como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Apenas backup completo mensal, sem rotina intermediaria" },
+        { "id": "b", "text": "Backup completo inicial e backups incrementais frequentes" },
+        { "id": "c", "text": "Salvar arquivos somente na lixeira para restauracao facil" },
+        { "id": "d", "text": "Confiar apenas em copia manual eventual em pendrive" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q10",
-      "statement": "Qual componente armazena dados temporariamente durante o uso do computador? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Qual afirmacao sobre TI (Tecnologia da Informacao) e mais adequada para ambiente organizacional?",
+      "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Memória RAM, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar impressora mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar mouse como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que scanner e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "TI trata apenas de conserto fisico de computadores" },
+        { "id": "b", "text": "TI integra pessoas, processos e tecnologia para suportar objetivos do negocio" },
+        { "id": "c", "text": "TI e restrita ao uso de internet e redes sociais" },
+        { "id": "d", "text": "TI nao se relaciona com seguranca da informacao" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     }
   ]
 }

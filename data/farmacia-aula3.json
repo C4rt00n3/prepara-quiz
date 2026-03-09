@@ -1,247 +1,247 @@
 {
-  "title": "Quiz - Atendente de Farmácia",
-  "subject": "Saúde",
-  "lesson": "Aula 3 - Doenças Frequentes",
+  "title": "Quiz - Atendente de Farmacia",
+  "subject": "Farmacia",
+  "lesson": "Aula 3 - Doencas Frequentes",
   "questions": [
     {
       "id": "q1",
-      "statement": "A tosse é um mecanismo de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Alergia. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Defesa do organismo, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Resposta exagerada do sistema imune a substancias geralmente inofensivas"
         },
         {
           "id": "b",
-          "text": "Priorizar digestão mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Elevacao persistente da pressao arterial que exige monitoramento clinico"
         },
         {
           "id": "c",
-          "text": "Aplicar circulação como unica estrategia, independentemente do contexto"
+          "text": "Doenca metabolica com alteracao do controle glicemico"
         },
         {
           "id": "d",
-          "text": "Assumir que produção de hormônios e sempre a melhor conduta, sem validacao adicional"
+          "text": "Inflamacao da mucosa nasal com espirros, congestao e coriza"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "A prisão de ventre também é chamada de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Hipertensao. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Constipação, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Doenca metabolica com alteracao do controle glicemico"
         },
         {
           "id": "b",
-          "text": "Aplicar gastrite como unica estrategia, independentemente do contexto"
+          "text": "Elevacao persistente da pressao arterial que exige monitoramento clinico"
         },
         {
           "id": "c",
-          "text": "Assumir que asma e sempre a melhor conduta, sem validacao adicional"
+          "text": "Resposta exagerada do sistema imune a substancias geralmente inofensivas"
         },
         {
           "id": "d",
-          "text": "Priorizar anemia mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Inflamacao da mucosa nasal com espirros, congestao e coriza"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q3",
-      "statement": "As micoses são causadas por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Diabetes. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Fungos, pois atende ao procedimento recomendado para a situacao"
+          "text": "Resposta exagerada do sistema imune a substancias geralmente inofensivas"
         },
         {
           "id": "b",
-          "text": "Assumir que bactérias e sempre a melhor conduta, sem validacao adicional"
+          "text": "Elevacao persistente da pressao arterial que exige monitoramento clinico"
         },
         {
           "id": "c",
-          "text": "Priorizar vírus mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Inflamacao da mucosa nasal com espirros, congestao e coriza"
         },
         {
           "id": "d",
-          "text": "Aplicar protozoários como unica estrategia, independentemente do contexto"
+          "text": "Doenca metabolica com alteracao do controle glicemico"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q4",
-      "statement": "Frieiras são:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Rinite. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Tipo de micose, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Elevacao persistente da pressao arterial que exige monitoramento clinico"
         },
         {
           "id": "b",
-          "text": "Priorizar tipo de vírus mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Doenca metabolica com alteracao do controle glicemico"
         },
         {
           "id": "c",
-          "text": "Aplicar tipo de bactéria como unica estrategia, independentemente do contexto"
+          "text": "Inflamacao da mucosa nasal com espirros, congestao e coriza"
         },
         {
           "id": "d",
-          "text": "Assumir que tipo de alergia e sempre a melhor conduta, sem validacao adicional"
+          "text": "Resposta exagerada do sistema imune a substancias geralmente inofensivas"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q5",
-      "statement": "A dor de cabeça também é chamada de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Bronquite. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Cefaleia, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Inflamacao dos bronquios com tosse e producao de secrecao"
         },
         {
           "id": "b",
-          "text": "Aplicar hipertensão como unica estrategia, independentemente do contexto"
+          "text": "Doenca metabolica com alteracao do controle glicemico"
         },
         {
           "id": "c",
-          "text": "Assumir que asma e sempre a melhor conduta, sem validacao adicional"
+          "text": "Elevacao persistente da pressao arterial que exige monitoramento clinico"
         },
         {
           "id": "d",
-          "text": "Priorizar gastrite mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Resposta exagerada do sistema imune a substancias geralmente inofensivas"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Uma causa comum de dor de cabeça é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Encaminhamento medico. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Estresse, pois atende ao procedimento recomendado para a situacao"
+          "text": "Resposta exagerada do sistema imune a substancias geralmente inofensivas"
         },
         {
           "id": "b",
-          "text": "Assumir que excesso de água e sempre a melhor conduta, sem validacao adicional"
+          "text": "Orientacao para avaliacao profissional quando houver sinais de gravidade"
         },
         {
           "id": "c",
-          "text": "Priorizar muito descanso mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Elevacao persistente da pressao arterial que exige monitoramento clinico"
         },
         {
           "id": "d",
-          "text": "Aplicar baixo consumo de oxigênio como unica estrategia, independentemente do contexto"
+          "text": "Doenca metabolica com alteracao do controle glicemico"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q7",
-      "statement": "Para prevenir micoses é importante:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Resposta exagerada do sistema imune a substancias geralmente inofensivas. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Manter boa higiene, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Alergia"
         },
         {
           "id": "b",
-          "text": "Priorizar evitar banho mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Hipertensao"
         },
         {
           "id": "c",
-          "text": "Aplicar compartilhar toalhas como unica estrategia, independentemente do contexto"
+          "text": "Rinite"
         },
         {
           "id": "d",
-          "text": "Assumir que usar sapatos molhados e sempre a melhor conduta, sem validacao adicional"
+          "text": "Diabetes"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "A tosse produtiva apresenta:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Elevacao persistente da pressao arterial que exige monitoramento clinico. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Catarro, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Diabetes"
         },
         {
           "id": "b",
-          "text": "Aplicar sangue como unica estrategia, independentemente do contexto"
+          "text": "Rinite"
         },
         {
           "id": "c",
-          "text": "Assumir que ar e sempre a melhor conduta, sem validacao adicional"
+          "text": "Hipertensao"
         },
         {
           "id": "d",
-          "text": "Priorizar nada mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Alergia"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q9",
-      "statement": "Uma boa hidratação ajuda a:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Doenca metabolica com alteracao do controle glicemico. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Melhorar sintomas de tosse, pois atende ao procedimento recomendado para a situacao"
+          "text": "Hipertensao"
         },
         {
           "id": "b",
-          "text": "Assumir que piorar doenças e sempre a melhor conduta, sem validacao adicional"
+          "text": "Rinite"
         },
         {
           "id": "c",
-          "text": "Priorizar diminuir respiração mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Alergia"
         },
         {
           "id": "d",
-          "text": "Aplicar aumentar febre como unica estrategia, independentemente do contexto"
+          "text": "Diabetes"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q10",
-      "statement": "O atendente deve orientar o cliente a:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Inflamacao da mucosa nasal com espirros, congestao e coriza. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Seguir orientação médica, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Hipertensao"
         },
         {
           "id": "b",
-          "text": "Priorizar tomar qualquer remédio mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Alergia"
         },
         {
           "id": "c",
-          "text": "Aplicar misturar medicamentos como unica estrategia, independentemente do contexto"
+          "text": "Diabetes"
         },
         {
           "id": "d",
-          "text": "Assumir que ignorar sintomas e sempre a melhor conduta, sem validacao adicional"
+          "text": "Rinite"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     }
   ]
 }

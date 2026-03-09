@@ -1,244 +1,244 @@
 {
-  "title": "Quiz - Atendente de Farmácia",
-  "subject": "Farmácia",
-  "lesson": "Aula 4 - Armazenamento de Medicamentos",
+  "title": "Quiz - Atendente de Farmacia",
+  "subject": "Farmacia",
+  "lesson": "Aula 4 - Industria Farmaceutica",
   "questions": [
     {
       "id": "q1",
-      "statement": "Medicamentos devem ser armazenados em locais:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Medicamento de referencia. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Limpos e organizados, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Produto com mesmo principio ativo e concentracao, com nome comercial"
         },
         {
           "id": "b",
-          "text": "Priorizar molhados mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Produto bioequivalente ao referencia, identificado pelo principio ativo"
         },
         {
           "id": "c",
-          "text": "Aplicar ao sol como unica estrategia, independentemente do contexto"
+          "text": "Produto com eficacia, seguranca e qualidade comprovadas em registro"
         },
         {
           "id": "d",
-          "text": "Assumir que no chão e sempre a melhor conduta, sem validacao adicional"
+          "text": "Conjunto de unidades produzidas em condicoes equivalentes para rastreabilidade"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q2",
-      "statement": "A exposição ao calor pode:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Medicamento generico. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Priorizar melhorar o medicamento mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Produto com mesmo principio ativo e concentracao, com nome comercial"
         },
         {
           "id": "b",
-          "text": "Alterar sua eficácia, pois atende ao procedimento recomendado para a situacao"
+          "text": "Produto com eficacia, seguranca e qualidade comprovadas em registro"
         },
         {
           "id": "c",
-          "text": "Assumir que não causar efeito e sempre a melhor conduta, sem validacao adicional"
+          "text": "Produto bioequivalente ao referencia, identificado pelo principio ativo"
         },
         {
           "id": "d",
-          "text": "Priorizar aumentar validade mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Conjunto de unidades produzidas em condicoes equivalentes para rastreabilidade"
         }
       ],
-      "correctOptionId": "b"
+      "correctOptionId": "c"
     },
     {
       "id": "q3",
-      "statement": "Medicamentos devem ficar longe de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Medicamento similar. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Umidade, pois atende ao procedimento recomendado para a situacao"
+          "text": "Produto com mesmo principio ativo e concentracao, com nome comercial"
         },
         {
           "id": "b",
-          "text": "Assumir que prateleiras e sempre a melhor conduta, sem validacao adicional"
+          "text": "Conjunto de unidades produzidas em condicoes equivalentes para rastreabilidade"
         },
         {
           "id": "c",
-          "text": "Priorizar caixas mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Produto bioequivalente ao referencia, identificado pelo principio ativo"
         },
         {
           "id": "d",
-          "text": "Aplicar organização como unica estrategia, independentemente do contexto"
+          "text": "Produto com eficacia, seguranca e qualidade comprovadas em registro"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "O controle de estoque ajuda a:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Lote. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Evitar falta de medicamentos, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Produto bioequivalente ao referencia, identificado pelo principio ativo"
         },
         {
           "id": "b",
-          "text": "Priorizar criar bagunça mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Produto com mesmo principio ativo e concentracao, com nome comercial"
         },
         {
           "id": "c",
-          "text": "Aplicar diminuir vendas como unica estrategia, independentemente do contexto"
+          "text": "Produto com eficacia, seguranca e qualidade comprovadas em registro"
         },
         {
           "id": "d",
-          "text": "Assumir que misturar produtos e sempre a melhor conduta, sem validacao adicional"
+          "text": "Conjunto de unidades produzidas em condicoes equivalentes para rastreabilidade"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q5",
-      "statement": "Medicamentos vencidos devem ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Registro sanitario. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Descartados corretamente, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Produto bioequivalente ao referencia, identificado pelo principio ativo"
         },
         {
           "id": "b",
-          "text": "Aplicar vendidos com desconto como unica estrategia, independentemente do contexto"
+          "text": "Produto com eficacia, seguranca e qualidade comprovadas em registro"
         },
         {
           "id": "c",
-          "text": "Assumir que misturados ao estoque e sempre a melhor conduta, sem validacao adicional"
+          "text": "Produto com mesmo principio ativo e concentracao, com nome comercial"
         },
         {
           "id": "d",
-          "text": "Priorizar guardados indefinidamente mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Autorizacao oficial que permite comercializacao de medicamento"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q6",
-      "statement": "Medicamentos refrigerados devem ser guardados:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Farmacovigilancia. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Na geladeira apropriada, pois atende ao procedimento recomendado para a situacao"
+          "text": "Monitoramento de eventos adversos apos comercializacao"
         },
         {
           "id": "b",
-          "text": "Assumir que no freezer e sempre a melhor conduta, sem validacao adicional"
+          "text": "Produto bioequivalente ao referencia, identificado pelo principio ativo"
         },
         {
           "id": "c",
-          "text": "Priorizar ao sol mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Produto com eficacia, seguranca e qualidade comprovadas em registro"
         },
         {
           "id": "d",
-          "text": "Aplicar na prateleira comum como unica estrategia, independentemente do contexto"
+          "text": "Produto com mesmo principio ativo e concentracao, com nome comercial"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "A organização das prateleiras facilita:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Produto com eficacia, seguranca e qualidade comprovadas em registro. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Localização dos medicamentos, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Lote"
         },
         {
           "id": "b",
-          "text": "Priorizar desorganização mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Medicamento similar"
         },
         {
           "id": "c",
-          "text": "Aplicar confusão como unica estrategia, independentemente do contexto"
+          "text": "Medicamento generico"
         },
         {
           "id": "d",
-          "text": "Assumir que erros e sempre a melhor conduta, sem validacao adicional"
+          "text": "Medicamento de referencia"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q8",
-      "statement": "Produtos devem ser organizados por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Produto bioequivalente ao referencia, identificado pelo principio ativo. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Categoria e validade, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Medicamento similar"
         },
         {
           "id": "b",
-          "text": "Aplicar cor como unica estrategia, independentemente do contexto"
+          "text": "Medicamento generico"
         },
         {
           "id": "c",
-          "text": "Assumir que tamanho e sempre a melhor conduta, sem validacao adicional"
+          "text": "Medicamento de referencia"
         },
         {
           "id": "d",
-          "text": "Priorizar formato mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Lote"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q9",
-      "statement": "Temperatura inadequada pode:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Produto com mesmo principio ativo e concentracao, com nome comercial. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Comprometer o medicamento, pois atende ao procedimento recomendado para a situacao"
+          "text": "Medicamento generico"
         },
         {
           "id": "b",
-          "text": "Assumir que melhorar eficácia e sempre a melhor conduta, sem validacao adicional"
+          "text": "Medicamento de referencia"
         },
         {
           "id": "c",
-          "text": "Priorizar aumentar validade mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Medicamento similar"
         },
         {
           "id": "d",
-          "text": "Aplicar não causar efeito como unica estrategia, independentemente do contexto"
+          "text": "Lote"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q10",
-      "statement": "Controle de validade é importante para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Conjunto de unidades produzidas em condicoes equivalentes para rastreabilidade. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Segurança do paciente, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Lote"
         },
         {
           "id": "b",
-          "text": "Priorizar aumentar preço mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Medicamento similar"
         },
         {
           "id": "c",
-          "text": "Aplicar reduzir vendas como unica estrategia, independentemente do contexto"
+          "text": "Medicamento generico"
         },
         {
           "id": "d",
-          "text": "Assumir que criar estoque e sempre a melhor conduta, sem validacao adicional"
+          "text": "Medicamento de referencia"
         }
       ],
       "correctOptionId": "a"

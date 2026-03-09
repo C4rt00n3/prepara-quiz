@@ -1,247 +1,247 @@
 {
-  "title": "Quiz - Atendente de Farmácia",
-  "subject": "Farmácia",
-  "lesson": "Aula 9 - Interpretação de Receitas",
+  "title": "Quiz - Atendente de Farmacia",
+  "subject": "Farmacia",
+  "lesson": "Aula 9 - Transporte e Posicao da Vitima",
   "questions": [
     {
       "id": "q1",
-      "statement": "Receita médica é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Transporte seguro. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Documento de prescrição de medicamentos, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Movimentacao apenas quando necessario e com tecnica para evitar piora"
         },
         {
           "id": "b",
-          "text": "Priorizar nota fiscal mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Checagem de consciencia, respiracao e circulacao antes de deslocar"
         },
         {
           "id": "c",
-          "text": "Aplicar contrato como unica estrategia, independentemente do contexto"
+          "text": "Posicionamento para vitima inconsciente respirando sem trauma suspeito"
         },
         {
           "id": "d",
-          "text": "Assumir que relatório financeiro e sempre a melhor conduta, sem validacao adicional"
+          "text": "Medidas para manter perfusao e reduzir risco de deterioracao"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "Receitas devem conter:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Avaliacao primaria. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Nome do médico, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Checagem de consciencia, respiracao e circulacao antes de deslocar"
         },
         {
           "id": "b",
-          "text": "Aplicar preço do medicamento como unica estrategia, independentemente do contexto"
+          "text": "Movimentacao apenas quando necessario e com tecnica para evitar piora"
         },
         {
           "id": "c",
-          "text": "Assumir que nome da farmácia e sempre a melhor conduta, sem validacao adicional"
+          "text": "Medidas para manter perfusao e reduzir risco de deterioracao"
         },
         {
           "id": "d",
-          "text": "Priorizar cPF do cliente mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Posicionamento para vitima inconsciente respirando sem trauma suspeito"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q3",
-      "statement": "A assinatura do médico serve para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Posicao lateral de seguranca. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Validar a receita, pois atende ao procedimento recomendado para a situacao"
+          "text": "Movimentacao apenas quando necessario e com tecnica para evitar piora"
         },
         {
           "id": "b",
-          "text": "Assumir que enfeitar o documento e sempre a melhor conduta, sem validacao adicional"
+          "text": "Medidas para manter perfusao e reduzir risco de deterioracao"
         },
         {
           "id": "c",
-          "text": "Priorizar controlar preço mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Checagem de consciencia, respiracao e circulacao antes de deslocar"
         },
         {
           "id": "d",
-          "text": "Aplicar indicar desconto como unica estrategia, independentemente do contexto"
+          "text": "Posicionamento para vitima inconsciente respirando sem trauma suspeito"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q4",
-      "statement": "Receitas ilegíveis devem ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Controle de choque. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Confirmadas com o farmacêutico, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Medidas para manter perfusao e reduzir risco de deterioracao"
         },
         {
           "id": "b",
-          "text": "Priorizar ignoradas mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Movimentacao apenas quando necessario e com tecnica para evitar piora"
         },
         {
           "id": "c",
-          "text": "Aplicar vendidas mesmo assim como unica estrategia, independentemente do contexto"
+          "text": "Posicionamento para vitima inconsciente respirando sem trauma suspeito"
         },
         {
           "id": "d",
-          "text": "Assumir que rasgadas e sempre a melhor conduta, sem validacao adicional"
+          "text": "Checagem de consciencia, respiracao e circulacao antes de deslocar"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Receitas de medicamentos controlados têm:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Maca improvisada. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Controle especial, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Alternativa de transporte quando equipamento padrao nao estiver disponivel"
         },
         {
           "id": "b",
-          "text": "Aplicar nenhum controle como unica estrategia, independentemente do contexto"
+          "text": "Posicionamento para vitima inconsciente respirando sem trauma suspeito"
         },
         {
           "id": "c",
-          "text": "Assumir que validade eterna e sempre a melhor conduta, sem validacao adicional"
+          "text": "Movimentacao apenas quando necessario e com tecnica para evitar piora"
         },
         {
           "id": "d",
-          "text": "Priorizar venda livre mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Checagem de consciencia, respiracao e circulacao antes de deslocar"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "O nome do paciente deve estar:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Trabalho coordenado. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Na receita, pois atende ao procedimento recomendado para a situacao"
+          "text": "Posicionamento para vitima inconsciente respirando sem trauma suspeito"
         },
         {
           "id": "b",
-          "text": "Assumir que na caixa e sempre a melhor conduta, sem validacao adicional"
+          "text": "Checagem de consciencia, respiracao e circulacao antes de deslocar"
         },
         {
           "id": "c",
-          "text": "Priorizar no balcão mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Movimentacao apenas quando necessario e com tecnica para evitar piora"
         },
         {
           "id": "d",
-          "text": "Aplicar na nota fiscal como unica estrategia, independentemente do contexto"
+          "text": "Sincronizacao de socorristas para mover a vitima com seguranca"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q7",
-      "statement": "Data da receita indica:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Movimentacao apenas quando necessario e com tecnica para evitar piora. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Validade da prescrição, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Avaliacao primaria"
         },
         {
           "id": "b",
-          "text": "Priorizar preço mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Posicao lateral de seguranca"
         },
         {
           "id": "c",
-          "text": "Aplicar quantidade em estoque como unica estrategia, independentemente do contexto"
+          "text": "Transporte seguro"
         },
         {
           "id": "d",
-          "text": "Assumir que fabricante e sempre a melhor conduta, sem validacao adicional"
+          "text": "Controle de choque"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q8",
-      "statement": "Dose do medicamento indica:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Checagem de consciencia, respiracao e circulacao antes de deslocar. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Quantidade a ser usada, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Posicao lateral de seguranca"
         },
         {
           "id": "b",
-          "text": "Aplicar preço como unica estrategia, independentemente do contexto"
+          "text": "Controle de choque"
         },
         {
           "id": "c",
-          "text": "Assumir que marca e sempre a melhor conduta, sem validacao adicional"
+          "text": "Transporte seguro"
         },
         {
           "id": "d",
-          "text": "Priorizar validade mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Avaliacao primaria"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q9",
-      "statement": "Receitas devem ser guardadas para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Posicionamento para vitima inconsciente respirando sem trauma suspeito. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Controle e fiscalização, pois atende ao procedimento recomendado para a situacao"
+          "text": "Posicao lateral de seguranca"
         },
         {
           "id": "b",
-          "text": "Assumir que decoração e sempre a melhor conduta, sem validacao adicional"
+          "text": "Controle de choque"
         },
         {
           "id": "c",
-          "text": "Priorizar promoção mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Avaliacao primaria"
         },
         {
           "id": "d",
-          "text": "Aplicar marketing como unica estrategia, independentemente do contexto"
+          "text": "Transporte seguro"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "O atendente deve sempre:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Medidas para manter perfusao e reduzir risco de deterioracao. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Seguir orientação do farmacêutico, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Transporte seguro"
         },
         {
           "id": "b",
-          "text": "Priorizar ignorar regras mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Controle de choque"
         },
         {
           "id": "c",
-          "text": "Aplicar alterar receita como unica estrategia, independentemente do contexto"
+          "text": "Avaliacao primaria"
         },
         {
           "id": "d",
-          "text": "Assumir que criar medicamento e sempre a melhor conduta, sem validacao adicional"
+          "text": "Posicao lateral de seguranca"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     }
   ]
 }

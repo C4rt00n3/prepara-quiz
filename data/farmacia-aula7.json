@@ -1,244 +1,244 @@
 {
-  "title": "Quiz - Atendente de Farmácia",
-  "subject": "Farmácia",
-  "lesson": "Aula 7 - Atendimento ao Cliente",
+  "title": "Quiz - Atendente de Farmacia",
+  "subject": "Farmacia",
+  "lesson": "Aula 7 - Comprimidos e Capsulas",
   "questions": [
     {
       "id": "q1",
-      "statement": "Um bom atendimento começa com:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Comprimido. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Cumprimentar o cliente, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Nao partir ou abrir quando houver revestimento ou liberacao controlada"
         },
         {
           "id": "b",
-          "text": "Priorizar ignorar o cliente mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Forma farmaceutica solida obtida por compressao de principios ativos e excipientes"
         },
         {
           "id": "c",
-          "text": "Aplicar falar alto como unica estrategia, independentemente do contexto"
+          "text": "Forma farmaceutica com involucro que acondiciona dose unica"
         },
         {
           "id": "d",
-          "text": "Assumir que virar as costas e sempre a melhor conduta, sem validacao adicional"
+          "text": "Substancia sem efeito terapeutico direto usada para estabilidade e forma"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q2",
-      "statement": "Ouvir o cliente é importante para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Capsula. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Entender sua necessidade, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Forma farmaceutica solida obtida por compressao de principios ativos e excipientes"
         },
         {
           "id": "b",
-          "text": "Aplicar ignorar pedidos como unica estrategia, independentemente do contexto"
+          "text": "Substancia sem efeito terapeutico direto usada para estabilidade e forma"
         },
         {
           "id": "c",
-          "text": "Assumir que falar mais e sempre a melhor conduta, sem validacao adicional"
+          "text": "Nao partir ou abrir quando houver revestimento ou liberacao controlada"
         },
         {
           "id": "d",
-          "text": "Priorizar evitar vendas mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Forma farmaceutica com involucro que acondiciona dose unica"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q3",
-      "statement": "Empatia significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Excipiente. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Colocar-se no lugar do outro, pois atende ao procedimento recomendado para a situacao"
+          "text": "Forma farmaceutica com involucro que acondiciona dose unica"
         },
         {
           "id": "b",
-          "text": "Assumir que ignorar pessoas e sempre a melhor conduta, sem validacao adicional"
+          "text": "Nao partir ou abrir quando houver revestimento ou liberacao controlada"
         },
         {
           "id": "c",
-          "text": "Priorizar falar rápido mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Forma farmaceutica solida obtida por compressao de principios ativos e excipientes"
         },
         {
           "id": "d",
-          "text": "Aplicar evitar clientes como unica estrategia, independentemente do contexto"
+          "text": "Substancia sem efeito terapeutico direto usada para estabilidade e forma"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q4",
-      "statement": "Boa comunicação deve ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Integridade da forma. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Clara e educada, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Nao partir ou abrir quando houver revestimento ou liberacao controlada"
         },
         {
           "id": "b",
-          "text": "Priorizar confusa mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Forma farmaceutica solida obtida por compressao de principios ativos e excipientes"
         },
         {
           "id": "c",
-          "text": "Aplicar grosseira como unica estrategia, independentemente do contexto"
+          "text": "Substancia sem efeito terapeutico direto usada para estabilidade e forma"
         },
         {
           "id": "d",
-          "text": "Assumir que silenciosa e sempre a melhor conduta, sem validacao adicional"
+          "text": "Forma farmaceutica com involucro que acondiciona dose unica"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Reclamações devem ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Administracao com agua. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Ouvidas com atenção, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Substancia sem efeito terapeutico direto usada para estabilidade e forma"
         },
         {
           "id": "b",
-          "text": "Aplicar ignoradas como unica estrategia, independentemente do contexto"
+          "text": "Forma farmaceutica solida obtida por compressao de principios ativos e excipientes"
         },
         {
           "id": "c",
-          "text": "Assumir que ridicularizadas e sempre a melhor conduta, sem validacao adicional"
+          "text": "Pratica que reduz risco de interacao com bebidas"
         },
         {
           "id": "d",
-          "text": "Priorizar rejeitadas mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Forma farmaceutica com involucro que acondiciona dose unica"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q6",
-      "statement": "Um cliente satisfeito tende a:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Adesao ao tratamento. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Voltar à farmácia, pois atende ao procedimento recomendado para a situacao"
+          "text": "Cumprimento correto de dose e horario para manter eficacia"
         },
         {
           "id": "b",
-          "text": "Assumir que nunca mais voltar e sempre a melhor conduta, sem validacao adicional"
+          "text": "Forma farmaceutica solida obtida por compressao de principios ativos e excipientes"
         },
         {
           "id": "c",
-          "text": "Priorizar evitar o local mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Substancia sem efeito terapeutico direto usada para estabilidade e forma"
         },
         {
           "id": "d",
-          "text": "Aplicar reclamar sempre como unica estrategia, independentemente do contexto"
+          "text": "Forma farmaceutica com involucro que acondiciona dose unica"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "O atendente deve manter:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Forma farmaceutica solida obtida por compressao de principios ativos e excipientes. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Postura profissional, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Integridade da forma"
         },
         {
           "id": "b",
-          "text": "Priorizar desorganização mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Capsula"
         },
         {
           "id": "c",
-          "text": "Aplicar desinteresse como unica estrategia, independentemente do contexto"
+          "text": "Excipiente"
         },
         {
           "id": "d",
-          "text": "Assumir que falta de respeito e sempre a melhor conduta, sem validacao adicional"
+          "text": "Comprimido"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q8",
-      "statement": "Sorrir durante o atendimento demonstra:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Forma farmaceutica com involucro que acondiciona dose unica. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Cordialidade, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Integridade da forma"
         },
         {
           "id": "b",
-          "text": "Aplicar desprezo como unica estrategia, independentemente do contexto"
+          "text": "Comprimido"
         },
         {
           "id": "c",
-          "text": "Assumir que impaciência e sempre a melhor conduta, sem validacao adicional"
+          "text": "Excipiente"
         },
         {
           "id": "d",
-          "text": "Priorizar indiferença mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Capsula"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q9",
-      "statement": "Respeito ao cliente é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Substancia sem efeito terapeutico direto usada para estabilidade e forma. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Fundamental no atendimento, pois atende ao procedimento recomendado para a situacao"
+          "text": "Comprimido"
         },
         {
           "id": "b",
-          "text": "Assumir que opcional e sempre a melhor conduta, sem validacao adicional"
+          "text": "Integridade da forma"
         },
         {
           "id": "c",
-          "text": "Priorizar desnecessário mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Excipiente"
         },
         {
           "id": "d",
-          "text": "Aplicar raro como unica estrategia, independentemente do contexto"
+          "text": "Capsula"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q10",
-      "statement": "O objetivo do atendimento é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Nao partir ou abrir quando houver revestimento ou liberacao controlada. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Ajudar e orientar o cliente, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Integridade da forma"
         },
         {
           "id": "b",
-          "text": "Priorizar ignorar dúvidas mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Comprimido"
         },
         {
           "id": "c",
-          "text": "Aplicar criar confusão como unica estrategia, independentemente do contexto"
+          "text": "Capsula"
         },
         {
           "id": "d",
-          "text": "Assumir que evitar perguntas e sempre a melhor conduta, sem validacao adicional"
+          "text": "Excipiente"
         }
       ],
       "correctOptionId": "a"

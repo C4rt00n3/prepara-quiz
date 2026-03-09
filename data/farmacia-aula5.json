@@ -1,244 +1,244 @@
 {
-  "title": "Quiz - Atendente de Farmácia",
-  "subject": "Farmácia",
-  "lesson": "Aula 5 - Medicamentos Controlados",
+  "title": "Quiz - Atendente de Farmacia",
+  "subject": "Farmacia",
+  "lesson": "Aula 5 - Bula e Atendimento",
   "questions": [
     {
       "id": "q1",
-      "statement": "Medicamentos controlados são aqueles que:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Indicacao. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Assumir que podem ser vendidos livremente e sempre a melhor conduta, sem validacao adicional"
+          "text": "Situacao clinica para a qual o medicamento e recomendado"
         },
         {
           "id": "b",
-          "text": "Precisam de receita médica para venda, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Condicao em que o uso do medicamento pode trazer risco ao paciente"
         },
         {
           "id": "c",
-          "text": "Aplicar são vendidos em supermercados como unica estrategia, independentemente do contexto"
+          "text": "Alteracao de efeito quando dois medicamentos sao usados juntos"
         },
         {
           "id": "d",
-          "text": "Assumir que não possuem controle e sempre a melhor conduta, sem validacao adicional"
-        }
-      ],
-      "correctOptionId": "b"
-    },
-    {
-      "id": "q2",
-      "statement": "Qual tarja indica medicamento de controle mais rigoroso? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
-      "options": [
-        {
-          "id": "a",
-          "text": "Tarja preta, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar tarja verde como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que tarja azul e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar sem tarja mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Efeito indesejado que pode ocorrer mesmo com uso correto"
         }
       ],
       "correctOptionId": "a"
     },
     {
-      "id": "q3",
-      "statement": "Medicamentos com tarja vermelha indicam:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "id": "q2",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Contraindicacao. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Aplicar venda livre como unica estrategia, independentemente do contexto"
+          "text": "Alteracao de efeito quando dois medicamentos sao usados juntos"
         },
         {
           "id": "b",
-          "text": "Necessidade de receita médica, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Situacao clinica para a qual o medicamento e recomendado"
         },
         {
           "id": "c",
-          "text": "Priorizar produto natural mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Condicao em que o uso do medicamento pode trazer risco ao paciente"
         },
         {
           "id": "d",
-          "text": "Aplicar produto veterinário como unica estrategia, independentemente do contexto"
+          "text": "Efeito indesejado que pode ocorrer mesmo com uso correto"
         }
       ],
-      "correctOptionId": "b"
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Reacao adversa. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Condicao em que o uso do medicamento pode trazer risco ao paciente"
+        },
+        {
+          "id": "b",
+          "text": "Alteracao de efeito quando dois medicamentos sao usados juntos"
+        },
+        {
+          "id": "c",
+          "text": "Efeito indesejado que pode ocorrer mesmo com uso correto"
+        },
+        {
+          "id": "d",
+          "text": "Situacao clinica para a qual o medicamento e recomendado"
+        }
+      ],
+      "correctOptionId": "c"
     },
     {
       "id": "q4",
-      "statement": "Quem deve conferir receitas médicas na farmácia? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Interacao medicamentosa. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Farmacêutico, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Alteracao de efeito quando dois medicamentos sao usados juntos"
         },
         {
           "id": "b",
-          "text": "Priorizar cliente mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Situacao clinica para a qual o medicamento e recomendado"
         },
         {
           "id": "c",
-          "text": "Aplicar entregador como unica estrategia, independentemente do contexto"
+          "text": "Condicao em que o uso do medicamento pode trazer risco ao paciente"
         },
         {
           "id": "d",
-          "text": "Assumir que caixa e sempre a melhor conduta, sem validacao adicional"
+          "text": "Efeito indesejado que pode ocorrer mesmo com uso correto"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Receitas médicas devem ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Posologia. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Guardadas corretamente, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Definicao de dose, intervalo e duracao do tratamento"
         },
         {
           "id": "b",
-          "text": "Aplicar jogadas fora como unica estrategia, independentemente do contexto"
+          "text": "Condicao em que o uso do medicamento pode trazer risco ao paciente"
         },
         {
           "id": "c",
-          "text": "Assumir que ignoradas e sempre a melhor conduta, sem validacao adicional"
+          "text": "Efeito indesejado que pode ocorrer mesmo com uso correto"
         },
         {
           "id": "d",
-          "text": "Priorizar devolvidas sempre mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Situacao clinica para a qual o medicamento e recomendado"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Medicamentos controlados devem ficar:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Orientacao segura. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Separados e sob controle, pois atende ao procedimento recomendado para a situacao"
+          "text": "Comunicacao objetiva sem prescrever nem alterar conduta medica"
         },
         {
           "id": "b",
-          "text": "Assumir que misturados com outros e sempre a melhor conduta, sem validacao adicional"
+          "text": "Condicao em que o uso do medicamento pode trazer risco ao paciente"
         },
         {
           "id": "c",
-          "text": "Priorizar na vitrine mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Situacao clinica para a qual o medicamento e recomendado"
         },
         {
           "id": "d",
-          "text": "Aplicar no caixa como unica estrategia, independentemente do contexto"
+          "text": "Efeito indesejado que pode ocorrer mesmo com uso correto"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q7",
-      "statement": "A venda irregular de medicamentos controlados pode causar:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Situacao clinica para a qual o medicamento e recomendado. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Problemas legais, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Contraindicacao"
         },
         {
           "id": "b",
-          "text": "Priorizar descontos mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Indicacao"
         },
         {
           "id": "c",
-          "text": "Aplicar promoções como unica estrategia, independentemente do contexto"
+          "text": "Reacao adversa"
         },
         {
           "id": "d",
-          "text": "Assumir que nada e sempre a melhor conduta, sem validacao adicional"
+          "text": "Interacao medicamentosa"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q8",
-      "statement": "Quem regulamenta medicamentos no Brasil? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Condicao em que o uso do medicamento pode trazer risco ao paciente. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "ANVISA, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Reacao adversa"
         },
         {
           "id": "b",
-          "text": "Aplicar iNSS como unica estrategia, independentemente do contexto"
+          "text": "Contraindicacao"
         },
         {
           "id": "c",
-          "text": "Assumir que iBGE e sempre a melhor conduta, sem validacao adicional"
+          "text": "Indicacao"
         },
         {
           "id": "d",
-          "text": "Priorizar detran mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Interacao medicamentosa"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q9",
-      "statement": "Receitas devem conter:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Efeito indesejado que pode ocorrer mesmo com uso correto. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Nome do paciente e médico, pois atende ao procedimento recomendado para a situacao"
+          "text": "Indicacao"
         },
         {
           "id": "b",
-          "text": "Assumir que apenas o medicamento e sempre a melhor conduta, sem validacao adicional"
+          "text": "Contraindicacao"
         },
         {
           "id": "c",
-          "text": "Priorizar somente assinatura mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Reacao adversa"
         },
         {
           "id": "d",
-          "text": "Aplicar nada obrigatório como unica estrategia, independentemente do contexto"
+          "text": "Interacao medicamentosa"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q10",
-      "statement": "O atendente deve sempre:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Alteracao de efeito quando dois medicamentos sao usados juntos. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Seguir as normas da farmácia, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Interacao medicamentosa"
         },
         {
           "id": "b",
-          "text": "Priorizar ignorar regras mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Reacao adversa"
         },
         {
           "id": "c",
-          "text": "Aplicar vender sem receita como unica estrategia, independentemente do contexto"
+          "text": "Indicacao"
         },
         {
           "id": "d",
-          "text": "Assumir que alterar prescrições e sempre a melhor conduta, sem validacao adicional"
+          "text": "Contraindicacao"
         }
       ],
       "correctOptionId": "a"

@@ -1,247 +1,247 @@
 {
-  "title": "Quiz - Atendente de Farmácia",
-  "subject": "Saúde",
-  "lesson": "Aula 1 - Introdução ao Curso",
+  "title": "Quiz - Atendente de Farmacia",
+  "subject": "Farmacia",
+  "lesson": "Aula 1 - Introducao ao Curso",
   "questions": [
     {
       "id": "q1",
-      "statement": "Qual é uma das funções do atendente de farmácia? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de ANVISA. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Auxiliar no atendimento ao cliente, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Agencia reguladora que fiscaliza medicamentos e servicos de saude no Brasil"
         },
         {
           "id": "b",
-          "text": "Priorizar realizar cirurgias mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Conduta etica, comunicacao clara e responsabilidade no atendimento"
         },
         {
           "id": "c",
-          "text": "Aplicar prescrever medicamentos como unica estrategia, independentemente do contexto"
+          "text": "Medicamento isento de prescricao vendido diretamente no balcao"
         },
         {
           "id": "d",
-          "text": "Assumir que diagnosticar doenças e sempre a melhor conduta, sem validacao adicional"
+          "text": "Conselho profissional que regulamenta o exercicio farmaceutico no ambito regional"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "O atendente de farmácia deve sempre:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de CRF. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Priorizar ignorar dúvidas do cliente mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Conselho profissional que regulamenta o exercicio farmaceutico no ambito regional"
         },
         {
           "id": "b",
-          "text": "Manter postura profissional, pois atende ao procedimento recomendado para a situacao"
+          "text": "Conduta etica, comunicacao clara e responsabilidade no atendimento"
         },
         {
           "id": "c",
-          "text": "Assumir que indicar qualquer medicamento e sempre a melhor conduta, sem validacao adicional"
+          "text": "Medicamento isento de prescricao vendido diretamente no balcao"
         },
         {
           "id": "d",
-          "text": "Priorizar substituir o médico mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Agencia reguladora que fiscaliza medicamentos e servicos de saude no Brasil"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de OTC. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agencia reguladora que fiscaliza medicamentos e servicos de saude no Brasil"
+        },
+        {
+          "id": "b",
+          "text": "Medicamento isento de prescricao vendido diretamente no balcao"
+        },
+        {
+          "id": "c",
+          "text": "Conselho profissional que regulamenta o exercicio farmaceutico no ambito regional"
+        },
+        {
+          "id": "d",
+          "text": "Conduta etica, comunicacao clara e responsabilidade no atendimento"
         }
       ],
       "correctOptionId": "b"
     },
     {
-      "id": "q3",
-      "statement": "A organização da farmácia é importante porque:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
-      "options": [
-        {
-          "id": "a",
-          "text": "Facilita encontrar medicamentos, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que dificulta o atendimento e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar evita vendas mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar não tem importância como unica estrategia, independentemente do contexto"
-        }
-      ],
-      "correctOptionId": "a"
-    },
-    {
       "id": "q4",
-      "statement": "A ética profissional envolve:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Postura profissional. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Respeito e responsabilidade, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Agencia reguladora que fiscaliza medicamentos e servicos de saude no Brasil"
         },
         {
           "id": "b",
-          "text": "Priorizar desorganização mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Conselho profissional que regulamenta o exercicio farmaceutico no ambito regional"
         },
         {
           "id": "c",
-          "text": "Aplicar mentir ao cliente como unica estrategia, independentemente do contexto"
+          "text": "Medicamento isento de prescricao vendido diretamente no balcao"
         },
         {
           "id": "d",
-          "text": "Assumir que ignorar normas e sempre a melhor conduta, sem validacao adicional"
+          "text": "Conduta etica, comunicacao clara e responsabilidade no atendimento"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q5",
-      "statement": "O atendente de farmácia trabalha principalmente com:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Trabalho em equipe. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Medicamentos e clientes, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Agencia reguladora que fiscaliza medicamentos e servicos de saude no Brasil"
         },
         {
           "id": "b",
-          "text": "Aplicar máquinas industriais como unica estrategia, independentemente do contexto"
+          "text": "Cooperacao entre profissionais para reduzir erros e melhorar o fluxo"
         },
         {
           "id": "c",
-          "text": "Assumir que veículos e sempre a melhor conduta, sem validacao adicional"
+          "text": "Medicamento isento de prescricao vendido diretamente no balcao"
         },
         {
           "id": "d",
-          "text": "Priorizar ferramentas mecânicas mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Conselho profissional que regulamenta o exercicio farmaceutico no ambito regional"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q6",
-      "statement": "A comunicação com o cliente deve ser:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Empatia. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Clara e educada, pois atende ao procedimento recomendado para a situacao"
+          "text": "Conselho profissional que regulamenta o exercicio farmaceutico no ambito regional"
         },
         {
           "id": "b",
-          "text": "Assumir que confusa e sempre a melhor conduta, sem validacao adicional"
+          "text": "Agencia reguladora que fiscaliza medicamentos e servicos de saude no Brasil"
         },
         {
           "id": "c",
-          "text": "Priorizar ignorada mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Capacidade de compreender a necessidade do cliente sem ultrapassar limite tecnico"
         },
         {
           "id": "d",
-          "text": "Aplicar agressiva como unica estrategia, independentemente do contexto"
+          "text": "Medicamento isento de prescricao vendido diretamente no balcao"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q7",
-      "statement": "O atendimento de qualidade envolve:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Agencia reguladora que fiscaliza medicamentos e servicos de saude no Brasil. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Atenção ao cliente, considerando criterios tecnicos e boas praticas do tema"
+          "text": "ANVISA"
         },
         {
           "id": "b",
-          "text": "Priorizar desinteresse mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Postura profissional"
         },
         {
           "id": "c",
-          "text": "Aplicar pressa como unica estrategia, independentemente do contexto"
+          "text": "OTC"
         },
         {
           "id": "d",
-          "text": "Assumir que falta de cuidado e sempre a melhor conduta, sem validacao adicional"
+          "text": "CRF"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "A responsabilidade do atendente inclui:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Conselho profissional que regulamenta o exercicio farmaceutico no ambito regional. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Seguir orientações da farmácia, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Postura profissional"
         },
         {
           "id": "b",
-          "text": "Aplicar ignorar regras como unica estrategia, independentemente do contexto"
+          "text": "CRF"
         },
         {
           "id": "c",
-          "text": "Assumir que criar receitas e sempre a melhor conduta, sem validacao adicional"
+          "text": "OTC"
         },
         {
           "id": "d",
-          "text": "Priorizar substituir farmacêuticos mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "ANVISA"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q9",
-      "statement": "O respeito ao cliente é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Medicamento isento de prescricao vendido diretamente no balcao. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Fundamental, pois atende ao procedimento recomendado para a situacao"
+          "text": "Postura profissional"
         },
         {
           "id": "b",
-          "text": "Assumir que opcional e sempre a melhor conduta, sem validacao adicional"
+          "text": "ANVISA"
         },
         {
           "id": "c",
-          "text": "Priorizar desnecessário mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "OTC"
         },
         {
           "id": "d",
-          "text": "Aplicar irrelevante como unica estrategia, independentemente do contexto"
+          "text": "CRF"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q10",
-      "statement": "O trabalho em equipe na farmácia é importante para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Conduta etica, comunicacao clara e responsabilidade no atendimento. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Melhorar o atendimento, considerando criterios tecnicos e boas praticas do tema"
+          "text": "ANVISA"
         },
         {
           "id": "b",
-          "text": "Priorizar gerar confusão mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Postura profissional"
         },
         {
           "id": "c",
-          "text": "Aplicar diminuir vendas como unica estrategia, independentemente do contexto"
+          "text": "CRF"
         },
         {
           "id": "d",
-          "text": "Assumir que atrasar serviços e sempre a melhor conduta, sem validacao adicional"
+          "text": "OTC"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     }
   ]
 }

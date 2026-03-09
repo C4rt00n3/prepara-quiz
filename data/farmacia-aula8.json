@@ -1,247 +1,247 @@
 {
-  "title": "Quiz - Atendente de Farmácia",
-  "subject": "Farmácia",
-  "lesson": "Aula 8 - Formas Farmacêuticas",
+  "title": "Quiz - Atendente de Farmacia",
+  "subject": "Farmacia",
+  "lesson": "Aula 8 - Primeiros Socorros",
   "questions": [
     {
       "id": "q1",
-      "statement": "Comprimidos são medicamentos em forma:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Avaliacao de cena. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Sólida, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Perda de sangue que exige controle rapido e monitoramento"
         },
         {
           "id": "b",
-          "text": "Priorizar líquida mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Acoes imediatas para manter sinais vitais ate chegada de ajuda especializada"
         },
         {
           "id": "c",
-          "text": "Aplicar gasosa como unica estrategia, independentemente do contexto"
+          "text": "Manobra de reanimacao cardiopulmonar em parada cardiorrespiratoria"
         },
         {
           "id": "d",
-          "text": "Assumir que pastosa e sempre a melhor conduta, sem validacao adicional"
+          "text": "Verificacao inicial de seguranca para socorrista e vitima"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q2",
-      "statement": "Xarope é um medicamento:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Suporte basico. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Líquido, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Acoes imediatas para manter sinais vitais ate chegada de ajuda especializada"
         },
         {
           "id": "b",
-          "text": "Aplicar sólido como unica estrategia, independentemente do contexto"
+          "text": "Manobra de reanimacao cardiopulmonar em parada cardiorrespiratoria"
         },
         {
           "id": "c",
-          "text": "Assumir que em pó e sempre a melhor conduta, sem validacao adicional"
+          "text": "Perda de sangue que exige controle rapido e monitoramento"
         },
         {
           "id": "d",
-          "text": "Priorizar gasoso mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Verificacao inicial de seguranca para socorrista e vitima"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q3",
-      "statement": "Cápsulas possuem medicamento dentro de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Hemorragia. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Facil",
       "options": [
         {
           "id": "a",
-          "text": "Revestimento gelatinoso, pois atende ao procedimento recomendado para a situacao"
+          "text": "Acoes imediatas para manter sinais vitais ate chegada de ajuda especializada"
         },
         {
           "id": "b",
-          "text": "Assumir que plástico e sempre a melhor conduta, sem validacao adicional"
+          "text": "Verificacao inicial de seguranca para socorrista e vitima"
         },
         {
           "id": "c",
-          "text": "Priorizar metal mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Manobra de reanimacao cardiopulmonar em parada cardiorrespiratoria"
         },
         {
           "id": "d",
-          "text": "Aplicar vidro como unica estrategia, independentemente do contexto"
+          "text": "Perda de sangue que exige controle rapido e monitoramento"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q4",
-      "statement": "Pomadas são usadas geralmente:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de RCP. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Na pele, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Manobra de reanimacao cardiopulmonar em parada cardiorrespiratoria"
         },
         {
           "id": "b",
-          "text": "Priorizar por injeção mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Verificacao inicial de seguranca para socorrista e vitima"
         },
         {
           "id": "c",
-          "text": "Aplicar via oral como unica estrategia, independentemente do contexto"
+          "text": "Acoes imediatas para manter sinais vitais ate chegada de ajuda especializada"
         },
         {
           "id": "d",
-          "text": "Assumir que via nasal e sempre a melhor conduta, sem validacao adicional"
+          "text": "Perda de sangue que exige controle rapido e monitoramento"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Injeções são administradas:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Imobilizacao. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Por via intravenosa ou muscular, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Verificacao inicial de seguranca para socorrista e vitima"
         },
         {
           "id": "b",
-          "text": "Aplicar por via oral como unica estrategia, independentemente do contexto"
+          "text": "Acoes imediatas para manter sinais vitais ate chegada de ajuda especializada"
         },
         {
           "id": "c",
-          "text": "Assumir que por mastigação e sempre a melhor conduta, sem validacao adicional"
+          "text": "Estabilizacao de area lesionada para evitar agravamento"
         },
         {
           "id": "d",
-          "text": "Priorizar na pele apenas mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Perda de sangue que exige controle rapido e monitoramento"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q6",
-      "statement": "Medicamentos em gotas são geralmente:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Durante uma auditoria de rotina, a equipe discutiu o conceito de Acionamento de emergencia. Qual alternativa esta tecnicamente correta?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Líquidos, pois atende ao procedimento recomendado para a situacao"
+          "text": "Acoes imediatas para manter sinais vitais ate chegada de ajuda especializada"
         },
         {
           "id": "b",
-          "text": "Assumir que sólidos e sempre a melhor conduta, sem validacao adicional"
+          "text": "Verificacao inicial de seguranca para socorrista e vitima"
         },
         {
           "id": "c",
-          "text": "Priorizar em pó mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Contato rapido com servico especializado ao identificar gravidade"
         },
         {
           "id": "d",
-          "text": "Aplicar gasosos como unica estrategia, independentemente do contexto"
+          "text": "Perda de sangue que exige controle rapido e monitoramento"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q7",
-      "statement": "Cremes são utilizados:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Verificacao inicial de seguranca para socorrista e vitima. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Medio",
       "options": [
         {
           "id": "a",
-          "text": "Na aplicação tópica, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Suporte basico"
         },
         {
           "id": "b",
-          "text": "Priorizar injetável mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Avaliacao de cena"
         },
         {
           "id": "c",
-          "text": "Aplicar via oral como unica estrategia, independentemente do contexto"
+          "text": "RCP"
         },
         {
           "id": "d",
-          "text": "Assumir que via intravenosa e sempre a melhor conduta, sem validacao adicional"
+          "text": "Hemorragia"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q8",
-      "statement": "Supositórios são utilizados:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Acoes imediatas para manter sinais vitais ate chegada de ajuda especializada. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Via retal, por ser a alternativa mais completa e adequada ao contexto apresentado"
+          "text": "Suporte basico"
         },
         {
           "id": "b",
-          "text": "Aplicar via oral como unica estrategia, independentemente do contexto"
+          "text": "RCP"
         },
         {
           "id": "c",
-          "text": "Assumir que via nasal e sempre a melhor conduta, sem validacao adicional"
+          "text": "Avaliacao de cena"
         },
         {
           "id": "d",
-          "text": "Priorizar via ocular mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Hemorragia"
         }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Sprays podem ser usados:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Perda de sangue que exige controle rapido e monitoramento. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Via nasal ou oral, pois atende ao procedimento recomendado para a situacao"
+          "text": "Suporte basico"
         },
         {
           "id": "b",
-          "text": "Assumir que via intravenosa e sempre a melhor conduta, sem validacao adicional"
+          "text": "RCP"
         },
         {
           "id": "c",
-          "text": "Priorizar via retal mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Avaliacao de cena"
         },
         {
           "id": "d",
-          "text": "Aplicar via ocular como unica estrategia, independentemente do contexto"
+          "text": "Hemorragia"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "d"
     },
     {
       "id": "q10",
-      "statement": "Formas farmacêuticas facilitam:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em um cenario pratico, foi observado o seguinte: Manobra de reanimacao cardiopulmonar em parada cardiorrespiratoria. Qual conceito melhor representa essa situacao?",
+      "difficulty": "Dificil",
       "options": [
         {
           "id": "a",
-          "text": "Administração do medicamento, considerando criterios tecnicos e boas praticas do tema"
+          "text": "Avaliacao de cena"
         },
         {
           "id": "b",
-          "text": "Priorizar confusão do paciente mesmo quando houver requisitos tecnicos mais adequados"
+          "text": "Suporte basico"
         },
         {
           "id": "c",
-          "text": "Aplicar erro médico como unica estrategia, independentemente do contexto"
+          "text": "RCP"
         },
         {
           "id": "d",
-          "text": "Assumir que perda do produto e sempre a melhor conduta, sem validacao adicional"
+          "text": "Hemorragia"
         }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     }
   ]
 }

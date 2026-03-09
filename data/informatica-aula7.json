@@ -1,247 +1,127 @@
 {
-  "title": "Quiz - Introdução à Informática",
-  "subject": "Informática",
+  "title": "Quiz - Introducao a Informatica",
+  "subject": "Informatica",
   "lesson": "Aula 7 - Navegadores",
   "questions": [
     {
       "id": "q1",
-      "statement": "Um navegador serve para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual e a funcao principal de um motor de renderizacao (rendering engine) no navegador?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Acessar sites na internet, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar criar programas mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar editar imagens como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que instalar hardware e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Interpretar HTML/CSS e construir a pagina visual exibida ao usuario" },
+        { "id": "b", "text": "Gerenciar exclusivamente conexoes Bluetooth do sistema" },
+        { "id": "c", "text": "Substituir o sistema operacional durante atualizacoes" },
+        { "id": "d", "text": "Executar apenas downloads em segundo plano" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q2",
-      "statement": "Qual destes é um navegador? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Sobre cache de navegador, qual afirmacao e correta?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Mozilla Firefox, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar excel como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que word e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar powerPoint mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "Cache sempre piora desempenho e deve permanecer desativado" },
+        { "id": "b", "text": "Cache armazena recursos para reduzir tempo de carregamento em acessos futuros" },
+        { "id": "c", "text": "Cache so funciona em paginas sem imagens ou scripts" },
+        { "id": "d", "text": "Cache impede qualquer atualizacao de conteudo no servidor" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q3",
-      "statement": "A barra de endereço serve para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual diferenca entre cookie e localStorage e tecnicamente adequada?",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Digitar o endereço do site, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que salvar arquivos e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar criar pastas mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar enviar e-mails como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Cookies nunca sao enviados em requisicoes HTTP; localStorage sempre e enviado" },
+        { "id": "b", "text": "Cookies podem ser enviados ao servidor conforme escopo; localStorage fica no cliente" },
+        { "id": "c", "text": "localStorage e apagado a cada requisicao; cookie e permanente por padrao" },
+        { "id": "d", "text": "Nao ha diferenca de uso entre ambos" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q4",
-      "statement": "Favoritos servem para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Modo de navegacao privada/incognita geralmente:",
+      "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Salvar sites para acesso rápido, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar excluir páginas mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar criar vírus como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que apagar histórico e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Oculta totalmente identidade do usuario para ISP e empregador" },
+        { "id": "b", "text": "Nao grava historico local apos sessao, mas nao torna trafego anonimo na rede" },
+        { "id": "c", "text": "Desativa automaticamente todos os scripts maliciosos da internet" },
+        { "id": "d", "text": "Impede qualquer tipo de rastreamento publicitario em tempo real" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q5",
-      "statement": "Atualizar página significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual risco de seguranca esta associado a instalacao de extensoes sem avaliacao?",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Recarregar o site, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar apagar site como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que salvar página e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar fechar navegador mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "Extensao pode solicitar permissoes excessivas e coletar dados de navegacao" },
+        { "id": "b", "text": "Extensao aumenta automaticamente criptografia de todos os sites" },
+        { "id": "c", "text": "Extensao substitui vulnerabilidades por correcoes oficiais do fabricante" },
+        { "id": "d", "text": "Extensao elimina necessidade de atualizacao do navegador" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q6",
-      "statement": "Abrir nova aba permite:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Ao acessar um site HTTPS, o cadeado no navegador indica principalmente:",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Abrir outro site no mesmo navegador, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que desligar internet e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar excluir histórico mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar fechar navegador como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Que o site e 100% confiavel e livre de fraude" },
+        { "id": "b", "text": "Que existe canal criptografado com certificado valido para aquele dominio" },
+        { "id": "c", "text": "Que o servidor nao pode sofrer indisponibilidade" },
+        { "id": "d", "text": "Que o site nao utiliza cookies ou scripts" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q7",
-      "statement": "O histórico do navegador mostra:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Qual acao melhora seguranca e estabilidade no uso de navegadores em ambiente corporativo?",
+      "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Sites visitados, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar arquivos do computador mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar programas instalados como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que configurações do sistema e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Manter versoes desatualizadas para preservar compatibilidade antiga" },
+        { "id": "b", "text": "Permitir instalacao livre de qualquer extensao por todos os usuarios" },
+        { "id": "c", "text": "Aplicar atualizacoes regulares e controlar politicas de extensoes" },
+        { "id": "d", "text": "Desabilitar verificacao de certificados para acelerar o acesso" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q8",
-      "statement": "Modo anônimo serve para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Em termos de desempenho web, qual metrica avalia tempo ate o primeiro byte da resposta?",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Navegar sem salvar histórico, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar excluir vírus como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que acelerar internet e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar formatar computador mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "TTFB (Time To First Byte)" },
+        { "id": "b", "text": "FPS medio da GPU" },
+        { "id": "c", "text": "MTU da interface de rede" },
+        { "id": "d", "text": "IOPS do disco local isoladamente" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q9",
-      "statement": "Um navegador precisa de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "O bloqueio de pop-ups em navegadores e util porque:",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Internet para acessar sites, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que scanner e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar impressora mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar mouse gamer como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Impede toda publicidade legitima sem excecao" },
+        { "id": "b", "text": "Reduz abertura de janelas maliciosas e melhora experiencia de navegacao" },
+        { "id": "c", "text": "Substitui antivirus e firewall na estacao de trabalho" },
+        { "id": "d", "text": "Desativa automaticamente scripts de terceiros em qualquer pagina" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q10",
-      "statement": "Fechar aba significa:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em diagnostico web, qual recurso nativo do navegador ajuda a inspecionar rede, console e desempenho?",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Encerrar uma página aberta, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar apagar navegador mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar apagar internet como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que excluir sistema e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Gerenciador de tarefas do sistema operacional" },
+        { "id": "b", "text": "Ferramentas de desenvolvedor (DevTools)" },
+        { "id": "c", "text": "Editor de registro do sistema" },
+        { "id": "d", "text": "Assistente de impressao em PDF" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     }
   ]
 }

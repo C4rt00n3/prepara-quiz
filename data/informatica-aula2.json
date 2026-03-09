@@ -1,247 +1,127 @@
 {
-  "title": "Quiz - Introdução à Informática",
-  "subject": "Informática",
+  "title": "Quiz - Introducao a Informatica",
+  "subject": "Informatica",
   "lesson": "Aula 2 - Hardware e Software",
   "questions": [
     {
       "id": "q1",
-      "statement": "Hardware é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual alternativa classifica corretamente os componentes em hardware e software?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Parte física do computador, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar programa de computador mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar arquivo de texto como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que sistema operacional e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Processador e software; navegador e hardware" },
+        { "id": "b", "text": "Memoria RAM e software; sistema operacional e hardware" },
+        { "id": "c", "text": "SSD e hardware; editor de texto e software" },
+        { "id": "d", "text": "Teclado e software; driver e hardware" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q2",
-      "statement": "Software é:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "O firmware de um dispositivo e melhor descrito como:",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Priorizar parte física mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "b",
-          "text": "Programa ou sistema que roda no computador, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que monitor e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar teclado mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "Um aplicativo de escritorio instalado pelo usuario" },
+        { "id": "b", "text": "Software de baixo nivel gravado no hardware para controle basico" },
+        { "id": "c", "text": "Apenas um arquivo temporario criado pelo sistema" },
+        { "id": "d", "text": "Um componente fisico removivel da placa-mae" }
       ],
       "correctOptionId": "b"
     },
     {
       "id": "q3",
-      "statement": "Qual destes é um software? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual e a funcao principal de um driver de dispositivo?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Windows, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que mouse e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar monitor mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar teclado como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Traduzir comandos do sistema operacional para o hardware especifico" },
+        { "id": "b", "text": "Substituir a fonte de alimentacao em caso de oscilacao" },
+        { "id": "c", "text": "Aumentar capacidade fisica de armazenamento do disco" },
+        { "id": "d", "text": "Servir como antivrus nativo do teclado" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q4",
-      "statement": "O Windows é um:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Em virtualizacao, o hipervisor tem papel de:",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Sistema operacional, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar processador mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar disco rígido como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que mouse e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Gerenciar maquinas virtuais e compartilhar recursos fisicos com isolamento" },
+        { "id": "b", "text": "Substituir qualquer sistema operacional convidado automaticamente" },
+        { "id": "c", "text": "Atuar somente como firewall de rede" },
+        { "id": "d", "text": "Converter HDD em SSD por software" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q5",
-      "statement": "Qual destes é hardware? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "medio",
+      "statement": "Qual cenario indica incompatibilidade entre hardware e software?",
+      "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Teclado, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar word como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que excel e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar windows mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "Aplicativo 64 bits instalado em sistema 64 bits com bibliotecas corretas" },
+        { "id": "b", "text": "Sistema operacional reconhecendo todos os drivers necessarios" },
+        { "id": "c", "text": "Programa exigindo instrucao de CPU nao suportada pelo processador" },
+        { "id": "d", "text": "Atualizacao de navegador com cache limpo" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q6",
-      "statement": "O Excel é um:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Sobre memoria RAM e armazenamento secundario, qual afirmacao esta correta?",
+      "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Programa de planilhas, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que sistema operacional e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar disco rígido mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar mouse como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "RAM e nao volatil e substitui o SSD em persistencia" },
+        { "id": "b", "text": "SSD e usado como memoria principal para CPU" },
+        { "id": "c", "text": "RAM armazena dados temporarios de execucao; SSD/HDD armazenam dados persistentes" },
+        { "id": "d", "text": "Nao ha diferenca funcional entre RAM e HDD" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "c"
     },
     {
       "id": "q7",
-      "statement": "O Word é utilizado para:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual componente e mais associado ao processamento grafico paralelo?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Criar documentos, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar criar jogos mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar editar vídeos como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que controlar hardware e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "GPU" },
+        { "id": "b", "text": "NIC" },
+        { "id": "c", "text": "BIOS" },
+        { "id": "d", "text": "PSU" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q8",
-      "statement": "Software de sistema é responsável por:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Em arquitetura de computadores, o barramento de dados e responsavel por:",
       "difficulty": "dificil",
       "options": [
-        {
-          "id": "a",
-          "text": "Gerenciar o computador, por ser a alternativa mais completa e adequada ao contexto apresentado"
-        },
-        {
-          "id": "b",
-          "text": "Aplicar apenas imprimir como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "c",
-          "text": "Assumir que apenas navegar na internet e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "d",
-          "text": "Priorizar apenas digitar textos mesmo quando houver requisitos tecnicos mais adequados"
-        }
+        { "id": "a", "text": "Fornecer energia eletrica para todos os dispositivos USB" },
+        { "id": "b", "text": "Transportar instrucoes e dados entre componentes do sistema" },
+        { "id": "c", "text": "Resfriar a CPU por conveccao forcada" },
+        { "id": "d", "text": "Armazenar backups automaticos da BIOS" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     },
     {
       "id": "q9",
-      "statement": "Qual dos seguintes é um exemplo de software de aplicação? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
-      "difficulty": "dificil",
+      "statement": "Quando um software e classificado como de sistema?",
+      "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Excel, pois atende ao procedimento recomendado para a situacao"
-        },
-        {
-          "id": "b",
-          "text": "Assumir que bIOS e sempre a melhor conduta, sem validacao adicional"
-        },
-        {
-          "id": "c",
-          "text": "Priorizar processador mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "d",
-          "text": "Aplicar hD como unica estrategia, independentemente do contexto"
-        }
+        { "id": "a", "text": "Quando presta servicos basicos para o funcionamento do computador" },
+        { "id": "b", "text": "Quando e usado apenas para jogos online" },
+        { "id": "c", "text": "Quando cria planilhas financeiras" },
+        { "id": "d", "text": "Quando depende de um teclado sem fio" }
       ],
       "correctOptionId": "a"
     },
     {
       "id": "q10",
-      "statement": "Programas de computador são chamados de:? Considere um cenario pratico e escolha a alternativa tecnicamente mais adequada.",
+      "statement": "Qual combinacao representa corretamente software aplicativo?",
       "difficulty": "medio",
       "options": [
-        {
-          "id": "a",
-          "text": "Software, considerando criterios tecnicos e boas praticas do tema"
-        },
-        {
-          "id": "b",
-          "text": "Priorizar hardware mesmo quando houver requisitos tecnicos mais adequados"
-        },
-        {
-          "id": "c",
-          "text": "Aplicar cPU como unica estrategia, independentemente do contexto"
-        },
-        {
-          "id": "d",
-          "text": "Assumir que memória e sempre a melhor conduta, sem validacao adicional"
-        }
+        { "id": "a", "text": "Sistema operacional e firmware de placa-mae" },
+        { "id": "b", "text": "Editor de texto e planilha eletronica" },
+        { "id": "c", "text": "Driver de impressora e gerenciador de boot" },
+        { "id": "d", "text": "UEFI e utilitario de diagnostico de BIOS" }
       ],
-      "correctOptionId": "a"
+      "correctOptionId": "b"
     }
   ]
 }
