@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Administracao - Basico",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 1 - Administracao",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "O que a administracao estuda como ciencia social?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnicas de organizacao, analise, lideranca e controle"
+        },
+        {
+          "id": "b",
+          "text": "somente regras tributarias para empresas"
+        },
+        {
+          "id": "c",
+          "text": "apenas operacoes de compra e venda"
+        },
+        {
+          "id": "d",
+          "text": "exclusivamente calculos de folha de pagamento"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Segundo a apostila, a administracao deve ser relacionada apenas a empresas?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sim, porque toda organizacao e uma empresa"
+        },
+        {
+          "id": "b",
+          "text": "nao, porque pode ser aplicada a qualquer organizacao"
+        },
+        {
+          "id": "c",
+          "text": "sim, desde que tenha fins lucrativos"
+        },
+        {
+          "id": "d",
+          "text": "nao, porque se limita ao setor publico"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Quem e apresentado como pai da Administracao Cientifica?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Max Weber"
+        },
+        {
+          "id": "b",
+          "text": "Peter Drucker"
+        },
+        {
+          "id": "c",
+          "text": "Frederick Taylor"
+        },
+        {
+          "id": "d",
+          "text": "Henri Fayol"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual teoria administrativa tem Henri Fayol como principal referencia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Teoria Classica"
+        },
+        {
+          "id": "b",
+          "text": "Teoria da Contingencia"
+        },
+        {
+          "id": "c",
+          "text": "Teoria das Relacoes Humanas"
+        },
+        {
+          "id": "d",
+          "text": "Teoria do Desenvolvimento Organizacional"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Em que periodo a apostila destaca a grande expansao da administracao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Revolucao Industrial"
+        },
+        {
+          "id": "b",
+          "text": "Idade Media"
+        },
+        {
+          "id": "c",
+          "text": "Era Digital"
+        },
+        {
+          "id": "d",
+          "text": "Periodo Colonial"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Estrategia administrativa refere-se principalmente a:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "rotina de arquivo sem objetivos definidos"
+        },
+        {
+          "id": "b",
+          "text": "planos da alta administracao para alcancar resultados"
+        },
+        {
+          "id": "c",
+          "text": "apenas reducao imediata de custos"
+        },
+        {
+          "id": "d",
+          "text": "substituicao dos lideres da empresa"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

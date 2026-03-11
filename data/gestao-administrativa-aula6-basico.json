@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Qualidade - Basico",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 6 - Qualidade",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "A ISO 9000 e apresentada na apostila como:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "grupo de normas tecnicas para gestao da qualidade"
+        },
+        {
+          "id": "b",
+          "text": "tipo societario empresarial"
+        },
+        {
+          "id": "c",
+          "text": "metodo de arquivamento permanente"
+        },
+        {
+          "id": "d",
+          "text": "modelo de campanha publicitaria"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "O principio foco no cliente afirma que a empresa deve:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "atender necessidades e buscar superar expectativas"
+        },
+        {
+          "id": "b",
+          "text": "ignorar percepcoes do cliente"
+        },
+        {
+          "id": "c",
+          "text": "pensar apenas na producao interna"
+        },
+        {
+          "id": "d",
+          "text": "eliminar o monitoramento"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Melhoria continua deve ser:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "objetivo constante da organizacao"
+        },
+        {
+          "id": "b",
+          "text": "atividade eventual sem planejamento"
+        },
+        {
+          "id": "c",
+          "text": "funcao exclusiva do arquivo"
+        },
+        {
+          "id": "d",
+          "text": "pratica restrita ao setor financeiro"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "O programa 5S surgiu no contexto de reconstrucao do:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Japao"
+        },
+        {
+          "id": "b",
+          "text": "Brasil"
+        },
+        {
+          "id": "c",
+          "text": "Canada"
+        },
+        {
+          "id": "d",
+          "text": "Chile"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Seiri significa:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "senso de utilizacao"
+        },
+        {
+          "id": "b",
+          "text": "senso de limpeza"
+        },
+        {
+          "id": "c",
+          "text": "senso de saude"
+        },
+        {
+          "id": "d",
+          "text": "senso de autodisciplina"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Shitsuke corresponde ao senso de:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "autodisciplina"
+        },
+        {
+          "id": "b",
+          "text": "ordenacao"
+        },
+        {
+          "id": "c",
+          "text": "limpeza"
+        },
+        {
+          "id": "d",
+          "text": "utilizacao"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

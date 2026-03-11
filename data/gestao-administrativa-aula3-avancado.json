@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Funcoes Administrativas - Avancado",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 3 - Funcoes Administrativas",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual sequencia esta mais coerente com a logica das funcoes administrativas estudadas?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "controlar, planejar, desorganizar, arquivar"
+        },
+        {
+          "id": "b",
+          "text": "planejar, organizar, coordenar e controlar"
+        },
+        {
+          "id": "c",
+          "text": "vender, arquivar, motivar e eliminar"
+        },
+        {
+          "id": "d",
+          "text": "registrar, sigilar, restaurar e comunicar"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Se a empresa planeja bem, mas nao distribui recursos e responsabilidades, qual funcao esta deficiente?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "organizar"
+        },
+        {
+          "id": "b",
+          "text": "controlar"
+        },
+        {
+          "id": "c",
+          "text": "fidelizar"
+        },
+        {
+          "id": "d",
+          "text": "redigir"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Uma equipe tem boa estrutura e metas claras, mas os setores atuam de forma desconexa. O problema central aponta para falha de:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "coordenacao"
+        },
+        {
+          "id": "b",
+          "text": "arquivo permanente"
+        },
+        {
+          "id": "c",
+          "text": "nome fantasia"
+        },
+        {
+          "id": "d",
+          "text": "razao social"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "O controle administrativo so faz sentido pleno quando relacionado a:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "padroes e objetivos previamente definidos"
+        },
+        {
+          "id": "b",
+          "text": "criticas publicas ao trabalhador"
+        },
+        {
+          "id": "c",
+          "text": "sigilo ultrassecreto de arquivos"
+        },
+        {
+          "id": "d",
+          "text": "ausencia de indicadores"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Projetos, na perspectiva administrativa, exigem acompanhamento porque:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sao sempre informais e sem risco"
+        },
+        {
+          "id": "b",
+          "text": "possuem objetivos delimitados, recursos e prazos que precisam ser controlados"
+        },
+        {
+          "id": "c",
+          "text": "dispensam organizacao estrutural"
+        },
+        {
+          "id": "d",
+          "text": "substituem toda a rotina da empresa"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "A organizacao estrutural contribui para a eficiencia principalmente ao:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "definir papeis, autoridade e relacoes entre setores"
+        },
+        {
+          "id": "b",
+          "text": "eliminar o planejamento"
+        },
+        {
+          "id": "c",
+          "text": "transformar todo documento em permanente"
+        },
+        {
+          "id": "d",
+          "text": "trocar a estrategia pela improvisacao"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

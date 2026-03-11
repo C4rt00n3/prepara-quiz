@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Empresas e Recursos - Intermediario",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 2 - Empresas e Recursos",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Uma empresa quer registrar oficialmente seu negocio no orgao publico. Qual elemento deve constar nessa identificacao formal?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "nome fantasia apenas"
+        },
+        {
+          "id": "b",
+          "text": "razao social"
+        },
+        {
+          "id": "c",
+          "text": "planejamento estrategico"
+        },
+        {
+          "id": "d",
+          "text": "fluxograma operacional"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Se um cliente conhece a loja por um apelido comercial registrado, ele esta se referindo a:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sociedade anonima"
+        },
+        {
+          "id": "b",
+          "text": "nome fantasia"
+        },
+        {
+          "id": "c",
+          "text": "capital social"
+        },
+        {
+          "id": "d",
+          "text": "organograma"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Na sociedade em nome coletivo, a administracao e destinada principalmente a:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "consultores externos escolhidos pelo mercado"
+        },
+        {
+          "id": "b",
+          "text": "socios da propria sociedade"
+        },
+        {
+          "id": "c",
+          "text": "clientes com maior participacao de compra"
+        },
+        {
+          "id": "d",
+          "text": "qualquer funcionario operacional"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual ferramenta visual ajuda a entender a posicao de cada setor e suas subordinacoes dentro da empresa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "tabela de temporalidade"
+        },
+        {
+          "id": "b",
+          "text": "organograma"
+        },
+        {
+          "id": "c",
+          "text": "protocolo de arquivo"
+        },
+        {
+          "id": "d",
+          "text": "cronograma de reunioes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Ao mapear o caminho de atendimento de um pedido desde o recebimento ate a entrega, a empresa deve usar:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxograma"
+        },
+        {
+          "id": "b",
+          "text": "balancete"
+        },
+        {
+          "id": "c",
+          "text": "ata de reuniao"
+        },
+        {
+          "id": "d",
+          "text": "manual de conduta"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "A administracao de materiais ganha importancia porque precisa lidar com novas tecnicas, novos equipamentos e:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ausencia total de controle"
+        },
+        {
+          "id": "b",
+          "text": "maior complexidade no uso de recursos"
+        },
+        {
+          "id": "c",
+          "text": "substituicao completa do planejamento"
+        },
+        {
+          "id": "d",
+          "text": "fim da necessidade de estoque"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

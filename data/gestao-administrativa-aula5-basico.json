@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Gerenciamento - Basico",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 5 - Gerenciamento",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Lideranca pode ser entendida como a capacidade de:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "influenciar pessoas em direcao a objetivos"
+        },
+        {
+          "id": "b",
+          "text": "arquivar documentos secretos"
+        },
+        {
+          "id": "c",
+          "text": "substituir toda a equipe"
+        },
+        {
+          "id": "d",
+          "text": "eliminar reunioes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Para conduzir bem uma reuniao, a apostila indica a importancia de ter:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "pauta definida"
+        },
+        {
+          "id": "b",
+          "text": "improvisacao total"
+        },
+        {
+          "id": "c",
+          "text": "criticas publicas logo no inicio"
+        },
+        {
+          "id": "d",
+          "text": "ausencia de objetivo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em situacoes de crise, o gestor deve principalmente:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agir com analise e planejamento"
+        },
+        {
+          "id": "b",
+          "text": "ignorar o problema"
+        },
+        {
+          "id": "c",
+          "text": "interromper toda comunicacao"
+        },
+        {
+          "id": "d",
+          "text": "retirar toda responsabilidade da equipe"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Segundo a apostila, elogios publicos podem contribuir para:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "motivacao e produtividade"
+        },
+        {
+          "id": "b",
+          "text": "desorganizacao permanente"
+        },
+        {
+          "id": "c",
+          "text": "eliminacao da lideranca"
+        },
+        {
+          "id": "d",
+          "text": "piora obrigatoria do clima"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Uma critica publica mal conduzida pode gerar:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "desinteresse e humilhacao"
+        },
+        {
+          "id": "b",
+          "text": "melhoria automatica da equipe"
+        },
+        {
+          "id": "c",
+          "text": "controle total do processo"
+        },
+        {
+          "id": "d",
+          "text": "aumento direto de vendas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Oferecer cursos, parcerias e recompensas e uma forma de:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "motivar a equipe"
+        },
+        {
+          "id": "b",
+          "text": "extinguir o planejamento"
+        },
+        {
+          "id": "c",
+          "text": "classificar arquivos"
+        },
+        {
+          "id": "d",
+          "text": "definir razao social"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

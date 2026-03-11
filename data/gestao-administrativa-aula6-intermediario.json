@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Qualidade - Intermediario",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 6 - Qualidade",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Ao medir percepcoes do cliente para verificar se o servico ficou mais eficaz, a empresa esta aplicando qual logica da qualidade?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "monitoramento e analise do sistema de gestao da qualidade"
+        },
+        {
+          "id": "b",
+          "text": "arquivo corrente"
+        },
+        {
+          "id": "c",
+          "text": "classificacao societaria"
+        },
+        {
+          "id": "d",
+          "text": "critica publica da equipe"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual principio da ISO 9000 relaciona decisao eficiente ao uso de dados e informacoes?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "abordagem factual para tomada de decisoes"
+        },
+        {
+          "id": "b",
+          "text": "lideranca por improviso"
+        },
+        {
+          "id": "c",
+          "text": "foco apenas no lucro"
+        },
+        {
+          "id": "d",
+          "text": "sigilo ultrassecreto"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "O planejamento da qualidade precisa assegurar estabelecimento, implementacao, manutencao e:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "melhoria continua do sistema"
+        },
+        {
+          "id": "b",
+          "text": "eliminacao do cliente"
+        },
+        {
+          "id": "c",
+          "text": "ausencia de processos"
+        },
+        {
+          "id": "d",
+          "text": "substituicao da lideranca"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Ao organizar materiais para acesso rapido e reduzir tempo de procura, qual senso do 5S esta em foco?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Seiton, senso de ordenacao"
+        },
+        {
+          "id": "b",
+          "text": "Seiketsu, senso de saude"
+        },
+        {
+          "id": "c",
+          "text": "Shitsuke, senso de autodisciplina"
+        },
+        {
+          "id": "d",
+          "text": "Seiri, senso de utilizacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "O senso de limpeza no 5S nao se limita a limpar, mas tambem envolve:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "capricho e execucao bem feita"
+        },
+        {
+          "id": "b",
+          "text": "somente descarte de documentos"
+        },
+        {
+          "id": "c",
+          "text": "reducao da comunicacao"
+        },
+        {
+          "id": "d",
+          "text": "troca de razao social"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Seiketsu esta ligado principalmente a:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "higiene, saude pessoal e seguranca do trabalho"
+        },
+        {
+          "id": "b",
+          "text": "publicidade e marketing"
+        },
+        {
+          "id": "c",
+          "text": "venda direta"
+        },
+        {
+          "id": "d",
+          "text": "sigilo documental"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

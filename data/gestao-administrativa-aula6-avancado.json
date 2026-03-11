@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Qualidade - Avancado",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 6 - Qualidade",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa expressa melhor a visao sistemica da qualidade apresentada na apostila?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "qualidade depende apenas da inspecao final do produto"
+        },
+        {
+          "id": "b",
+          "text": "qualidade envolve processos inter-relacionados, lideranca, pessoas e melhoria continua"
+        },
+        {
+          "id": "c",
+          "text": "qualidade e responsabilidade exclusiva do setor operacional"
+        },
+        {
+          "id": "d",
+          "text": "qualidade elimina a necessidade de dados"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "O principio de relacionamento com fornecedores visando beneficio mutuo mostra que a qualidade:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "e ampliada quando a cadeia de valor atua de forma interdependente"
+        },
+        {
+          "id": "b",
+          "text": "depende apenas do cliente final"
+        },
+        {
+          "id": "c",
+          "text": "dispensa acordos externos"
+        },
+        {
+          "id": "d",
+          "text": "nao se relaciona com processos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Por que o 5S e tratado como base para a qualidade?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "porque organiza ambiente, materiais, metodos e comportamento das pessoas"
+        },
+        {
+          "id": "b",
+          "text": "porque substitui todas as normas tecnicas"
+        },
+        {
+          "id": "c",
+          "text": "porque serve apenas para limpeza visual"
+        },
+        {
+          "id": "d",
+          "text": "porque elimina a necessidade de lideranca"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Se a empresa aplica os quatro primeiros sensos, mas nao mantem o habito ao longo do tempo, qual senso precisa ser fortalecido?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shitsuke"
+        },
+        {
+          "id": "b",
+          "text": "Seiri"
+        },
+        {
+          "id": "c",
+          "text": "Seiton"
+        },
+        {
+          "id": "d",
+          "text": "Seisou"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "A captacao das percepcoes do cliente, no sistema de qualidade, serve principalmente para:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "verificar conformidade e eficacia do servico prestado"
+        },
+        {
+          "id": "b",
+          "text": "substituir toda medicao interna"
+        },
+        {
+          "id": "c",
+          "text": "definir o nome comercial da empresa"
+        },
+        {
+          "id": "d",
+          "text": "classificar arquivos permanentes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Ao afirmar que o 5S pode virar estilo de vida e pratica empresarial, a apostila destaca seu potencial de:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mudanca cultural e comportamental"
+        },
+        {
+          "id": "b",
+          "text": "uso apenas decorativo"
+        },
+        {
+          "id": "c",
+          "text": "aplicacao restrita ao setor de limpeza"
+        },
+        {
+          "id": "d",
+          "text": "efeito temporario sem impacto em processos"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

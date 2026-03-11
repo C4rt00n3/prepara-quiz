@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Gerenciamento - Avancado",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 5 - Gerenciamento",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual postura melhor representa lideranca administrativa madura segundo a apostila?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "delegar sem acompanhar e criticar em publico"
+        },
+        {
+          "id": "b",
+          "text": "inspirar, orientar, respeitar a equipe e acompanhar resultados"
+        },
+        {
+          "id": "c",
+          "text": "centralizar tudo e evitar ouvir ideias"
+        },
+        {
+          "id": "d",
+          "text": "manter reunioes sem pauta para estimular espontaneidade"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Uma reuniao produtiva depende menos de improviso e mais de:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "objetivo, pauta e conducao disciplinada"
+        },
+        {
+          "id": "b",
+          "text": "fala extensa sem foco"
+        },
+        {
+          "id": "c",
+          "text": "ausencia de registro dos encaminhamentos"
+        },
+        {
+          "id": "d",
+          "text": "participacao apenas do lider"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em cenarios de crise, a empresa que melhor reage e a que:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "combina analise, decisao e capacidade de mobilizar pessoas"
+        },
+        {
+          "id": "b",
+          "text": "abandona o planejamento e espera a situacao passar"
+        },
+        {
+          "id": "c",
+          "text": "evita qualquer comunicacao com a equipe"
+        },
+        {
+          "id": "d",
+          "text": "trata toda critica como motivacao suficiente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "A diferenca central entre elogio publico e critica publica, no texto, esta no efeito sobre:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "motivacao, orgulho e desinteresse do colaborador"
+        },
+        {
+          "id": "b",
+          "text": "validade da razao social"
+        },
+        {
+          "id": "c",
+          "text": "classificacao de arquivos"
+        },
+        {
+          "id": "d",
+          "text": "etapas do 5S"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Recompensas, cursos e reconhecimento funcionam como instrumentos gerenciais porque:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "aumentam o engajamento e alinham esforco com resultado"
+        },
+        {
+          "id": "b",
+          "text": "substituem toda avaliacao de desempenho"
+        },
+        {
+          "id": "c",
+          "text": "eliminam a necessidade de lider"
+        },
+        {
+          "id": "d",
+          "text": "diminuem a importancia da comunicacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Quando o lider reforca que os resultados sao fruto do trabalho da equipe, ele fortalece principalmente:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sentido de pertencimento e compromisso coletivo"
+        },
+        {
+          "id": "b",
+          "text": "competicao destrutiva obrigatoria"
+        },
+        {
+          "id": "c",
+          "text": "isolamento entre setores"
+        },
+        {
+          "id": "d",
+          "text": "sigilo documental"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

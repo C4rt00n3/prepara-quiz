@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Administracao - Avancado",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 1 - Administracao",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Uma organizacao quer combinar padronizacao do trabalho, divisao de responsabilidades e treinamento. Qual teoria melhor sustenta esse desenho?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "administracao cientifica"
+        },
+        {
+          "id": "b",
+          "text": "teoria das relacoes humanas"
+        },
+        {
+          "id": "c",
+          "text": "teoria do desenvolvimento organizacional"
+        },
+        {
+          "id": "d",
+          "text": "teoria arquivistica"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa resume melhor a diferenca enfatizada pela apostila entre Fayol e Taylor?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fayol negava a eficiencia e Taylor focava apenas em salarios"
+        },
+        {
+          "id": "b",
+          "text": "Fayol trabalhou principios gerais de organizacao e Taylor focou tarefas e tempos"
+        },
+        {
+          "id": "c",
+          "text": "Taylor estudou relacoes humanas e Fayol apenas marketing"
+        },
+        {
+          "id": "d",
+          "text": "Nao ha diferenca relevante entre os dois autores"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "A ideia de que nao ha nada absoluto nas organizacoes e que a empresa deve adaptar-se ao ambiente pertence a qual teoria?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "teoria classica"
+        },
+        {
+          "id": "b",
+          "text": "teoria da burocracia"
+        },
+        {
+          "id": "c",
+          "text": "teoria da contingencia"
+        },
+        {
+          "id": "d",
+          "text": "teoria cientifica"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Se a estrategia realizada quase nunca e identica a planejada, a conclusao mais alinhada ao texto e que a gestao deve:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "abandonar o planejamento formal"
+        },
+        {
+          "id": "b",
+          "text": "eliminar controles para ganhar velocidade"
+        },
+        {
+          "id": "c",
+          "text": "ajustar a execucao com analise da realidade e controle estrategico"
+        },
+        {
+          "id": "d",
+          "text": "ignorar o ambiente externo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual conjunto expressa corretamente a logica de formulacao estrategica descrita na apostila?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ameacas internas, custos fixos e folha salarial"
+        },
+        {
+          "id": "b",
+          "text": "pontos fortes e fracos internos combinados com oportunidades e ameacas externas"
+        },
+        {
+          "id": "c",
+          "text": "somente metas de vendas de curto prazo"
+        },
+        {
+          "id": "d",
+          "text": "substituicao da missao por rotinas operacionais"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Quando a apostila afirma que a administracao utiliza conhecimentos de contabilidade, direito, economia e psicologia, ela reforca principalmente o carater:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "interdisciplinar da administracao"
+        },
+        {
+          "id": "b",
+          "text": "estritamente juridico da administracao"
+        },
+        {
+          "id": "c",
+          "text": "exclusivamente contabil da administracao"
+        },
+        {
+          "id": "d",
+          "text": "operacional sem base teorica"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

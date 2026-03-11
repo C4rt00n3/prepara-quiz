@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Funcoes Administrativas - Intermediario",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 3 - Funcoes Administrativas",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Antes de iniciar um novo servico, a equipe define metas, prazos e recursos. Essa pratica pertence a qual funcao?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "planejar"
+        },
+        {
+          "id": "b",
+          "text": "controlar"
+        },
+        {
+          "id": "c",
+          "text": "fidelizar"
+        },
+        {
+          "id": "d",
+          "text": "arquivar"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Uma empresa distribuiu tarefas, definiu setores e alocou pessoas conforme a estrutura. Qual funcao foi aplicada?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "organizar"
+        },
+        {
+          "id": "b",
+          "text": "motivar clientes"
+        },
+        {
+          "id": "c",
+          "text": "preservar documentos"
+        },
+        {
+          "id": "d",
+          "text": "eliminar indicadores"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Quando diferentes setores precisam atuar em sintonia para cumprir uma meta, o gestor deve enfatizar:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "coordenacao"
+        },
+        {
+          "id": "b",
+          "text": "sigilo ultrassecreto"
+        },
+        {
+          "id": "c",
+          "text": "arquivo setorial"
+        },
+        {
+          "id": "d",
+          "text": "nome fantasia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Ao comparar o resultado real com o planejado para corrigir falhas, a empresa esta exercendo:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle"
+        },
+        {
+          "id": "b",
+          "text": "comercializacao"
+        },
+        {
+          "id": "c",
+          "text": "protocolo arquivistico"
+        },
+        {
+          "id": "d",
+          "text": "registro societario"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa representa um exemplo de projeto administrativo?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "implantacao de um novo sistema com prazo e equipe definidos"
+        },
+        {
+          "id": "b",
+          "text": "rotina permanente sem objetivo delimitado"
+        },
+        {
+          "id": "c",
+          "text": "guarda eterna de todo documento produzido"
+        },
+        {
+          "id": "d",
+          "text": "uso de apelido comercial da empresa"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "O planejamento geral se diferencia do planejamento especial porque tende a abranger:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "a organizacao de forma mais ampla"
+        },
+        {
+          "id": "b",
+          "text": "somente um setor operativo isolado"
+        },
+        {
+          "id": "c",
+          "text": "apenas a etapa de arquivo"
+        },
+        {
+          "id": "d",
+          "text": "exclusivamente a area comercial"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

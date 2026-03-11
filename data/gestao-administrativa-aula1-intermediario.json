@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Administracao - Intermediario",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 1 - Administracao",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Uma ONG precisa organizar pessoas e recursos para atingir objetivos comuns. Qual conceito da apostila se aplica melhor?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "administracao como ciencia aplicavel a organizacoes em geral"
+        },
+        {
+          "id": "b",
+          "text": "contabilidade limitada ao controle fiscal"
+        },
+        {
+          "id": "c",
+          "text": "marketing focado em promocao"
+        },
+        {
+          "id": "d",
+          "text": "burocracia como ausencia de regras"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Ao padronizar tarefas para evitar desperdicio de tempo e esforco, a empresa se aproxima de qual ideia?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "teoria das relacoes humanas"
+        },
+        {
+          "id": "b",
+          "text": "administracao cientifica"
+        },
+        {
+          "id": "c",
+          "text": "teoria contingencial"
+        },
+        {
+          "id": "d",
+          "text": "arquivo permanente"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual principio de Fayol e respeitado quando cada funcionario recebe ordens de apenas um chefe?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "equidade"
+        },
+        {
+          "id": "b",
+          "text": "unidade de direcao"
+        },
+        {
+          "id": "c",
+          "text": "unidade de comando"
+        },
+        {
+          "id": "d",
+          "text": "centralizacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "A teoria que destaca a organizacao como sistema aberto, em relacao com o ambiente externo, e a:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "teoria classica"
+        },
+        {
+          "id": "b",
+          "text": "teoria burocratica"
+        },
+        {
+          "id": "c",
+          "text": "teoria das relacoes humanas"
+        },
+        {
+          "id": "d",
+          "text": "teoria da contingencia"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Ao formular estrategia, a empresa deve analisar pontos fortes e fracos de qual ambiente?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ambiente interno"
+        },
+        {
+          "id": "b",
+          "text": "somente ambiente juridico externo"
+        },
+        {
+          "id": "c",
+          "text": "mercado internacional exclusivamente"
+        },
+        {
+          "id": "d",
+          "text": "apenas setor de compras"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Depois de formular estrategias, qual etapa a apostila indica para assegurar os objetivos gerais?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "eliminar a hierarquia"
+        },
+        {
+          "id": "b",
+          "text": "controle estrategico"
+        },
+        {
+          "id": "c",
+          "text": "encerrar a analise interna"
+        },
+        {
+          "id": "d",
+          "text": "substituir o planejamento"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

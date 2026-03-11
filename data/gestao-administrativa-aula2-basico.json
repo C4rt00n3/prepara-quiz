@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Empresas e Recursos - Basico",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 2 - Empresas e Recursos",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Razao social e o registro usado para identificar formalmente:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "o estoque mensal da empresa"
+        },
+        {
+          "id": "b",
+          "text": "a empresa perante os orgaos publicos"
+        },
+        {
+          "id": "c",
+          "text": "apenas o setor comercial"
+        },
+        {
+          "id": "d",
+          "text": "somente o nome de um produto"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Nome fantasia corresponde a:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "nome comercial pelo qual a empresa e conhecida"
+        },
+        {
+          "id": "b",
+          "text": "codigo fiscal de importacao"
+        },
+        {
+          "id": "c",
+          "text": "registro de despesas internas"
+        },
+        {
+          "id": "d",
+          "text": "relatorio anual de vendas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Segundo a apostila, quais tipos sao mais usados na pratica entre as classificacoes empresariais?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sociedade limitada e sociedade anonima"
+        },
+        {
+          "id": "b",
+          "text": "MEI e cooperativa"
+        },
+        {
+          "id": "c",
+          "text": "empresa publica e autarquia"
+        },
+        {
+          "id": "d",
+          "text": "sociedade simples e holding"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "O organograma representa principalmente:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "a estrutura dos setores e suas relacoes"
+        },
+        {
+          "id": "b",
+          "text": "os custos de producao da empresa"
+        },
+        {
+          "id": "c",
+          "text": "o calendario de ferias"
+        },
+        {
+          "id": "d",
+          "text": "o estoque diario da empresa"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "O fluxograma serve para demonstrar:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "a divisao dos lucros entre socios"
+        },
+        {
+          "id": "b",
+          "text": "a sequencia de etapas de um processo"
+        },
+        {
+          "id": "c",
+          "text": "o patrimonio dos administradores"
+        },
+        {
+          "id": "d",
+          "text": "a tabela de cargos e salarios"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "A administracao de recursos de materiais e voltada para:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "controlar e organizar materiais e suprimentos"
+        },
+        {
+          "id": "b",
+          "text": "realizar apenas selecao de pessoal"
+        },
+        {
+          "id": "c",
+          "text": "cuidar exclusivamente da propaganda"
+        },
+        {
+          "id": "d",
+          "text": "definir feriados internos"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Comunicacao - Basico",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 4 - Comunicacao",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "A comunicacao intra-organizacional ocorre:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "dentro da propria organizacao"
+        },
+        {
+          "id": "b",
+          "text": "somente entre empresa e clientes"
+        },
+        {
+          "id": "c",
+          "text": "apenas com fornecedores externos"
+        },
+        {
+          "id": "d",
+          "text": "fora do ambiente de trabalho"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "A comunicacao extra-organizacional acontece quando a empresa se comunica com:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "publicos externos"
+        },
+        {
+          "id": "b",
+          "text": "apenas seu arquivo interno"
+        },
+        {
+          "id": "c",
+          "text": "somente o organograma"
+        },
+        {
+          "id": "d",
+          "text": "exclusivamente o estoque"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Linguagem e expressao adequadas ajudam principalmente a:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tornar a mensagem mais clara"
+        },
+        {
+          "id": "b",
+          "text": "aumentar a burocracia sem necessidade"
+        },
+        {
+          "id": "c",
+          "text": "eliminar o planejamento"
+        },
+        {
+          "id": "d",
+          "text": "substituir o controle"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Redacao comercial deve priorizar:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "clareza, objetividade e adequacao"
+        },
+        {
+          "id": "b",
+          "text": "giria e ambiguidade"
+        },
+        {
+          "id": "c",
+          "text": "frases sem nexo"
+        },
+        {
+          "id": "d",
+          "text": "uso de termos desconectados do contexto"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Regras de portugues na rotina administrativa sao importantes para:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "evitar erros e melhorar a compreensao"
+        },
+        {
+          "id": "b",
+          "text": "substituir a estrategia da empresa"
+        },
+        {
+          "id": "c",
+          "text": "definir capital social"
+        },
+        {
+          "id": "d",
+          "text": "classificar arquivos permanentes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Uma mensagem administrativa precisa, antes de tudo, ser:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "compreensivel para o receptor"
+        },
+        {
+          "id": "b",
+          "text": "longa e rebuscada"
+        },
+        {
+          "id": "c",
+          "text": "cheia de termos tecnicos desnecessarios"
+        },
+        {
+          "id": "d",
+          "text": "ambigua para permitir varias leituras"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

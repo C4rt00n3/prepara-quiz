@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Arquivo - Intermediario",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 8 - Arquivo",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Um documento ainda em uso frequente e ligado a tramitacao do trabalho deve ficar preferencialmente em:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "arquivo corrente"
+        },
+        {
+          "id": "b",
+          "text": "arquivo permanente"
+        },
+        {
+          "id": "c",
+          "text": "arquivo historico externo"
+        },
+        {
+          "id": "d",
+          "text": "lixeira documental"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Documentos guardados temporariamente por precaucao, por razoes legais ou financeiras, pertencem ao:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "arquivo intermediario"
+        },
+        {
+          "id": "b",
+          "text": "arquivo corrente"
+        },
+        {
+          "id": "c",
+          "text": "fluxograma"
+        },
+        {
+          "id": "d",
+          "text": "organograma"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Os documentos produzidos ha mais de 25 anos e preservados pelo valor historico tendem a compor o:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "arquivo permanente"
+        },
+        {
+          "id": "b",
+          "text": "arquivo setorial"
+        },
+        {
+          "id": "c",
+          "text": "arquivo corrente"
+        },
+        {
+          "id": "d",
+          "text": "arquivo de apoio comercial"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Reservado, secreto e ultrassecreto sao classificacoes ligadas aos:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "niveis de sigilo dos documentos"
+        },
+        {
+          "id": "b",
+          "text": "tipos de sociedade empresarial"
+        },
+        {
+          "id": "c",
+          "text": "setores da area comercial"
+        },
+        {
+          "id": "d",
+          "text": "sensos do 5S"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Identificacao de documentos, plano de classificacao e controle de tramites sao etapas de:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "gestao de documentos"
+        },
+        {
+          "id": "b",
+          "text": "motivacao da equipe"
+        },
+        {
+          "id": "c",
+          "text": "comercializacao de produtos"
+        },
+        {
+          "id": "d",
+          "text": "teoria cientifica"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Arquivos perto de cozinha, banheiro ou instalacoes em mau estado representam:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "riscos de deterioracao documental"
+        },
+        {
+          "id": "b",
+          "text": "estrategias de fidelizacao"
+        },
+        {
+          "id": "c",
+          "text": "vantagens do 5S"
+        },
+        {
+          "id": "d",
+          "text": "tipos de lideranca"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

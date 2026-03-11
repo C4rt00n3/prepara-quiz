@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Arquivo - Basico",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 8 - Arquivo",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Arquivo e o conjunto de:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "documentos criados ou recebidos pela empresa ou individuo"
+        },
+        {
+          "id": "b",
+          "text": "produtos vendidos no varejo"
+        },
+        {
+          "id": "c",
+          "text": "regras de marketing digital"
+        },
+        {
+          "id": "d",
+          "text": "tipos societarios do mercado"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Arquivo corrente corresponde a qual fase?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "primeira idade"
+        },
+        {
+          "id": "b",
+          "text": "segunda idade"
+        },
+        {
+          "id": "c",
+          "text": "terceira idade"
+        },
+        {
+          "id": "d",
+          "text": "idade permanente de sigilo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Arquivo intermediario conserva documentos por razoes:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "administrativas, legais ou financeiras"
+        },
+        {
+          "id": "b",
+          "text": "somente esteticas"
+        },
+        {
+          "id": "c",
+          "text": "exclusivamente comerciais"
+        },
+        {
+          "id": "d",
+          "text": "apenas publicitarias"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Documento e qualquer registro de informacao:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "independentemente do formato ou suporte"
+        },
+        {
+          "id": "b",
+          "text": "somente em papel"
+        },
+        {
+          "id": "c",
+          "text": "apenas em meio digital"
+        },
+        {
+          "id": "d",
+          "text": "desde que tenha assinatura publica"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Gestao de documentos envolve:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "administracao, organizacao e controle dos documentos"
+        },
+        {
+          "id": "b",
+          "text": "somente guarda definitiva"
+        },
+        {
+          "id": "c",
+          "text": "apenas descarte imediato"
+        },
+        {
+          "id": "d",
+          "text": "somente digitalizacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "A conservacao preventiva busca:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "interromper o processo de degradacao do documento"
+        },
+        {
+          "id": "b",
+          "text": "acelerar o desgaste do arquivo"
+        },
+        {
+          "id": "c",
+          "text": "eliminar todos os documentos antigos"
+        },
+        {
+          "id": "d",
+          "text": "substituir a classificacao"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

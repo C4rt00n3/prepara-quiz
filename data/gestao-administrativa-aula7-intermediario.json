@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Area Comercial - Intermediario",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 7 - Area Comercial",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Ao decidir qual produto vender e se ele e comercializavel, a empresa esta respondendo qual item do 5W2H?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "What"
+        },
+        {
+          "id": "b",
+          "text": "Where"
+        },
+        {
+          "id": "c",
+          "text": "When"
+        },
+        {
+          "id": "d",
+          "text": "How Much"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Quando a empresa define o motivo pelo qual um produto deve entrar no comercio, ela responde:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Why"
+        },
+        {
+          "id": "b",
+          "text": "Who"
+        },
+        {
+          "id": "c",
+          "text": "How"
+        },
+        {
+          "id": "d",
+          "text": "Where"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Escolher entre loja propria, representantes ou loja virtual corresponde a qual elemento do 5W2H?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Where"
+        },
+        {
+          "id": "b",
+          "text": "What"
+        },
+        {
+          "id": "c",
+          "text": "Who"
+        },
+        {
+          "id": "d",
+          "text": "Why"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Definir publico-alvo por faixa etaria, genero ou perfil de consumo responde a:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Who"
+        },
+        {
+          "id": "b",
+          "text": "When"
+        },
+        {
+          "id": "c",
+          "text": "How Much"
+        },
+        {
+          "id": "d",
+          "text": "What"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Pensar em como produzir e em reduzir custos antes de iniciar a producao responde ao item:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "How"
+        },
+        {
+          "id": "b",
+          "text": "Where"
+        },
+        {
+          "id": "c",
+          "text": "Why"
+        },
+        {
+          "id": "d",
+          "text": "Who"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Conhecer bem o cliente, honrar promessas e buscar diferenciais sao praticas ligadas a:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fidelizacao de clientes"
+        },
+        {
+          "id": "b",
+          "text": "arquivo permanente"
+        },
+        {
+          "id": "c",
+          "text": "teoria burocratica"
+        },
+        {
+          "id": "d",
+          "text": "controle de sigilo"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Comunicacao - Avancado",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 4 - Comunicacao",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual situacao demonstra falha especifica de comunicacao intra-organizacional?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "clientes nao entenderam uma promocao externa"
+        },
+        {
+          "id": "b",
+          "text": "setores internos receberam instrucoes contraditorias sobre o mesmo procedimento"
+        },
+        {
+          "id": "c",
+          "text": "fornecedor atrasou uma entrega por problemas logisticos"
+        },
+        {
+          "id": "d",
+          "text": "concorrente lancou campanha publicitaria"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "A redacao comercial eficiente nao depende apenas de norma culta, mas tambem de:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "adequacao ao objetivo e ao publico da mensagem"
+        },
+        {
+          "id": "b",
+          "text": "aumento do numero de paginas"
+        },
+        {
+          "id": "c",
+          "text": "uso de palavras raras e imprecisas"
+        },
+        {
+          "id": "d",
+          "text": "omissao de informacoes centrais"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Se a mensagem e tecnicamente correta, mas o receptor nao a compreende, o problema principal esta na:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "eficacia comunicacional"
+        },
+        {
+          "id": "b",
+          "text": "classificacao societaria"
+        },
+        {
+          "id": "c",
+          "text": "tabela de temporalidade"
+        },
+        {
+          "id": "d",
+          "text": "gestao de materiais"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "No contexto administrativo, regras de portugues contribuem para seguranca operacional porque:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reduzem interpretacoes equivocadas em ordens, registros e comunicados"
+        },
+        {
+          "id": "b",
+          "text": "substituem a lideranca da equipe"
+        },
+        {
+          "id": "c",
+          "text": "eliminam a necessidade de fluxogramas"
+        },
+        {
+          "id": "d",
+          "text": "dispensam a leitura do documento"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Entre comunicacao interna e externa, o ponto comum mais importante para a administracao e:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "objetividade alinhada a finalidade da mensagem"
+        },
+        {
+          "id": "b",
+          "text": "uso obrigatorio de linguagem coloquial"
+        },
+        {
+          "id": "c",
+          "text": "ausencia de padrao textual"
+        },
+        {
+          "id": "d",
+          "text": "substituicao de registros formais por avisos verbais"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Uma empresa com boa estrategia, mas comunicacao deficiente, tende a sofrer porque:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "os objetivos nao se convertem facilmente em acao coordenada"
+        },
+        {
+          "id": "b",
+          "text": "a estrategia deixa de existir juridicamente"
+        },
+        {
+          "id": "c",
+          "text": "o arquivo permanente vira corrente"
+        },
+        {
+          "id": "d",
+          "text": "o nome fantasia perde validade automatica"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

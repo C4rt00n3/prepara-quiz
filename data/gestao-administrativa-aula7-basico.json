@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Area Comercial - Basico",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 7 - Area Comercial",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "A tecnica 5W2H e usada para:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "planejar acoes e comercializacao"
+        },
+        {
+          "id": "b",
+          "text": "classificar arquivos sigilosos"
+        },
+        {
+          "id": "c",
+          "text": "definir tipos societarios"
+        },
+        {
+          "id": "d",
+          "text": "substituir o organograma"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "No 5W2H, What significa:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "o que"
+        },
+        {
+          "id": "b",
+          "text": "quem"
+        },
+        {
+          "id": "c",
+          "text": "onde"
+        },
+        {
+          "id": "d",
+          "text": "quanto custara"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "No 5W2H, Who corresponde a:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "quem"
+        },
+        {
+          "id": "b",
+          "text": "quando"
+        },
+        {
+          "id": "c",
+          "text": "como"
+        },
+        {
+          "id": "d",
+          "text": "por que"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Fidelizar clientes significa principalmente:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "construir relacao duradoura com o cliente"
+        },
+        {
+          "id": "b",
+          "text": "vender apenas uma vez"
+        },
+        {
+          "id": "c",
+          "text": "eliminar canais de atendimento"
+        },
+        {
+          "id": "d",
+          "text": "reduzir todo contato pos-venda"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Um dos passos para fidelizacao destacados na apostila e:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ter canais de comunicacao eficazes"
+        },
+        {
+          "id": "b",
+          "text": "ignorar promessas feitas ao cliente"
+        },
+        {
+          "id": "c",
+          "text": "esconder diferenciais da empresa"
+        },
+        {
+          "id": "d",
+          "text": "evitar conhecer o cliente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "How Much no 5W2H pergunta:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "quanto custara"
+        },
+        {
+          "id": "b",
+          "text": "por que vender"
+        },
+        {
+          "id": "c",
+          "text": "onde vender"
+        },
+        {
+          "id": "d",
+          "text": "quem comprara"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

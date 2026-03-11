@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Empresas e Recursos - Avancado",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 2 - Empresas e Recursos",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa diferencia corretamente razao social de nome fantasia?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "razao social e o nome comercial; nome fantasia e o registro juridico"
+        },
+        {
+          "id": "b",
+          "text": "razao social identifica formalmente a empresa; nome fantasia identifica comercialmente"
+        },
+        {
+          "id": "c",
+          "text": "ambos possuem exatamente a mesma funcao"
+        },
+        {
+          "id": "d",
+          "text": "nome fantasia substitui qualquer registro oficial"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma sociedade em nome coletivo, o risco empresarial e descrito na apostila como:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "restrito ao administrador provisiorio"
+        },
+        {
+          "id": "b",
+          "text": "preservado apenas para investidores externos"
+        },
+        {
+          "id": "c",
+          "text": "nao preserva nenhum dos socios dos riscos do investimento"
+        },
+        {
+          "id": "d",
+          "text": "integralmente transferido ao setor publico"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Quando a empresa usa organograma e fluxograma em conjunto, ela combina respectivamente:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "estrutura hierarquica e fluxo de processos"
+        },
+        {
+          "id": "b",
+          "text": "custos fixos e despesas variaveis"
+        },
+        {
+          "id": "c",
+          "text": "marketing e arquivamento"
+        },
+        {
+          "id": "d",
+          "text": "controle fiscal e clima organizacional"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "A administracao de recursos de materiais pode ser entendida como subsistema porque:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "atua isoladamente e sem relacao com a empresa"
+        },
+        {
+          "id": "b",
+          "text": "integra o funcionamento da organizacao ao cuidar dos recursos materiais"
+        },
+        {
+          "id": "c",
+          "text": "substitui todos os demais setores"
+        },
+        {
+          "id": "d",
+          "text": "serve apenas para empresas industriais"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Se a empresa melhora o fluxo de suprimentos, reduz faltas e organiza estoques, ela esta aplicando objetivos ligados a:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "gestao de documentos"
+        },
+        {
+          "id": "b",
+          "text": "administracao de recursos de materiais"
+        },
+        {
+          "id": "c",
+          "text": "arquivo intermediario"
+        },
+        {
+          "id": "d",
+          "text": "redacao comercial"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "A afirmacao de que, na pratica, dois tipos societarios sao mais utilizados sugere para o estudante que a materia deve priorizar:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "decoracao aleatoria de siglas"
+        },
+        {
+          "id": "b",
+          "text": "compreensao das formas empresariais mais recorrentes no mercado"
+        },
+        {
+          "id": "c",
+          "text": "abandono da classificacao das empresas"
+        },
+        {
+          "id": "d",
+          "text": "somente empresas sem registro"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

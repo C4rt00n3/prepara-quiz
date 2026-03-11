@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Funcoes Administrativas - Basico",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 3 - Funcoes Administrativas",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual funcao administrativa define previamente objetivos e caminhos de acao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "planejar"
+        },
+        {
+          "id": "b",
+          "text": "arquivar"
+        },
+        {
+          "id": "c",
+          "text": "protocolar"
+        },
+        {
+          "id": "d",
+          "text": "fidelizar"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Organizar significa principalmente:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "distribuir recursos e estruturar atividades"
+        },
+        {
+          "id": "b",
+          "text": "eliminar toda comunicacao formal"
+        },
+        {
+          "id": "c",
+          "text": "atuar apenas no setor comercial"
+        },
+        {
+          "id": "d",
+          "text": "substituir o planejamento"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Coordenar em uma empresa envolve:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "integrar esforcos e harmonizar atividades"
+        },
+        {
+          "id": "b",
+          "text": "arquivar documentos sigilosos"
+        },
+        {
+          "id": "c",
+          "text": "vender produtos ao consumidor final"
+        },
+        {
+          "id": "d",
+          "text": "definir o nome fantasia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Controlar serve para:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "acompanhar resultados e corrigir desvios"
+        },
+        {
+          "id": "b",
+          "text": "registrar apenas entrada de materiais"
+        },
+        {
+          "id": "c",
+          "text": "substituir o lider da equipe"
+        },
+        {
+          "id": "d",
+          "text": "criar novos cargos sociais"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Projetos costumam ter como caracteristica principal:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "prazo e objetivo definidos"
+        },
+        {
+          "id": "b",
+          "text": "duracao infinita e sem meta"
+        },
+        {
+          "id": "c",
+          "text": "foco apenas em arquivos"
+        },
+        {
+          "id": "d",
+          "text": "ausencia de planejamento"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "A organizacao estrutural esta ligada a:",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma como a empresa distribui setores e responsabilidades"
+        },
+        {
+          "id": "b",
+          "text": "lista de produtos vendidos"
+        },
+        {
+          "id": "c",
+          "text": "regras de sigilo documental"
+        },
+        {
+          "id": "d",
+          "text": "higienizacao de arquivos"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Gerenciamento - Intermediario",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 5 - Gerenciamento",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Quando o gestor inspira a equipe e orienta comportamentos para atingir metas, ele esta exercendo:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "lideranca"
+        },
+        {
+          "id": "b",
+          "text": "arquivo setorial"
+        },
+        {
+          "id": "c",
+          "text": "controle fiscal"
+        },
+        {
+          "id": "d",
+          "text": "nome fantasia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "A pauta de reuniao e relevante porque:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "organiza os assuntos e evita dispersao"
+        },
+        {
+          "id": "b",
+          "text": "substitui a ata e o objetivo"
+        },
+        {
+          "id": "c",
+          "text": "dispensa preparacao previa"
+        },
+        {
+          "id": "d",
+          "text": "serve apenas para formalidade sem funcao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma crise administrativa, a atitude mais alinhada ao texto e:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "avaliar cenarios e adotar medidas para preservar a empresa"
+        },
+        {
+          "id": "b",
+          "text": "deixar que cada setor atue sem coordenacao"
+        },
+        {
+          "id": "c",
+          "text": "ocultar totalmente as informacoes da equipe"
+        },
+        {
+          "id": "d",
+          "text": "abandonar os clientes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Por que a apostila desaconselha critica publica ao colaborador?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "porque pode gerar humilhacao e desinteresse"
+        },
+        {
+          "id": "b",
+          "text": "porque elimina a necessidade de feedback"
+        },
+        {
+          "id": "c",
+          "text": "porque toda critica deve ser proibida"
+        },
+        {
+          "id": "d",
+          "text": "porque reduz os documentos da empresa"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Comemorar resultados positivos com a equipe ajuda a:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "reforcar pertencimento e continuidade do bom desempenho"
+        },
+        {
+          "id": "b",
+          "text": "aumentar a burocracia"
+        },
+        {
+          "id": "c",
+          "text": "diminuir a criatividade"
+        },
+        {
+          "id": "d",
+          "text": "substituir o lider"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Incentivar ideias mesmo quando nao sao adotadas contribui para:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "criatividade e engajamento"
+        },
+        {
+          "id": "b",
+          "text": "perda total de autoridade"
+        },
+        {
+          "id": "c",
+          "text": "fim das metas"
+        },
+        {
+          "id": "d",
+          "text": "classificacao documental"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

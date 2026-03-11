@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Arquivo - Avancado",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 8 - Arquivo",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa relaciona corretamente idade documental e finalidade?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "corrente para tramitacao e uso inicial; intermediario para retencao; permanente para guarda historica"
+        },
+        {
+          "id": "b",
+          "text": "corrente para guarda historica; permanente para uso imediato"
+        },
+        {
+          "id": "c",
+          "text": "intermediario para venda ao cliente; corrente para descarte"
+        },
+        {
+          "id": "d",
+          "text": "todas as idades possuem a mesma finalidade"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "O valor administrativo de um documento esta ligado principalmente a:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "informar, fundamentar ou aprovar atos da administracao"
+        },
+        {
+          "id": "b",
+          "text": "apenas comprovar vendas ao consumidor"
+        },
+        {
+          "id": "c",
+          "text": "decorar ambientes de trabalho"
+        },
+        {
+          "id": "d",
+          "text": "substituir todo registro contabil"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "A tabela de temporalidade e importante porque ajuda a:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "definir prazos de guarda e destinacao dos documentos"
+        },
+        {
+          "id": "b",
+          "text": "estabelecer o nome fantasia da empresa"
+        },
+        {
+          "id": "c",
+          "text": "conduzir reunioes comerciais"
+        },
+        {
+          "id": "d",
+          "text": "criar principios da ISO 9000"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Ao dizer que a gestao de documentos busca racionalizacao e eficiencia, a apostila indica que arquivar bem significa:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "controlar criacao, tramitacao, uso e avaliacao documental"
+        },
+        {
+          "id": "b",
+          "text": "guardar tudo sem criterio"
+        },
+        {
+          "id": "c",
+          "text": "eliminar documentos sem base legal"
+        },
+        {
+          "id": "d",
+          "text": "cuidar apenas da limpeza fisica do setor"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual situacao demonstra pratica correta de conservacao preventiva?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "manter ambiente higienizado e controlar condicoes ambientais"
+        },
+        {
+          "id": "b",
+          "text": "armazenar documentos perto de cozinha e umidade"
+        },
+        {
+          "id": "c",
+          "text": "deixar instalacoes eletricas danificadas proximas ao arquivo"
+        },
+        {
+          "id": "d",
+          "text": "dispensar qualquer manutencao predial"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "A gestao documental apoia diretamente a empresa porque:",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "assegura acesso, controle, prova e preservacao da informacao"
+        },
+        {
+          "id": "b",
+          "text": "substitui todas as demais areas administrativas"
+        },
+        {
+          "id": "c",
+          "text": "elimina a necessidade de classificacao"
+        },
+        {
+          "id": "d",
+          "text": "serve apenas a instituicoes publicas"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

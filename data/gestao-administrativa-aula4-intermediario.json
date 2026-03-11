@@ -1,0 +1,152 @@
+{
+  "title": "Quiz - Comunicacao - Intermediario",
+  "subject": "Gestao Administrativa",
+  "lesson": "Aula 4 - Comunicacao",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Quando o RH divulga normas internas aos colaboradores, trata-se de comunicacao:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "intra-organizacional"
+        },
+        {
+          "id": "b",
+          "text": "extra-organizacional"
+        },
+        {
+          "id": "c",
+          "text": "sigilosa permanente"
+        },
+        {
+          "id": "d",
+          "text": "comercial externa"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Uma nota enviada a fornecedores e parceiros e exemplo de comunicacao:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "extra-organizacional"
+        },
+        {
+          "id": "b",
+          "text": "intra-organizacional"
+        },
+        {
+          "id": "c",
+          "text": "apenas arquivistica"
+        },
+        {
+          "id": "d",
+          "text": "estrutural"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Na gestao administrativa, a principal funcao de dominar linguagem e expressao e:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "reduzir ruidos e tornar a transmissao mais eficiente"
+        },
+        {
+          "id": "b",
+          "text": "gerar termos vagos para evitar responsabilidade"
+        },
+        {
+          "id": "c",
+          "text": "impedir a padronizacao documental"
+        },
+        {
+          "id": "d",
+          "text": "eliminar a necessidade de reunioes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Se um comunicado comercial apresenta erros de portugues e ambiguidade, o risco mais direto e:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "falha de entendimento da mensagem"
+        },
+        {
+          "id": "b",
+          "text": "melhoria automatica da lideranca"
+        },
+        {
+          "id": "c",
+          "text": "aumento do controle de estoque"
+        },
+        {
+          "id": "d",
+          "text": "criacao de organograma mais claro"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Ao escrever um e-mail profissional ao cliente, a postura mais adequada segue qual principio?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "clareza e formalidade compativel com o contexto"
+        },
+        {
+          "id": "b",
+          "text": "uso excessivo de abreviacoes informais"
+        },
+        {
+          "id": "c",
+          "text": "frases confusas para parecer tecnico"
+        },
+        {
+          "id": "d",
+          "text": "ausencia de objetivo definido"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "A comunicacao eficaz apoia o trabalho administrativo porque:",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "alinha informacoes, orientacoes e relacoes de trabalho"
+        },
+        {
+          "id": "b",
+          "text": "dispensa o planejamento"
+        },
+        {
+          "id": "c",
+          "text": "torna desnecessario o controle"
+        },
+        {
+          "id": "d",
+          "text": "substitui a organizacao estrutural"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}
