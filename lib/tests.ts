@@ -41,7 +41,16 @@ async function readTestFile(filePath: string): Promise<TestData> {
     throw new Error(`Arquivo de teste invalido: ${path.basename(filePath)}`);
   }
 
-  return parsed;
+  const validQuestions = parsed.questions.filter(isValidQuestion);
+
+  if (validQuestions.length === 0) {
+    throw new Error(`Arquivo sem questoes objetivas validas: ${path.basename(filePath)}`);
+  }
+
+  return {
+    ...parsed,
+    questions: validQuestions,
+  };
 }
 
 /**
@@ -64,6 +73,19 @@ function getLevelOrder(level: TestSummary["level"]) {
     return 1;
   }
   return 2;
+}
+
+function isValidQuestion(question: TestData["questions"][number]) {
+  return (
+    typeof question?.id === "string" &&
+    typeof question.statement === "string" &&
+    typeof question.difficulty === "string" &&
+    Array.isArray(question.options) &&
+    question.options.length > 1 &&
+    question.options.every((option) => typeof option.id === "string" && typeof option.text === "string") &&
+    typeof question.correctOptionId === "string" &&
+    question.options.some((option) => option.id === question.correctOptionId)
+  );
 }
 
 /**

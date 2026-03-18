@@ -34,7 +34,12 @@ export default async function TestPage({ params }: TestPageProps) {
     <div className={styles.wrapper}>
       <div className={styles.topbar}>
         <Link href="/" className={styles.backLink}>
-          Voltar para home
+          <span className={styles.backIcon} aria-hidden="true">
+            <svg viewBox="0 0 24 24" focusable="false">
+              <path d="M12 3.5 3 10.4V21h6.75v-5.25h4.5V21H21V10.4l-9-6.9Z" />
+            </svg>
+          </span>
+          <span>Voltar para o inicio</span>
         </Link>
       </div>
 

@@ -1,4 +1,4 @@
-﻿import { HomeCatalog } from "@/components/home-catalog";
+import { HomeCatalog } from "@/components/home-catalog";
 import { getAllTests } from "@/lib/tests";
 import styles from "@/app/styles/home-page.module.css";
 

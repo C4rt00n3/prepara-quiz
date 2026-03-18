@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ResultCard } from "@/components/result-card";
 import { getAllTests } from "@/lib/tests";
+import type { TestSummary } from "@/types/test";
 import styles from "@/app/styles/result-page.module.css";
 
 type ResultPageProps = {
@@ -11,37 +12,34 @@ type ResultPageProps = {
 
 const MINIMUM_PERCENTAGE_TO_UNLOCK = 70.5;
 
-function getNextLessonSlug(currentSlug: string, allSlugs: string[]) {
-  const slugMatch = currentSlug.match(/^(.*)-aula(\d+)$/i);
-
-  if (!slugMatch) {
-    return null;
-  }
-
-  const [, subjectPrefix, lessonNumber] = slugMatch;
-  const nextLessonNumber = Number.parseInt(lessonNumber, 10) + 1;
-  const nextSlug = `${subjectPrefix}-aula${nextLessonNumber}`;
-
-  return allSlugs.includes(nextSlug) ? nextSlug : null;
+function getLessonNumber(lesson: string) {
+  const match = lesson.match(/aula\s*(\d+)/i);
+  return match ? Number(match[1]) : null;
 }
 
-function getPreviousLessonSlug(currentSlug: string, allSlugs: string[]) {
-  const slugMatch = currentSlug.match(/^(.*)-aula(\d+)$/i);
+function getAdjacentLessonSlug(
+  tests: TestSummary[],
+  currentTest: TestSummary,
+  direction: "next" | "previous",
+) {
+  const currentLessonNumber = getLessonNumber(currentTest.lesson);
 
-  if (!slugMatch) {
+  if (currentLessonNumber === null) {
     return null;
   }
 
-  const [, subjectPrefix, lessonNumber] = slugMatch;
-  const previousLessonNumber = Number.parseInt(lessonNumber, 10) - 1;
+  const sameTrackTests = tests
+    .filter((test) => test.subject === currentTest.subject && test.level === currentTest.level)
+    .sort((a, b) => (getLessonNumber(a.lesson) ?? Number.MAX_SAFE_INTEGER) - (getLessonNumber(b.lesson) ?? Number.MAX_SAFE_INTEGER));
 
-  if (previousLessonNumber <= 0) {
+  const currentIndex = sameTrackTests.findIndex((test) => test.slug === currentTest.slug);
+
+  if (currentIndex === -1) {
     return null;
   }
 
-  const previousSlug = `${subjectPrefix}-aula${previousLessonNumber}`;
-
-  return allSlugs.includes(previousSlug) ? previousSlug : null;
+  const adjacentTest = direction === "next" ? sameTrackTests[currentIndex + 1] : sameTrackTests[currentIndex - 1];
+  return adjacentTest?.slug ?? null;
 }
 
 /**
@@ -72,12 +70,14 @@ export default async function ResultPage({ params, searchParams }: ResultPagePro
 
   const percentage = (score / total) * 100;
   const hasUnlockedNextLesson = percentage >= MINIMUM_PERCENTAGE_TO_UNLOCK;
-  const allSlugs = tests.map((test) => test.slug);
-  const nextLessonSlug = getNextLessonSlug(
-    slug,
-    allSlugs,
-  );
-  const previousLessonSlug = getPreviousLessonSlug(slug, allSlugs);
+  const currentTest = tests.find((test) => test.slug === slug);
+
+  if (!currentTest) {
+    notFound();
+  }
+
+  const nextLessonSlug = getAdjacentLessonSlug(tests, currentTest, "next");
+  const previousLessonSlug = getAdjacentLessonSlug(tests, currentTest, "previous");
 
   return (
     <main className={styles.page}>
@@ -105,8 +105,13 @@ export default async function ResultPage({ params, searchParams }: ResultPagePro
               </p>
             )
           ) : null}
-          <Link href="/" className={styles.primaryButton}>
-            Ir para home
+          <Link href="/" className={styles.homeButton}>
+            <span className={styles.homeButtonIcon} aria-hidden="true">
+              <svg viewBox="0 0 24 24" focusable="false">
+                <path d="M12 3.5 3 10.4V21h6.75v-5.25h4.5V21H21V10.4l-9-6.9Z" />
+              </svg>
+            </span>
+            <span>Voltar para o inicio</span>
           </Link>
         </div>
       </section>
